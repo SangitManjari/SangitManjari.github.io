@@ -1,0 +1,32 @@
+% Preamble for PDF output. The same swara/notation macros that the HTML
+% MathJax config defines, expressed in LaTeX. Wrapping in \ensuremath{...}
+% so bare \tr{S}, \mn{n} outside $...$ no longer triggers
+% "Missing $ inserted" — the bug that's silently auto-recovered in the
+% original Sangīt Manjarī source.
+
+\usepackage{amsmath}
+\usepackage[T1]{fontenc}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{accents}
+\usepackage{longtable}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{ltablex}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{mathpazo}
+
+\keepXColumns
+\newcolumntype{C}{>{\centering\arraybackslash}X}
+
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+\renewcommand{\arraystretch}{1.6}
+
+\newcommand{\um}[1]{\mathrm{#1}}
+\newcommand{\lb}[1]{\ensuremath{\underbrace{\um{#1}}}}
+\newcommand{\sps}[1]{\ensuremath{\um{{}^{#1}}}}
+\newcommand*{\tr}[1]{\ensuremath{\accentset{\mbox{\normalsize\bfseries .}}{\um{#1}}}}
+\newcommand*{\mn}[1]{\ensuremath{\underaccent{\mbox{\normalsize\bfseries .}}{\um{#1}}}}
+\newcommand{\ol}[1]{\={#1}}

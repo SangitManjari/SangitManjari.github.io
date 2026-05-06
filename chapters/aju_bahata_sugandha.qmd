@@ -1,0 +1,125 @@
+---
+title: "Rāg Bahār"
+subtitle: "*āju bahata sugandha*"
+description: "Composition by Raṅganātha, in Tīvrā (Drut)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Raṅganātha &nbsp;·&nbsp; **Tāl:** Tīvrā (Drut)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> āju bahata sugandha pavana sumanda madhura basanta me  
+> hara makura para yutha madhupa madahara nirata kara rava kuñja me
+
+**Antarā**
+
+> kahi koyaliyā kuhu karahi āmuvā ke ḍāra raṅga me  
+> kahi beli cāmeli gulāba gendā campa raṅga biraṅga me
+
+**Sanchārī**
+
+> ita jobana madamātī yuvati jvali rahī bina kāntame  
+> pūkāra ghana hā nātha nātha vihata bhai prāṇāntame
+
+**Ābhog**
+
+> suni śravaṇa rava raṅganātha kahata bacāve nātha kusaṅga me  
+> ehi raṅga ḍhaṅga anaṅga mada so utārī rākha susaṅga me
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tīvrā tāl is a 7-beat cycle divided as **3 + 2 + 2**. Each row below
+shows **two consecutive cycles** side-by-side: the first seven columns
+form one cycle (sam **X** at beat 1, vibhāgs **2** and **3** marking
+beats 4 and 6), and the next seven columns form the following cycle.
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   | **2** |   | **3** |   | **X** |   |   | **2** |   | **3** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $\lb{DN}$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $D$ | $n$ | $\lb{\sps{D}n}$ | $P$ | $m$ |
+| **ā** | **-** | **ju** | **ba** | **ha** | **ta** | **su** | **ga** | **-** | **ndha** | **pa** | **va** | **na** | **su** |
+| $\lb{mm}$ | $P$ | $P$ | $m$ | $P$ | $\lb{\sps{m}g}$ | $\lb{\sps{m}g}$ | $m$ | $D$ | $P$ | $D$ | $-$ | $D$ | $N$ |
+| **ma** | **-** | **nda** | **ma** | **dhu** | **ra** | **ba** | **sa** | **-** | **nta** | **me** | **-** | **ha** | **ra** |
+| $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $n$ | $n$ | $D$ | $D$ |
+| **ma** | **ku** | **ra** | **pa** | **ra** | **yu** | **tha** | **ma** | **dhu** | **pa** | **ma** | **da** | **ha** | **ra** |
+| $D$ | $D$ | $n$ | $P$ | $P$ | $m$ | $m$ | $P$ | $\tr{S}$ | $N$ | $N$ | $\tr{S}$ | $n$ | $D$ |
+| **ni** | **ra** | **ta** | **ka** | **ra** | **ra** | **va** | **ku** | **-** | **ñj** | **me** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   | **2** |   | **3** |   | **X** |   |   | **2** |   | **3** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $N$ | $N$ | $N$ | $N$ | $N$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $N$ |
+| **ka** | **hi** | **ko** | **ya** | **li** | **yā** | **-** | **ku** | **hu** | **ka** | **ra** | **hi** | **ā** | **mu** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $\tr{R}$ | $\tr{g}$ | $\lb{\tr{R}\tr{S}}$ | $N$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $-$ | $D$ | $-$ |
+| **vā** | **-** | **ke** | **ḍā** | **-** | **ra** | **-** | **ra** | **-** | **ṅga** | **me** | **-** | **-** | **-** |
+| $N$ | $N$ | $N$ | $N$ | $N$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $N$ |
+| **ka** | **hi** | **ko** | **ya** | **li** | **yā** | **-** | **ku** | **hu** | **ka** | **ra** | **hi** | **ā** | **mu** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $\tr{R}$ | $\tr{g}$ | $\lb{\tr{R}\tr{S}}$ | $N$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $D$ | $N$ |
+| **vā** | **-** | **ke** | **ḍā** | **-** | **ra** | **-** | **ra** | **-** | **ṅga** | **me** | **-** | **ka** | **hi** |
+| $\tr{S}$ | $\tr{m}$ | $\tr{g}$ | $\tr{g}$ | $\tr{g}$ | $\tr{g}$ | $\tr{g}$ | $\lb{\sps{\tr{m}}\tr{g}}$ | $\tr{m}$ | $\tr{R}$ | $\tr{R}$ | $-$ | $\tr{S}$ | $-$ |
+| **be** | **-** | **li** | **cā** | **me** | **li** | **gu** | **lā** | **-** | **ba** | **gen** | **-** | **dā** | **-** |
+| $\lb{N\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $D$ | $n$ | $P$ | $\tr{S}$ | $N$ | $N$ | $\tr{S}$ | $n$ | $D$ |
+| **ca** | **-** | **mpa** | **ra** | **-** | **ṅga** | **bi** | **ra** | **-** | **ṅga** | **me** | **-** | **-** | **-** |
+
+:::
+
+## Sanchārī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   | **2** |   | **3** |   | **X** |   |   | **2** |   | **3** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $S$ | $S$ | $m$ | $m$ | $m$ | $m$ | $m$ | $m$ | $-$ | $m$ | $m$ | $m$ | $m$ | $m$ |
+| **i** | **ta** | **jo** | **ba** | **na** | **ma** | **da** | **mā** | **-** | **tī** | **yu** | **va** | **ti** | **jva** |
+| $\lb{mm}$ | $P$ | $m$ | $P$ | $-$ | $\lb{\sps{m}g}$ | $\lb{\sps{m}g}$ | $m$ | $D$ | $P$ | $D$ | $-$ | $-$ | $N$ |
+| **li** | **-** | **ra** | **hī** | **-** | **bi** | **na** | **kā** | **-** | **nta** | **me** | **-** | **-** | **pū** |
+| $N$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $n$ | $D$ | $D$ | $n$ | $n$ | $P$ | $P$ |
+| **kā** | **-** | **ra** | **gha** | **na** | **hā** | **-** | **nā** | **-** | **tha** | **nā** | **-** | **tha** | **vi** |
+| $\lb{\sps{m}g}$ | $-$ | $g$ | $g$ | $g$ | $\lb{gm}$ | $P$ | $\lb{gm}$ | $-$ | $R$ | $S$ | $-$ | $-$ | $-$ |
+| **ha** | **-** | **ta** | **bh** | **ai** | **prā** | **-** | **ṇā** | **-** | **nta** | **me** | **-** | **-** | **-** |
+
+:::
+
+## Ābhog {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   | **2** |   | **3** |   | **X** |   |   | **2** |   | **3** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $N$ | $N$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ |
+| **-** | **-** | **-** | **-** | **-** | **su** | **ni** | **śra** | **va** | **ṇa** | **ra** | **va** | **ra** | **ṅga** |
+| $N$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $\tr{R}$ | $\tr{g}$ | $\tr{R}$ | $\tr{S}$ |
+| **nā** | **-** | **tha** | **ka** | **ha** | **ta** | **ba** | **cā** | **-** | **ve** | **nā** | **-** | **tha** | **ku** |
+| $\lb{N\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $N$ | $N$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ |
+| **sa** | **-** | **ṅga** | **me** | **-** | **su** | **ni** | **śra** | **va** | **ṇa** | **ra** | **va** | **ra** | **ṅga** |
+| $N$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $\tr{R}$ | $\tr{g}$ | $\tr{R}$ | $\tr{S}$ |
+| **nā** | **-** | **tha** | **ka** | **ha** | **ta** | **ba** | **cā** | **-** | **ve** | **nā** | **-** | **tha** | **ku** |
+| $\lb{N\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $D$ | $N$ | $\tr{S}$ | $\tr{m}$ | $\tr{g}$ | $\tr{g}$ | $-$ | $\tr{g}$ | $\tr{g}$ |
+| **sa** | **-** | **ṅga** | **me** | **-** | **e** | **hi** | **ra** | **-** | **ṅga** | **ḍha** | **-** | **ṅga** | **a** |
+| $\lb{\sps{\tr{m}}g}$ | $\tr{m}$ | $\tr{R}$ | $\tr{R}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $D$ | $n$ |
+| **na** | **-** | **ṅga** | **ma** | **da** | **so** | **u** | **tā** | **-** | **rī** | **rā** | **-** | **kha** | **su** |
+| $P$ | $\tr{S}$ | $N$ | $N$ | $\tr{S}$ | $n$ | $D$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **sa** | **-** | **ṅga** | **me** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::

@@ -1,0 +1,30 @@
+<!--
+  MathJax 3 configuration. This block must execute BEFORE MathJax loads,
+  which is why we put it in the document <head> via include-in-header.
+  It defines the same custom commands used by the LaTeX preamble so the
+  same `$\lb{RS}$`, `$\tr{S}$`, `$\mn{n}$` syntax works in HTML pages.
+-->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      macros: {
+        // \um{X}  → upright (mathrm) X
+        um:  ["{\\mathrm{#1}}", 1],
+        // \lb{X}  → underbrace of upright X
+        lb:  ["{\\underbrace{\\mathrm{#1}}}", 1],
+        // \sps{X} → superscript with upright X
+        sps: ["{{}^{\\mathrm{#1}}}", 1],
+        // \tr{X}  → upper-octave dot above upright X
+        tr:  ["{\\overset{\\,\\boldsymbol{.}\\,}{\\mathrm{#1}}}", 1],
+        // \mn{X}  → lower-octave dot below upright X
+        mn:  ["{\\underset{\\,\\boldsymbol{.}\\,}{\\mathrm{#1}}}", 1],
+        // \ol{X}  → macron over X (matches LaTeX \={X})
+        ol:  ["{\\bar{#1}}", 1]
+      }
+    },
+    svg: { fontCache: 'global' }
+  };
+</script>

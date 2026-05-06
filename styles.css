@@ -1,0 +1,131 @@
+/* ==========================================================================
+   Sangīt Manjarī — site styles
+   ========================================================================== */
+
+/* Composer / tāl line under the title -------------------------------------- */
+.composer-info {
+  font-size: 1.05rem;
+  color: #555;
+  margin: 0.5rem 0 1.5rem 0;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* Lyrics block ------------------------------------------------------------- */
+.lyrics-block {
+  background: #fafafa;
+  border-left: 3px solid #b08d57;       /* warm gold */
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0 2rem 0;
+  border-radius: 4px;
+}
+.lyrics-block blockquote {
+  margin: 0.25rem 0 0.75rem 0;
+  padding-left: 0.5rem;
+  border-left: none;
+  font-style: italic;
+  color: #333;
+}
+.lyrics-block strong {
+  color: #7a5d2c;
+  letter-spacing: 0.02em;
+}
+
+/* Notation tables ---------------------------------------------------------- */
+.notation-table {
+  overflow-x: auto;          /* horizontal scroll on narrow viewports */
+  margin: 1.5rem 0 2.5rem 0;
+  background: #fff;
+  border: none;              /* Remove outer box border */
+}
+
+.notation-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 1rem;           /* Slightly larger for clarity */
+}
+
+.notation-table thead {
+  background: transparent;   /* Remove beige background */
+}
+
+.notation-table th {
+  font-weight: 600;
+  color: #b08d57;            /* Keep header golden */
+  border-bottom: 2px solid #d8c79f; /* Keep golden underline for header */
+  padding: 0.75rem 0.4rem;
+  text-align: center;
+  vertical-align: bottom;
+  white-space: nowrap;
+}
+
+.notation-table td {
+  text-align: center;
+  padding: 0.6rem 0.4rem;    
+  border: none;              /* Remove ALL horizontal and default vertical borders */
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+/* Add a subtle visual difference for the lyrics row so it doesn't float away */
+.notation-table tbody tr:nth-child(even) td {
+  color: #222;
+  font-weight: 500;
+  padding-top: 0.15rem;     /* Pull lyrics closer to the swara above them */
+  padding-bottom: 0.85rem;  /* Push lyrics further from the swara below them */
+}
+
+.notation-table tbody tr:nth-child(odd) td {
+  padding-top: 0.85rem;
+  padding-bottom: 0.15rem;
+}
+
+/* Make MathJax output align nicely inside narrow cells */
+.notation-table mjx-container {
+  margin: 0 !important;
+}
+
+/* ==========================================================================
+   Vibhāg (Measure) Dividers & Table Borders
+   ========================================================================== */
+
+/* 1. Left opening line for the very first column */
+.notation-table th:first-child,
+.notation-table td:first-child {
+  border-left: 1px solid #444; 
+}
+
+/* 2. Right closing line for the very last column */
+.notation-table th:last-child,
+.notation-table td:last-child {
+  border-right: 1px solid #444; 
+}
+
+/* 3. Auto-detect Tintāl (16 beats). If the table has 16 columns, apply these dividers */
+.notation-table table:has(th:nth-child(16):last-child) th:nth-child(5),
+.notation-table table:has(th:nth-child(16):last-child) td:nth-child(5),
+.notation-table table:has(th:nth-child(16):last-child) th:nth-child(9),
+.notation-table table:has(th:nth-child(16):last-child) td:nth-child(9),
+.notation-table table:has(th:nth-child(16):last-child) th:nth-child(13),
+.notation-table table:has(th:nth-child(16):last-child) td:nth-child(13) {
+  border-left: 1px solid #444; 
+}
+
+/* 4. Auto-detect Dhamār (14 beats). If the table has 14 columns, apply these dividers */
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(6),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(6),
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(8),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(8),
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(11),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(11) {
+  border-left: 1px solid #444; 
+}
+
+/* 5. Auto-detect Suraphāktāl (10 beats). If the table has 10 columns, apply these dividers */
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(5),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(5),
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(7),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(7) {
+  border-left: 1px solid #444; 
+}

@@ -1,0 +1,94 @@
+/* ==========================================================================
+   Sangīt Manjarī — site styles
+   ========================================================================== */
+
+/* Composer / tāl line under the title -------------------------------------- */
+.composer-info {
+  font-size: 1.05rem;
+  color: #555;
+  margin: 0.5rem 0 1.5rem 0;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* Lyrics block ------------------------------------------------------------- */
+.lyrics-block {
+  background: #fafafa;
+  border-left: 3px solid #b08d57;       /* warm gold */
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0 2rem 0;
+  border-radius: 4px;
+}
+.lyrics-block blockquote {
+  margin: 0.25rem 0 0.75rem 0;
+  padding-left: 0.5rem;
+  border-left: none;
+  font-style: italic;
+  color: #333;
+}
+.lyrics-block strong {
+  color: #7a5d2c;
+  letter-spacing: 0.02em;
+}
+
+/* Notation tables ---------------------------------------------------------- */
+.notation-table {
+  overflow-x: auto;          /* horizontal scroll on narrow viewports */
+  margin: 1rem 0 2rem 0;
+  border: 1px solid #d8d8d8;
+  border-radius: 4px;
+  background: #fff;
+}
+.notation-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.95rem;
+}
+.notation-table thead {
+  background: #f3efe6;
+}
+.notation-table th,
+.notation-table td {
+  text-align: center;
+  padding: 0.5rem 0.4rem;
+  border: 1px solid #ececec;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+.notation-table th {
+  font-weight: 600;
+  color: #7a5d2c;
+  border-bottom: 2px solid #d8c79f;
+}
+/* Alternate row banding pairs swara line + lyric line together */
+.notation-table tbody tr:nth-child(4n+1),
+.notation-table tbody tr:nth-child(4n+2) {
+  background: #fbfaf6;
+}
+
+/* Make MathJax output align nicely inside narrow cells */
+.notation-table mjx-container {
+  margin: 0 !important;
+}
+
+/* Hero block on the home page --------------------------------------------- */
+.hero {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #2c2c2c;
+  max-width: 38rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+
+/* Listing tweaks ---------------------------------------------------------- */
+.quarto-listing-default .listing-item {
+  border-bottom: 1px solid #eee;
+  padding: 0.75rem 0;
+}
+
+/* Print-friendly notation tables ------------------------------------------ */
+@media print {
+  .notation-table { overflow: visible; page-break-inside: avoid; }
+  .notation-table table { font-size: 9pt; }
+}

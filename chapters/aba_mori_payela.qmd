@@ -1,0 +1,70 @@
+---
+title: "Rāg Āḍānā"
+subtitle: "*aba mori pāyelā*"
+description: "Composition by Manaraṅga, in Tintāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Manaraṅga &nbsp;·&nbsp; **Tāl:** Tintāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> aba mori pāyelā bājanu so<br>lālana tihāre darasa hama kaise āu
+
+**Antarā**
+
+> jāgata hai mori nanadī jeṭhaniyā<br>āvana ke samaya na pāu
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tintāl is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the sixteen columns correspond to beats 1–16, with sam **X** at beat 1, **2** at beat 5, **O** (khālī) at beat 9, and **3** at beat 13. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $m$ | $\lb{Pm}$ | $\lb{P\tr{S}}$ | $n$ | $P$ | $m$ | $\lb{Pd}$ | $\lb{\sps{P}dp}$ | $\lb{\sps{m}g}$ | $\lb{mR}$ | $m$ | $P$ |
+| **-** | **-** | **-** | **-** | **a** | **ba** | **-** | **mo** | **ri** | **pā** | **-** | **ye** | **lā** | **-** | **bā** | **ja** |
+| $\lb{\sps{P}\tr{S}}$ | $-$ | $\lb{nP}$ | $-$ | $m$ | $P$ | $\lb{-S}$ | $n$ | $P$ | $\lb{mP}$ | $\lb{mn}$ | $P$ | $\lb{\sps{m}g}$ | $\lb{mR}$ | $m$ | $P$ |
+| **nu** | **-** | **-** | **-** | **a** | **ba** | **-** | **mo** | **ri** | **pā** | **-** | **ye** | **lā** | **-** | **bā** | **ja** |
+| $\lb{\sps{P}\tr{S}}$ | $-$ | $\lb{nP}$ | $-$ | $-$ | $\lb{nn}$ | $\lb{Pm}$ | $P$ | $-$ | $\lb{\sps{P}n}$ | $\lb{Pn}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $\lb{\tr{S}\tr{S}}$ |
+| **nu** | **-** | **-** | **-** | **-** | **so** | **-** | **-** | **-** | **lā** | **la** | **na** | **-** | **-** | **-** | **ti hā** |
+| $N$ | $\tr{S}$ | $\lb{N\tr{S}\tr{R}-}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $-$ | $-$ | $\lb{nP}$ | $-$ | $\lb{NN}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $\lb{mPN}$ | $\lb{\tr{S}\tr{R}\tr{S}}$ |
+| **re** | **-** | **-** | **dara** | **sa** | **-** | **-** | **-** | **-** | **hama** | **kai** | **-** | **-** | **-** | **-** | **se** |
+| $\lb{N\tr{S}}$ | $n$ | $P$ | $P$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **-** | **ā** | **-** | **u** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $\lb{\sps{n}d}$ | $\lb{nP}$ | $\lb{NN}$ | $\tr{S}$ | $\lb{-N}$ | $\lb{\tr{S}\tr{S}}$ | $\tr{S}$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **jā** | **-** | **gata** | **hai** | **-** | **mo** | **ri** |
+| $-$ | $\lb{P\sps{\tr{S}}N}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{S}}$ | $\lb{N\tr{R}\sps{\tr{S}}\tr{R}\tr{S}}$ | $\lb{nd}$ | $\lb{nP}$ | $-$ | $\lb{\sps{n}d}$ | $\lb{nP}$ | $\lb{NN}$ | $\tr{S}$ | $\lb{-N}$ | $\lb{\tr{S}\tr{S}}$ | $\tr{S}$ |
+| **-** | **nana** | **dī** | **je** | **ṭha** | **-** | **ni** | **yā** | **-** | **jā** | **-** | **gata** | **hai** | **-** | **mo** | **ri** |
+| $-$ | $\lb{P\sps{\tr{S}}N}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{S}}$ | $\lb{N\tr{R}\sps{\tr{S}}\tr{R}\tr{S}}$ | $\lb{nd}$ | $\lb{nP}$ | $-$ | $\lb{mP}$ | $\lb{N\tr{S}}$ | $\lb{\sps{\tr{m}}\tr{g}}$ | $\lb{-\tr{m}}$ | $\lb{\tr{R}\tr{R}}$ | $\lb{\tr{S}N\tr{S}}$ | $\lb{\tr{R}\tr{R}\tr{S}}$ |
+| **-** | **nana** | **dī** | **je** | **ṭha** | **-** | **ni** | **yā** | **-** | **ā** | **vana** | **ke** | **-** | **sama** | **yana** | **-** |
+| $\lb{N\tr{S}}$ | $n$ | $P$ | $P$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **-** | **pā** | **-** | **u** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::

@@ -1,0 +1,20 @@
+---
+title: "Sangīt Manjarī"
+subtitle: "A transliteration of Pt. Ramprasanna Banerjee's 1907 anthology"
+toc: false
+---
+
+
+The *Sangīt Manjarī* was first published in 1907 under the patronage of
+Narendra Lall Khan, the king of Nārājole and Midnapore. This site
+presents a careful transliteration of the original Bengali notation
+into Roman script, preserving the swara-marks, octave indicators, and
+tāl structure of the source.
+
+Compositions are catalogued by rāga. Each page shows the lyrics
+followed by a notated table aligned to the relevant tāl cycle.
+
+---
+
+*Transliterated by Dr. Suparno Bhattacharyya. Published by SIMA — the
+Society for Indian Music and Arts.*
