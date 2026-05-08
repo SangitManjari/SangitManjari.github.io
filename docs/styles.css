@@ -129,3 +129,17 @@
 .notation-table table:has(th:nth-child(10):last-child) td:nth-child(7) {
   border-left: 1px solid #444; 
 }
+
+/* 6. Auto-detect Cautāl / Ektāl (12 beats). If the table has 12 columns, apply these dividers */
+.notation-table table:has(th:nth-child(12):last-child) th:nth-child(3),
+.notation-table table:has(th:nth-child(12):last-child) td:nth-child(3),
+.notation-table table:has(th:nth-child(12):last-child) th:nth-child(5),
+.notation-table table:has(th:nth-child(12):last-child) td:nth-child(5),
+.notation-table table:has(th:nth-child(12):last-child) th:nth-child(7),
+.notation-table table:has(th:nth-child(12):last-child) td:nth-child(7),
+.notation-table table:has(th:nth-child(12):last-child) th:nth-child(9),
+.notation-table table:has(th:nth-child(12):last-child) td:nth-child(9),
+.notation-table table:has(th:nth-child(12):last-child) th:nth-child(11),
+.notation-table table:has(th:nth-child(12):last-child) td:nth-child(11) {
+  border-left: 1px solid #444; 
+}

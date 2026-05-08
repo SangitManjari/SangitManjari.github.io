@@ -37,6 +37,15 @@ format:
 
 :::
 
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Cautāl is a 12-beat cycle divided as **2 + 2 + 2 + 2 + 2 + 2** (vibhāgs marked **X**, **O**, **2**, **O**, **3**, **4**). Each row below shows **one complete cycle**: the twelve columns correspond to beats 1–12, with sam **X** at beat 1, **O** (khālī) at beat 3, **2** at beat 5, **O** (khālī) at beat 7, **3** at beat 9, and **4** at beat 11. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+
 ## Sthāyī {.unnumbered}
 
 ::: {.notation-table}
