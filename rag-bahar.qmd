@@ -10,3 +10,5 @@ format: html
 - [Āye ritu pati](chapters/aye_ritu_pati.qmd)
 
 - [āju bahata sugandha](chapters/aju_bahata_sugandha.qmd)
+
+- [Manamatha tana dahe](chapters/manamatha_tana_dahe.qmd)

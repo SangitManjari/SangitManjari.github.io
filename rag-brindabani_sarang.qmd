@@ -1,0 +1,10 @@
+---
+title: "Rāg Bṛndāvanī sāraṅg"
+format: html
+---
+
+## Songs in this collection
+
+----
+
+- [Jaya prabala begavati](chapters/jaya_prabala_begavati.qmd)

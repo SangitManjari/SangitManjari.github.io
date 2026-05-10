@@ -1,0 +1,128 @@
+---
+title: "Rāg Tilak kāmod"
+subtitle: "*kauna rūpa bane*"
+description: "Composition by Raṅganāth, in Jhāpatāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Raṅganāth &nbsp;·&nbsp; **Tāl:** Jhāpatāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> kauna rūpa bane ho rājādhirāja  
+> āju naina nirakhi raṅganātha gāve
+
+**Antarā**
+
+> taji aragajā candana, bibhūtī aṅga bhūkhana,  
+> jaṭā mukuṭa kaisī bani āve
+
+**Sanchārī**
+
+> kaiso mukhamaṇḍala, jhalasa śruti kuṇḍala,  
+> bhai candra bhāla mṛga chāla pāve
+
+**Ābhog**
+
+> baraji bara ambara, pahana bāghāmbara  
+> śīṣa para gaṅgādhara dharasi dhāve
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Jhāpatāl is a 10-beat cycle divided as **2 + 3 + 2 + 3** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the ten columns correspond to beats 1–10, with sam **X** at beat 1, **2** at beat 3, **O** (khālī) at beat 6, and **3** at beat 8. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **2** |   |   | **O** |   | **3** |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $S$ | $-$ | $S$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **kau** | **-** | **na** |
+| $R$ | $\lb{Pm}$ | $P$ | $-$ | $\lb{PD}$ | $m$ | $G$ | $\lb{RG}$ | $\lb{RP}$ | $m$ |
+| **rū** | **-** | **pa** | **-** | **ba** | **ne** | **-** | **ho** | **-** | **-** |
+| $G$ | $\lb{-R}$ | $S$ | $-$ | $\mn{N}$ | $\lb{SS}$ | $\lb{RS}$ | $R$ | $-$ | $-$ |
+| **rā** | **-** | **jā** | **-** | **dhi** | **rā** | **-** | **ja** | **-** | **-** |
+| $\mn{P}$ | $\mn{P}$ | $\mn{N}$ | $-$ | $\mn{N}$ | $S$ | $S$ | $S$ | $R$ | $R$ |
+| **ā** | **ju** | **nai** | **-** | **na** | **ni** | **ra** | **khi** | **ra** | **ṅga** |
+| $R$ | $P$ | $P$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $-$ | $-$ | $-$ | $-$ |
+| **nā** | **-** | **tha** | **gā** | **-** | **ve** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **2** |   |   | **O** |   | **3** |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $m$ | $P$ | $P$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ |
+| **ta** | **ji** | **ara** | **ga** | **jā** | **ca** | **-** | **nda** | **na** | **-** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $P$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{R}$ | $-$ |
+| **bi** | **bhū** | **tī** | **a** | **ṅga** | **bhū** | **-** | **kha** | **na** | **-** |
+| $m$ | $P$ | $P$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ |
+| **ta** | **ji** | **ara** | **ga** | **jā** | **ca** | **-** | **nda** | **na** | **-** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $P$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{R}$ | $-$ |
+| **bi** | **bhū** | **tī** | **a** | **ṅga** | **bhū** | **-** | **kha** | **na** | **-** |
+| $N$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\lb{\sps{\tr{R}}\tr{S}}$ |
+| **ja** | **ṭā** | **mu** | **ku** | **ṭa** | **kai** | **-** | **sī** | **-** | **ba** |
+| $n$ | $D$ | $\lb{PD}$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $-$ | $-$ | $-$ | $-$ |
+| **ni** | **-** | **ā** | **-** | **-** | **ve** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Sanchārī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **2** |   |   | **O** |   | **3** |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $m$ | $P$ | $P$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ |
+| **kai** | **-** | **so** | **mu** | **kha** | **ma** | **-** | **ṇḍa** | **la** | **-** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $P$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{R}$ | $-$ |
+| **jha** | **la** | **sa** | **śru** | **ti** | **ku** | **-** | **ṇḍa** | **la** | **-** |
+| $m$ | $P$ | $P$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ |
+| **kai** | **-** | **so** | **mu** | **kha** | **ma** | **-** | **ṇḍa** | **la** | **-** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $P$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{R}$ | $-$ |
+| **jha** | **la** | **sa** | **śru** | **ti** | **ku** | **-** | **ṇḍa** | **la** | **-** |
+| $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ |
+| **bha** | **i** | **ca** | **-** | **ndra** | **bhā** | **-** | **la** | **mṛ** | **ga** |
+| $P$ | $D$ | $P$ | $m$ | $G$ | $\lb{RG}$ | $-$ | $-$ | $-$ | $-$ |
+| **chā** | **-** | **la** | **pā** | **-** | **ve** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Ābhog {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **2** |   |   | **O** |   | **3** |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $m$ | $P$ | $P$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ |
+| **ba** | **ra** | **ji** | **ba** | **ra** | **a** | **-** | **mba** | **ra** | **-** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $P$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{R}$ | $-$ |
+| **pa** | **ha** | **na** | **bā** | **-** | **ghā** | **-** | **mba** | **ra** | **-** |
+| $m$ | $P$ | $P$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ |
+| **ba** | **ra** | **ji** | **ba** | **ra** | **a** | **-** | **mba** | **ra** | **-** |
+| $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $P$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{R}$ | $-$ |
+| **pa** | **ha** | **na** | **bā** | **-** | **ghā** | **-** | **mba** | **ra** | **-** |
+| $N$ | $-$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ |
+| **śī** | **-** | **ṣa** | **pa** | **ra** | **ga** | **-** | **ṅgā** | **dha** | **ra** |
+| $P$ | $D$ | $P$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $-$ | $-$ | $-$ | $-$ |
+| **dha** | **ra** | **si** | **dhā** | **-** | **ve** | **-** | **-** | **-** | **-** |
+
+:::

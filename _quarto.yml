@@ -24,8 +24,14 @@ website:
             text: Rāg Bahār
           - href: rag-behag.qmd
             text: Rāg Behāg
+          - href: rag-brindabani_sarang.qmd
+            text: Rāg Bṛndāvanī sāraṅg
           - href: rag-darabari_kanada.qmd
             text: Rāg Darabāri kānaḍā
+          - href: rag-darabari_todi.qmd
+            text: Rāg Darabāri toḍī
+          - href: rag-gaud_malhar.qmd
+            text: Rāg Gauḍ malhār
           - href: rag-hamir.qmd
             text: Rāg Hamīr
           - href: rag-iman_kalyan.qmd
@@ -40,8 +46,12 @@ website:
             text: Rāg Pūrvī
           - href: rag-ramkali.qmd
             text: Rāg Rāmkali
+          - href: rag-sukla_belavali.qmd
+            text: Rāg Śukla belāvalī
           - href: rag-surat.qmd
             text: Rāg Suraṭ
+          - href: rag-tilak_kamod.qmd
+            text: Rāg Tilak kāmod
           
     right:
       - icon: github

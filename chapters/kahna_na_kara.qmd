@@ -1,0 +1,72 @@
+---
+title: "Rāg Darabāri toḍī"
+subtitle: "*kāhna na kara*"
+description: "Composition by Adāraṅga, in Tintāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Adāraṅga &nbsp;·&nbsp; **Tāl:** Tintāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> kāhna na kara mose rāra aba hi jāya karihū pukāra  
+> laṅgara niḍara gagariyā dihnī ḍāla re
+
+**Antarā**
+
+> ācara pakara jāya yaśodā so kahihū  
+> apana ḍhīṭa laṅgara kahi samhāla re
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tintāl is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the sixteen columns correspond to beats 1–16, with sam **X** at beat 1, **2** at beat 5, **O** (khālī) at beat 9, and **3** at beat 13. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $d$ | $d$ | $d$ | $d$ | $\lb{PM}$ | $P$ | $d$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **kā** | **hna** | **na** | **ka** | **ra** | **mo** | **se** |
+| $M$ | $g$ | $\lb{-g}$ | $r$ | $g$ | $r$ | $-$ | $S$ | $-$ | $d$ | $d$ | $d$ | $d$ | $\lb{PM}$ | $P$ | $d$ |
+| **rā** | **-** | **-** | **-** | **-** | **-** | **-** | **ra** | **-** | **kā** | **hna** | **na** | **ka** | **ra** | **mo** | **se** |
+| $M$ | $\lb{gg}$ | $r$ | $S$ | $S$ | $d$ | $d$ | $\lb{\sps{n}d}$ | $-$ | $-$ | $d$ | $d$ | $d$ | $P$ | $M$ | $d$ |
+| **rā** | **-** | **-** | **ra** | **a** | **ba** | **hi** | **jā** | **-** | **-** | **ya** | **ka** | **ri** | **hū** | **-** | **pu** |
+| $\lb{Mg}$ | $\lb{-g}$ | $r$ | $S$ | $g$ | $g$ | $g$ | $r$ | $r$ | $S$ | $\lb{\sps{M}g}$ | $\lb{\sps{M}g}$ | $M$ | $P$ | $\lb{\sps{n}d}$ | $-$ |
+| **kā** | **-** | **-** | **ra** | **la** | **ṅga** | **ra** | **ni** | **ḍa** | **ra** | **ga** | **ga** | **ri** | **yā** | **di** | **-** |
+| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $N$ | $\lb{\tr{S}\tr{r}}$ | $\lb{\sps{\tr{S}}\tr{r}-\tr{S}}$ | $\lb{\sps{n}d}$ | $P$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **-** | **hnī** | **ḍā** | **-** | **-** | **la** | **re** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $S$ | $S$ | $g$ | $g$ | $M$ | $P$ | $\lb{\sps{n}d}$ | $-$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **ā** | **ca** | **ra** | **pa** | **ka** | **ra** | **jāya** | **-** |
+| $\tr{S}$ | $N$ | $\tr{r}$ | $\tr{r}$ | $\tr{S}$ | $N$ | $\tr{S}$ | $-$ | $S$ | $S$ | $g$ | $g$ | $M$ | $P$ | $\lb{\sps{n}d}$ | $-$ |
+| **ya** | **śo** | **dā** | **so** | **ka** | **hi** | **hū** | **-** | **ā** | **ca** | **ra** | **pa** | **ka** | **ra** | **jāya** | **-** |
+| $\tr{S}$ | $N$ | $\tr{r}$ | $\tr{r}$ | $\tr{S}$ | $N$ | $\tr{S}$ | $-$ | $d$ | $\tr{g}$ | $\tr{g}$ | $\tr{r}$ | $\tr{S}$ | $\tr{r}$ | $N$ | $\tr{S}$ |
+| **ya** | **śo** | **dā** | **so** | **ka** | **hi** | **hū** | **-** | **a** | **pa** | **na** | **ḍhi** | **-** | **ṭha** | **la** | **ṅga** |
+| $N$ | $\tr{r}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\sps{n}d}$ | $-$ | $P$ | $\lb{N\tr{S}}$ | $\tr{r}$ | $\lb{\sps{N}\tr{S}}$ | $n$ | $d$ | $M$ | $g$ | $\lb{\sps{P}M}$ | $d$ |
+| **ra** | **ka** | **hi** | **sam** | **hā** | **-** | **la** | **re** | **-** | **kā** | **hna** | **na** | **ka** | **ra** | **mo** | **se** |
+
+:::
