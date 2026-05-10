@@ -24,8 +24,15 @@ website:
             text: Rāg Behāg
           - href: rag-darabari_kanada.qmd
             text: Rāg Darabāri kānaḍā
-      - href: about.qmd
-        text: About
+          - href: rag-iman_kalyan.qmd
+            text: Rāg Iman kalyāṅ
+          - href: rag-nayaki_kanada.qmd
+            text: Rāg Nāyakī kānaḍā
+          - href: rag-ramkali.qmd
+            text: Rāg Rāmkali
+          - href: rag-surat.qmd
+            text: Rāg Suraṭ
+          
     right:
       - icon: github
         href: https://github.com/   # replace with your repo

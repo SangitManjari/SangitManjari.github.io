@@ -1,0 +1,72 @@
+---
+title: "Rāg Iman kalyāṅ"
+subtitle: "*baṅgari mori murakai*"
+description: "Composition by Manaraṅga, in Ektāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Manaraṅga &nbsp;·&nbsp; **Tāl:** Ektāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> baṅgari mori murakai jina chuo laṅgaravā  
+> kara ke kalāi ḍarana lāgī nibhara ḍara jeṭhānī deta gārī
+
+**Antarā**
+
+> saṅga ke lugāi saba dūra mura musakāya gai  
+> kara ke pharaka erī
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Ektāl is a 12-beat cycle divided as **2 + 2 + 2 + 2 + 2 + 2** (vibhāgs marked **X**, **O**, **2**, **O**, **3**, **4**). Each row below shows **one complete cycle**: the twelve columns correspond to beats 1–12, with sam **X** at beat 1, **O** (khālī) at beat 3, **2** at beat 5, **O** (khālī) at beat 7, **3** at beat 9, and **4** at beat 11. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $P$ | $\lb{\sps{P}N}$ | $D$ | $P$ | $M$ | $\lb{Gm}$ | $G$ | $\lb{\sps{R}G}$ | $R$ | $S$ | $\mn{N}$ | $R$ |
+| **ba** | **ṅga** | **ri** | **mo** | **ri** | **mu** | **ra** | **ka** | **i** | **ji** | **na** | **chu** |
+| $S$ | $-$ | $-$ | $-$ | $-$ | $-$ | $G$ | $G$ | $R$ | $\lb{\mn{N}R}$ | $\lb{SS}$ | $-$ |
+| **o** | **-** | **-** | **-** | **-** | **-** | **la** | **ṅga** | **ra** | **vā** | **-** | **-** |
+| $S$ | $\mn{N}$ | $\mn{D}$ | $\mn{N}$ | $S$ | $S$ | $\lb{\sps{S}\mn{N}}$ | $R$ | $R$ | $\lb{\mn{N}R}$ | $\lb{SS}$ | $S$ |
+| **ka** | **ra** | **ke** | **ka** | **lā** | **i** | **ḍa** | **ra** | **na** | **lā** | **-** | **gī** |
+| $\lb{\sps{S}\mn{N}}$ | $R$ | $R$ | $\mn{N}$ | $R$ | $G$ | $G$ | $G$ | $\lb{\sps{P}M}$ | $R$ | $G$ | $M$ |
+| **ni** | **bha** | **ra** | **ḍa** | **ra** | **je** | **ṭhā** | **nī** | **de** | **ta** | **gā** | **rī** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $G$ | $G$ | $\lb{MD}$ | $\lb{N\tr{S}}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{\sps{\tr{R}}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $D$ | $\tr{S}$ | $\tr{S}$ |
+| **sa** | **ṅga** | **ke** | **-** | **lu** | **gā** | **i** | **-** | **-** | **-** | **sa** | **ba** |
+| $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{R}}$ | $\lb{\tr{S}\tr{S}}$ | $\lb{ND}$ | $N$ | $\lb{DP}$ | $P$ |
+| **dū** | **ra** | **mu** | **ra** | **mu** | **sa** | **kā** | **-** | **ya** | **ga** | **i** | **-** |
+| $G$ | $G$ | $\lb{MD}$ | $\lb{N\tr{S}}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{\sps{\tr{R}}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $D$ | $\tr{S}$ | $\tr{S}$ |
+| **sa** | **ṅga** | **ke** | **-** | **lu** | **gā** | **i** | **-** | **-** | **-** | **sa** | **ba** |
+| $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{R}}$ | $\lb{\tr{S}\tr{S}}$ | $\lb{ND}$ | $N$ | $\lb{DP}$ | $P$ |
+| **dū** | **ra** | **mu** | **ra** | **mu** | **sa** | **kā** | **-** | **ya** | **ga** | **i** | **-** |
+| $\lb{PM}$ | $D$ | $D$ | $\lb{\tr{S}\tr{S}}$ | $\lb{NN}$ | $D$ | $P$ | $-$ | $\lb{PD}$ | $\lb{PP}$ | $\lb{MG}$ | $M$ |
+| **ka** | **ra** | **ke** | **pha** | **-** | **ra** | **ka** | **-** | **e** | **-** | **rī** | **-** |
+
+:::
