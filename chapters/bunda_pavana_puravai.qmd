@@ -1,0 +1,69 @@
+---
+title: "Rāg Hamīr"
+subtitle: "*bunda pavana puravāi*"
+description: "Composition by Hitaparakh, in Cautāl (Drut)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Hitaparakh &nbsp;·&nbsp; **Tāl:** Cautāl (Drut)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> bunda pavana puravāi garaja garaja barakhata ghana
+
+**Antarā**
+
+> umaḍa ghumaḍa cahudisa ghana ati ghera āvata,  
+> madana dahana karata tana, una bina kaise rahata bhavana
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Cautāl is a 12-beat cycle divided as **2 + 2 + 2 + 2 + 2 + 2** (vibhāgs marked **X**, **O**, **2**, **O**, **3**, **4**). Each row below shows **one complete cycle**: the twelve columns correspond to beats 1–12, with sam **X** at beat 1, **O** (khālī) at beat 3, **2** at beat 5, **O** (khālī) at beat 7, **3** at beat 9, and **4** at beat 11. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $P$ | $\lb{-M}$ | $D$ | $\lb{PP}$ | $\lb{\sps{P}G}$ | $M$ | $D$ | $-$ | $D$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ |
+| **bun** | **-** | **da** | **pa** | **va** | **na** | **pu** | **-** | **ra** | **vā** | **-** | **i** |
+| $\lb{PM}$ | $P$ | $\lb{\sps{P}G}$ | $\lb{\sps{m}G}$ | $\lb{\sps{G}D}$ | $P$ | $\lb{\sps{P}G}$ | $G$ | $\lb{Gm}$ | $R$ | $S$ | $S$ |
+| **ga** | **ra** | **ja** | **ga** | **ra** | **ja** | **ba** | **ra** | **kha** | **ta** | **gha** | **na** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $\lb{PM}$ | $D$ | $P$ | $\lb{\sps{P}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
+| **u** | **ma** | **ḍa** | **ghu** | **ma** | **ḍa** | **ca** | **hu** | **-** | **di** | **-** | **sa** |
+| $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{ND}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ | $P$ |
+| **gha** | **na** | **-** | **a** | **-** | **ti** | **ghe** | **-** | **ra** | **ā** | **va** | **ta** |
+| $\lb{PM}$ | $D$ | $P$ | $\lb{\sps{P}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
+| **u** | **ma** | **ḍa** | **ghu** | **ma** | **ḍa** | **ca** | **hu** | **-** | **di** | **-** | **sa** |
+| $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{ND}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ | $P$ |
+| **gha** | **na** | **-** | **a** | **-** | **ti** | **ghe** | **-** | **ra** | **ā** | **va** | **ta** |
+| $\lb{mG}$ | $G$ | $\lb{PM}$ | $D$ | $M$ | $P$ | $G$ | $m$ | $R$ | $\mn{N}$ | $R$ | $S$ |
+| **ma** | **da** | **na** | **da** | **ha** | **na** | **ka** | **ra** | **ta** | **-** | **ta** | **na** |
+| $S$ | $\tr{R}$ | $\tr{R}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ | $\lb{PM}$ | $G$ | $m$ |
+| **u** | **na** | **bi** | **na** | **kai** | **se** | **ra** | **ha** | **ta** | **bha** | **va** | **na** |
+
+:::

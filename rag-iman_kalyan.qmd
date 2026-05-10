@@ -8,3 +8,5 @@ format: html
 ----
 
 - [Baṅgari mori murakai](chapters/bangari_mori_murakai.qmd)
+
+- [Caturaṅga rasa sana](chapters/caturanga_rasa_sana.qmd)

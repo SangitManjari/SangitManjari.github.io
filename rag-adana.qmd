@@ -1,5 +1,5 @@
 ---
-title: "rag-adana"
+title: "Rāg Āḍānā"
 format: html
 ---
 
@@ -8,3 +8,5 @@ format: html
 ----
 
 - [Aba mori pāyelā](chapters/aba_mori_payela.qmd)
+
+- [Beṇī nirakhata bhujaṅga](chapters/beṇi_nirakhata_bhujanga.qmd)

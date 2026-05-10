@@ -1,0 +1,81 @@
+---
+title: "Rāg Naṭ malhār"
+subtitle: "*dārādīm dārā dīm*"
+description: "Composition by Manaraṅg, in Tintāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Manaraṅg &nbsp;·&nbsp; **Tāl:** Tintāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> dārādīm dārā dīm dāra dīm dāra tadāre dāni dāni  
+> tānā nāder der tom tānānā tānā tomder tadāre  
+> dāni tadāni tātādāni dāni dāni dāni
+
+**Antarā**
+
+> abro vādo maho khuraśedo phalak dar kāranda  
+> tā to nāne vakaph arī o vagaphlat na khurī
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tintāl is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the sixteen columns correspond to beats 1–16, with sam **X** at beat 1, **2** at beat 5, **O** (khālī) at beat 9, and **3** at beat 13. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $S$ | $S$ | $R$ | $S$ | $R$ | $R$ | $G$ | $R$ | $G$ | $m$ | $D$ | $D$ | $P$ |
+| **-** | **-** | **-** | **dā** | **rā** | **dī** | **m** | **dā** | **rā** | **dī** | **m** | **dā** | **rā** | **dī** | **m** | **dā** |
+| $m$ | $G$ | $-$ | $S$ | $S$ | $R$ | $S$ | $R$ | $R$ | $G$ | $R$ | $G$ | $m$ | $D$ | $D$ | $P$ |
+| **rā** | **-** | **-** | **dā** | **rā** | **dī** | **m** | **dā** | **rā** | **dī** | **m** | **dā** | **rā** | **dī** | **m** | **dā** |
+| $m$ | $-$ | $G$ | $-$ | $m$ | $R$ | $-$ | $R$ | $\lb{Gm}$ | $P$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $-$ | $R$ | $S$ |
+| **rā** | **-** | **-** | **-** | **-** | **-** | **-** | **ta** | **dā** | **-** | **re** | **-** | **-** | **-** | **dā** | **ni** |
+| $R$ | $S$ | $\mn{N}$ | $S$ | $R$ | $P$ | $m$ | $P$ | $-$ | $P$ | $m$ | $P$ | $\lb{\sps{P}n}$ | $\lb{\sps{D}n}$ | $m$ | $P$ |
+| **dā** | **ni** | **tā** | **nā** | **nā** | **der** | **der** | **to** | **m** | **tā** | **nā** | **nā** | **tā** | **nā** | **tom** | **der** |
+| $D$ | $\lb{\tr{S}\tr{S}}$ | $D$ | $P$ | $m$ | $P$ | $m$ | $G$ | $R$ | $G$ | $m$ | $P$ | $\lb{mn}$ | $D$ | $-$ | $P$ |
+| **ta** | **dā** | **re** | **dā** | **ni** | **ta** | **dā** | **ni** | **tā** | **tā** | **dā** | **ni** | **dā** | **ni** | **-** | **dā** |
+| $P$ | $m$ | $\lb{\sps{R}G}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **ni** | **dā** | **ni** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $P$ | $P$ | $-$ | $m$ | $n$ | $D$ | $\lb{nD}$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ |
+| **-** | **-** | **-** | **-** | **ab** | **ro** | **-** | **vā** | **do** | **-** | **-** | **ma** | **ho** | **-** | **khur** | **śe** |
+| $N$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $P$ | $N$ | $\tr{S}$ | $\tr{R}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{R}\tr{S}}$ | $\tr{S}$ | $D$ | $-$ |
+| **-** | **-** | **do** | **-** | **-** | **pha** | **lak** | **dar** | **kā** | **-** | **-** | **-** | **ra** | **-** | **-** | **-** |
+| $n$ | $P$ | $-$ | $P$ | $m$ | $P$ | $-$ | $\lb{DN}$ | $\tr{S}$ | $-$ | $D$ | $P$ | $m$ | $\lb{DD}$ | $\lb{Pm}$ | $P$ |
+| **-** | **nda** | **-** | **tā** | **to** | **nā** | **-** | **ne** | **-** | **-** | **va** | **kaph** | **a** | **rī** | **-** | **-** |
+| $m$ | $-$ | $G$ | $-$ | $m$ | $R$ | $-$ | $G$ | $R$ | $P$ | $-$ | $m$ | $\lb{DD}$ | $\lb{PP}$ | $m$ | $-$ |
+| **o** | **-** | **-** | **-** | **-** | **-** | **-** | **va** | **gaph** | **lat** | **-** | **na** | **khu** | **-** | **rī** | **-** |
+| $G$ | $m$ | $R$ | $S$ | $R$ | $P$ | $m$ | $P$ | $-$ | $P$ | $m$ | $P$ | $\lb{\sps{P}n}$ | $\lb{\sps{D}n}$ | $m$ | $P$ |
+| **-** | **-** | **tā** | **nā** | **nā** | **der** | **der** | **tom** | **-** | **tā** | **nā** | **nā** | **tā** | **nā** | **tom** | **der** |
+| $D$ | $\lb{\tr{S}\tr{S}}$ | $D$ | $P$ | $m$ | $P$ | $m$ | $G$ | $R$ | $G$ | $m$ | $P$ | $\lb{mn}$ | $D$ | $-$ | $P$ |
+| **ta** | **dā** | **re** | **dā** | **ni** | **tā** | **dā** | **ni** | **tā** | **tā** | **dā** | **ni** | **dā** | **ni** | **-** | **dā** |
+| $P$ | $m$ | $\lb{\sps{R}G}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **ni** | **dā** | **ni** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::

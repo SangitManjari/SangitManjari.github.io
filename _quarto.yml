@@ -18,16 +18,26 @@ website:
         menu:
           - href: rag-adana.qmd
             text: Rāg Āḍānā
+          - href: rag-alahiya.qmd
+            text: Rāg Ālāhiyā
           - href: rag-bahar.qmd
             text: Rāg Bahār
           - href: rag-behag.qmd
             text: Rāg Behāg
           - href: rag-darabari_kanada.qmd
             text: Rāg Darabāri kānaḍā
+          - href: rag-hamir.qmd
+            text: Rāg Hamīr
           - href: rag-iman_kalyan.qmd
             text: Rāg Iman kalyāṅ
+          - href: rag-natmalhar.qmd
+            text: Rāg Naṭ malhār
           - href: rag-nayaki_kanada.qmd
             text: Rāg Nāyakī kānaḍā
+          - href: rag-nisasag.qmd
+            text: Rāg Niśāsāg
+          - href: rag-purvi.qmd
+            text: Rāg Pūrvī
           - href: rag-ramkali.qmd
             text: Rāg Rāmkali
           - href: rag-surat.qmd

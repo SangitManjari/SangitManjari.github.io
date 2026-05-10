@@ -310,16 +310,16 @@
   {
     "objectID": "rag-adana.html",
     "href": "rag-adana.html",
-    "title": "rag-adana",
+    "title": "Rāg Āḍānā",
     "section": "",
-    "text": "Aba mori pāyelā"
+    "text": "Aba mori pāyelā\nBeṇī nirakhata bhujaṅga"
   },
   {
     "objectID": "rag-adana.html#songs-in-this-collection",
     "href": "rag-adana.html#songs-in-this-collection",
-    "title": "rag-adana",
+    "title": "Rāg Āḍānā",
     "section": "",
-    "text": "Aba mori pāyelā"
+    "text": "Aba mori pāyelā\nBeṇī nirakhata bhujaṅga"
   },
   {
     "objectID": "rag-behag.html",
@@ -522,14 +522,14 @@
     "href": "rag-iman_kalyan.html",
     "title": "Rāg Iman kalyāṅ",
     "section": "",
-    "text": "Baṅgari mori murakai"
+    "text": "Baṅgari mori murakai\nCaturaṅga rasa sana"
   },
   {
     "objectID": "rag-iman_kalyan.html#songs-in-this-collection",
     "href": "rag-iman_kalyan.html#songs-in-this-collection",
     "title": "Rāg Iman kalyāṅ",
     "section": "",
-    "text": "Baṅgari mori murakai"
+    "text": "Baṅgari mori murakai\nCaturaṅga rasa sana"
   },
   {
     "objectID": "rag-ramkali.html",
@@ -544,5 +544,411 @@
     "title": "Rāg Rāmkali",
     "section": "",
     "text": "Bajata bīṅa pravīṅa"
+  },
+  {
+    "objectID": "chapters/Untitled.html",
+    "href": "chapters/Untitled.html",
+    "title": "Rāg Āḍānā",
+    "section": "",
+    "text": "Composer: Kṣemarasik  ·  Tāl: Cautāl (Drut)"
+  },
+  {
+    "objectID": "chapters/Untitled.html#lyrics",
+    "href": "chapters/Untitled.html#lyrics",
+    "title": "Rāg Āḍānā",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\nbeṇī nirakhata bhujaṅga patāla loka gayo,\ndṛga dekhata mīna jala madha chipata rī\n\nAntarā\n\nmukha dekha kalā hīna uḍapata uḍa vyoma basata\nhasata daśana dūta nirakhata hata anāra darakha marori\n\nSanchārī\n\nkuca dekha cakravāka nagara na rahe yaha kāraṇa\ntana duti dekha kāñcana āgame jarorī\n\nĀbhog\n\nsiṃha bākī kaṭi nehāra gayo vana para darapa hāra,\nkṣemarasika chaba nirakhata deta balihārī\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nCautāl is a 12-beat cycle divided as 2 + 2 + 2 + 2 + 2 + 2 (vibhāgs marked X, O, 2, O, 3, 4). Each row below shows one complete cycle: the twelve columns correspond to beats 1–12, with sam X at beat 1, O (khālī) at beat 3, 2 at beat 5, O (khālī) at beat 7, 3 at beat 9, and 4 at beat 11.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/Untitled.html#sthāyī",
+    "href": "chapters/Untitled.html#sthāyī",
+    "title": "Rāg Āḍānā",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(N\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\n\nbe\n-\nṇī\n-\nni\nra\nkha\nta\nbhu\nja\n-\nṅga\n\n\n\\(N\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(P\\)\n\n\nbe\n-\n-\nṇī\nni\nra\nkha\nta\nbhu\nja\n-\nṅga\n\n\n\\(m\\)\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(-\\)\n\\(N\\)\n\\(P\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(-\\)\n\\(m\\)\n\\(P\\)\n\n\npa\ntā\n-\nla\nlo\n-\nka\nga\nyo\n-\ndṛ\nga\n\n\n\\(\\lb{\\sps{n}d}\\)\n\\(-\\)\n\\(n\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(m\\)\n\\(P\\)\n\n\nde\n-\nkha\nta\n-\nmī\n-\nna\nja\nla\nma\ndha\n\n\n\\(m\\)\n\\(P\\)\n\\(n\\)\n\\(n\\)\n\\(P\\)\n\\(m\\)\n\\(g\\)\n\\(g\\)\n\\(m\\)\n\\(m\\)\n\\(R\\)\n\\(S\\)\n\n\nchi\npa\nta\n-\n-\n-\n-\n-\n-\n-\n-\nrī"
+  },
+  {
+    "objectID": "chapters/Untitled.html#antarā",
+    "href": "chapters/Untitled.html#antarā",
+    "title": "Rāg Āḍānā",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(m\\)\n\\(P\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nmu\nkha\n-\nde\n-\nkha\nka\nlā\n-\nhī\n-\nna\n\n\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(P\\)\n\n\nu\nḍa\npa\nta\nu\nḍa\nvyo\n-\nma\nba\nsa\nta\n\n\n\\(m\\)\n\\(P\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nmu\nkha\n-\nde\n-\nkha\nka\nlā\n-\nhī\n-\nna\n\n\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(P\\)\n\n\nu\nḍa\npa\nta\nu\nḍa\nbyo\n-\nma\nba\nsa\nta\n\n\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\tr{g}\\)\n\\(\\lb{\\tr{g}\\tr{m}}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nha\nsa\nta\nda\nśa\nna\ndū\nta\nni\nra\nkha\nta\n\n\n\\(m\\)\n\\(m\\)\n\\(m\\)\n\\(P\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{mP}\\)\n\\(R\\)\n\\(R\\)\n\\(S\\)\n\n\nha\nta\na\nnā\n-\nra\nda\nra\nkha\nma\nro\nri"
+  },
+  {
+    "objectID": "chapters/Untitled.html#sanchārī",
+    "href": "chapters/Untitled.html#sanchārī",
+    "title": "Rāg Āḍānā",
+    "section": "Sanchārī",
+    "text": "Sanchārī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(m\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(n\\)\n\\(P\\)\n\\(P\\)\n\n\nku\nca\n-\nde\n-\nkha\nca\n-\nkra\nvā\n-\nka\n\n\n\\(m\\)\n\\(P\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(n\\)\n\\(P\\)\n\n\nna\nga\nra\nna\nra\nhe\nya\nha\nkā\n-\nra\nṇa\n\n\n\\(m\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(n\\)\n\\(P\\)\n\\(P\\)\n\n\nku\nca\n-\nde\n-\nkha\nca\n-\nkra\nvā\n-\nka\n\n\n\\(m\\)\n\\(P\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(n\\)\n\\(P\\)\n\n\nna\nga\nra\nna\nra\nhe\nya\nha\nkā\n-\nra\nṇa\n\n\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\sps{P}n}\\)\n\\(P\\)\n\\(m\\)\n\\(g\\)\n\\(m\\)\n\\(R\\)\n\\(-\\)\n\\(S\\)\n\n\nta\nna\ndu\nti\nde\nkha\nkā\n-\n-\nñca\n-\nna\n\n\n\\(S\\)\n\\(m\\)\n\\(m\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(\\lb{nd}\\)\n\\(n\\)\n\\(P\\)\n\n\nā\n-\nga\nme\nja\n-\nro\n-\n-\n-\n-\nrī"
+  },
+  {
+    "objectID": "chapters/Untitled.html#ābhog",
+    "href": "chapters/Untitled.html#ābhog",
+    "title": "Rāg Āḍānā",
+    "section": "Ābhog",
+    "text": "Ābhog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nsiṃ\n-\nha\nbā\n-\nkī\nka\nṭi\nne\nhā\n-\nra\n\n\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\tr{m}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nga\nyo\nva\nna\npa\nra\nda\nra\npa\nhā\n-\nra\n\n\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nsiṃ\n-\nha\nvā\n-\nkī\nka\nṭi\nne\nhā\n-\nra\n\n\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\tr{m}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nga\nyo\nva\nna\npa\nra\nda\nra\npa\nhā\n-\nra\n\n\n\\(\\lb{\\sps{P}n}\\)\n\\(\\lb{mP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\lb{\\tr{g}\\tr{m}}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\n\nkṣe\n-\nma\nra\nsi\nka\ncha\nba\nni\nra\nkha\nta\n\n\n\\(\\lb{\\tr{S}\\tr{R}}\\)\n\\(N\\)\n\\(N\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\sps{n}d}\\)\n\\(\\lb{nm}\\)\n\\(P\\)\n\n\nde\n-\nta ba\n-\nli\n-\nhā\n-\n-\nrī\n-\n-"
+  },
+  {
+    "objectID": "rag-hamir.html",
+    "href": "rag-hamir.html",
+    "title": "Rāg Hamīr",
+    "section": "",
+    "text": "Bunda pavana puravāi"
+  },
+  {
+    "objectID": "rag-hamir.html#songs-in-this-collection",
+    "href": "rag-hamir.html#songs-in-this-collection",
+    "title": "Rāg Hamīr",
+    "section": "",
+    "text": "Bunda pavana puravāi"
+  },
+  {
+    "objectID": "chapters/beṇi_nirakhata_bhujanga.html",
+    "href": "chapters/beṇi_nirakhata_bhujanga.html",
+    "title": "Rāg Āḍānā",
+    "section": "",
+    "text": "Composer: Kṣemarasik  ·  Tāl: Cautāl (Drut)"
+  },
+  {
+    "objectID": "chapters/beṇi_nirakhata_bhujanga.html#lyrics",
+    "href": "chapters/beṇi_nirakhata_bhujanga.html#lyrics",
+    "title": "Rāg Āḍānā",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\nbeṇī nirakhata bhujaṅga patāla loka gayo,\ndṛga dekhata mīna jala madha chipata rī\n\nAntarā\n\nmukha dekha kalā hīna uḍapata uḍa vyoma basata\nhasata daśana dūta nirakhata hata anāra darakha marori\n\nSanchārī\n\nkuca dekha cakravāka nagara na rahe yaha kāraṇa\ntana duti dekha kāñcana āgame jarorī\n\nĀbhog\n\nsiṃha bākī kaṭi nehāra gayo vana para darapa hāra,\nkṣemarasika chaba nirakhata deta balihārī\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nCautāl is a 12-beat cycle divided as 2 + 2 + 2 + 2 + 2 + 2 (vibhāgs marked X, O, 2, O, 3, 4). Each row below shows one complete cycle: the twelve columns correspond to beats 1–12, with sam X at beat 1, O (khālī) at beat 3, 2 at beat 5, O (khālī) at beat 7, 3 at beat 9, and 4 at beat 11.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/beṇi_nirakhata_bhujanga.html#sthāyī",
+    "href": "chapters/beṇi_nirakhata_bhujanga.html#sthāyī",
+    "title": "Rāg Āḍānā",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(N\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\n\nbe\n-\nṇī\n-\nni\nra\nkha\nta\nbhu\nja\n-\nṅga\n\n\n\\(N\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(P\\)\n\n\nbe\n-\n-\nṇī\nni\nra\nkha\nta\nbhu\nja\n-\nṅga\n\n\n\\(m\\)\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(-\\)\n\\(N\\)\n\\(P\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(-\\)\n\\(m\\)\n\\(P\\)\n\n\npa\ntā\n-\nla\nlo\n-\nka\nga\nyo\n-\ndṛ\nga\n\n\n\\(\\lb{\\sps{n}d}\\)\n\\(-\\)\n\\(n\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(m\\)\n\\(P\\)\n\n\nde\n-\nkha\nta\n-\nmī\n-\nna\nja\nla\nma\ndha\n\n\n\\(m\\)\n\\(P\\)\n\\(n\\)\n\\(n\\)\n\\(P\\)\n\\(m\\)\n\\(g\\)\n\\(g\\)\n\\(m\\)\n\\(m\\)\n\\(R\\)\n\\(S\\)\n\n\nchi\npa\nta\n-\n-\n-\n-\n-\n-\n-\n-\nrī"
+  },
+  {
+    "objectID": "chapters/beṇi_nirakhata_bhujanga.html#antarā",
+    "href": "chapters/beṇi_nirakhata_bhujanga.html#antarā",
+    "title": "Rāg Āḍānā",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(m\\)\n\\(P\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nmu\nkha\n-\nde\n-\nkha\nka\nlā\n-\nhī\n-\nna\n\n\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(P\\)\n\n\nu\nḍa\npa\nta\nu\nḍa\nvyo\n-\nma\nba\nsa\nta\n\n\n\\(m\\)\n\\(P\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nmu\nkha\n-\nde\n-\nkha\nka\nlā\n-\nhī\n-\nna\n\n\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(P\\)\n\n\nu\nḍa\npa\nta\nu\nḍa\nbyo\n-\nma\nba\nsa\nta\n\n\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\tr{g}\\)\n\\(\\lb{\\tr{g}\\tr{m}}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nha\nsa\nta\nda\nśa\nna\ndū\nta\nni\nra\nkha\nta\n\n\n\\(m\\)\n\\(m\\)\n\\(m\\)\n\\(P\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{mP}\\)\n\\(R\\)\n\\(R\\)\n\\(S\\)\n\n\nha\nta\na\nnā\n-\nra\nda\nra\nkha\nma\nro\nri"
+  },
+  {
+    "objectID": "chapters/beṇi_nirakhata_bhujanga.html#sanchārī",
+    "href": "chapters/beṇi_nirakhata_bhujanga.html#sanchārī",
+    "title": "Rāg Āḍānā",
+    "section": "Sanchārī",
+    "text": "Sanchārī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(m\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(n\\)\n\\(P\\)\n\\(P\\)\n\n\nku\nca\n-\nde\n-\nkha\nca\n-\nkra\nvā\n-\nka\n\n\n\\(m\\)\n\\(P\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(n\\)\n\\(P\\)\n\n\nna\nga\nra\nna\nra\nhe\nya\nha\nkā\n-\nra\nṇa\n\n\n\\(m\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(n\\)\n\\(P\\)\n\\(P\\)\n\n\nku\nca\n-\nde\n-\nkha\nca\n-\nkra\nvā\n-\nka\n\n\n\\(m\\)\n\\(P\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{nP}\\)\n\\(n\\)\n\\(P\\)\n\n\nna\nga\nra\nna\nra\nhe\nya\nha\nkā\n-\nra\nṇa\n\n\n\\(\\lb{\\sps{m}g}\\)\n\\(\\lb{\\sps{m}g}\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\sps{P}n}\\)\n\\(P\\)\n\\(m\\)\n\\(g\\)\n\\(m\\)\n\\(R\\)\n\\(-\\)\n\\(S\\)\n\n\nta\nna\ndu\nti\nde\nkha\nkā\n-\n-\nñca\n-\nna\n\n\n\\(S\\)\n\\(m\\)\n\\(m\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(\\lb{nd}\\)\n\\(n\\)\n\\(P\\)\n\n\nā\n-\nga\nme\nja\n-\nro\n-\n-\n-\n-\nrī"
+  },
+  {
+    "objectID": "chapters/beṇi_nirakhata_bhujanga.html#ābhog",
+    "href": "chapters/beṇi_nirakhata_bhujanga.html#ābhog",
+    "title": "Rāg Āḍānā",
+    "section": "Ābhog",
+    "text": "Ābhog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nsiṃ\n-\nha\nbā\n-\nkī\nka\nṭi\nne\nhā\n-\nra\n\n\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\tr{m}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nga\nyo\nva\nna\npa\nra\nda\nra\npa\nhā\n-\nra\n\n\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{nd}\\)\n\\(\\lb{nP}\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nsiṃ\n-\nha\nvā\n-\nkī\nka\nṭi\nne\nhā\n-\nra\n\n\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\tr{m}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nga\nyo\nva\nna\npa\nra\nda\nra\npa\nhā\n-\nra\n\n\n\\(\\lb{\\sps{P}n}\\)\n\\(\\lb{mP}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{m}}\\tr{g}}\\)\n\\(\\tr{g}\\)\n\\(\\lb{\\tr{g}\\tr{m}}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\n\nkṣe\n-\nma\nra\nsi\nka\ncha\nba\nni\nra\nkha\nta\n\n\n\\(\\lb{\\tr{S}\\tr{R}}\\)\n\\(N\\)\n\\(N\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\sps{n}d}\\)\n\\(\\lb{nm}\\)\n\\(P\\)\n\n\nde\n-\nta ba\n-\nli\n-\nhā\n-\n-\nrī\n-\n-"
+  },
+  {
+    "objectID": "chapters/bunda_pavana_puravai.html",
+    "href": "chapters/bunda_pavana_puravai.html",
+    "title": "Rāg Hamīr",
+    "section": "",
+    "text": "Composer: Hitaparakh  ·  Tāl: Cautāl (Drut)"
+  },
+  {
+    "objectID": "chapters/bunda_pavana_puravai.html#lyrics",
+    "href": "chapters/bunda_pavana_puravai.html#lyrics",
+    "title": "Rāg Hamīr",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\nbunda pavana puravāi garaja garaja barakhata ghana\n\nAntarā\n\numaḍa ghumaḍa cahudisa ghana ati ghera āvata,\nmadana dahana karata tana, una bina kaise rahata bhavana\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nCautāl is a 12-beat cycle divided as 2 + 2 + 2 + 2 + 2 + 2 (vibhāgs marked X, O, 2, O, 3, 4). Each row below shows one complete cycle: the twelve columns correspond to beats 1–12, with sam X at beat 1, O (khālī) at beat 3, 2 at beat 5, O (khālī) at beat 7, 3 at beat 9, and 4 at beat 11.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/bunda_pavana_puravai.html#sthāyī",
+    "href": "chapters/bunda_pavana_puravai.html#sthāyī",
+    "title": "Rāg Hamīr",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(P\\)\n\\(\\lb{-M}\\)\n\\(D\\)\n\\(\\lb{PP}\\)\n\\(\\lb{\\sps{P}G}\\)\n\\(M\\)\n\\(D\\)\n\\(-\\)\n\\(D\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\n\nbun\n-\nda\npa\nva\nna\npu\n-\nra\nvā\n-\ni\n\n\n\\(\\lb{PM}\\)\n\\(P\\)\n\\(\\lb{\\sps{P}G}\\)\n\\(\\lb{\\sps{m}G}\\)\n\\(\\lb{\\sps{G}D}\\)\n\\(P\\)\n\\(\\lb{\\sps{P}G}\\)\n\\(G\\)\n\\(\\lb{Gm}\\)\n\\(R\\)\n\\(S\\)\n\\(S\\)\n\n\nga\nra\nja\nga\nra\nja\nba\nra\nkha\nta\ngha\nna"
+  },
+  {
+    "objectID": "chapters/bunda_pavana_puravai.html#antarā",
+    "href": "chapters/bunda_pavana_puravai.html#antarā",
+    "title": "Rāg Hamīr",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\nO\n\n2\n\nO\n\n3\n\n4\n\n\n\n\n\n\\(\\lb{PM}\\)\n\\(D\\)\n\\(P\\)\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nu\nma\nḍa\nghu\nma\nḍa\nca\nhu\n-\ndi\n-\nsa\n\n\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}D}\\)\n\\(\\lb{ND}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\ngha\nna\n-\na\n-\nti\nghe\n-\nra\nā\nva\nta\n\n\n\\(\\lb{PM}\\)\n\\(D\\)\n\\(P\\)\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nu\nma\nḍa\nghu\nma\nḍa\nca\nhu\n-\ndi\n-\nsa\n\n\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}D}\\)\n\\(\\lb{ND}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\ngha\nna\n-\na\n-\nti\nghe\n-\nra\nā\nva\nta\n\n\n\\(\\lb{mG}\\)\n\\(G\\)\n\\(\\lb{PM}\\)\n\\(D\\)\n\\(M\\)\n\\(P\\)\n\\(G\\)\n\\(m\\)\n\\(R\\)\n\\(\\mn{N}\\)\n\\(R\\)\n\\(S\\)\n\n\nma\nda\nna\nda\nha\nna\nka\nra\nta\n-\nta\nna\n\n\n\\(S\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}N}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(\\lb{PM}\\)\n\\(G\\)\n\\(m\\)\n\n\nu\nna\nbi\nna\nkai\nse\nra\nha\nta\nbha\nva\nna"
+  },
+  {
+    "objectID": "chapters/caturanga_rasa_sana.html",
+    "href": "chapters/caturanga_rasa_sana.html",
+    "title": "Rāg Iman kalyaṅ",
+    "section": "",
+    "text": "Composer: Sadāraṅga  ·  Tāl: Jaladtetālā (Madhyalay)"
+  },
+  {
+    "objectID": "chapters/caturanga_rasa_sana.html#lyrics",
+    "href": "chapters/caturanga_rasa_sana.html#lyrics",
+    "title": "Rāg Iman kalyaṅ",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\ncaturaṅga rasa sana gāye ho gāyana guṇī āye\nmahammadaśā ke ghara kāja hastī turaṅga sarasa sukha pāve\ndāna māna sundara jara śira pāiye\n\nAntarā\n\nsare sare gaga regagare sa papa gaga resa sare gama papa\ndhadhapa dhadhapa ninidha ninidhadha papamama gagarega garesa\n\nSanchārī\n\nnāderder dāni tomderder diyānāre tom tānānatāna\ntānānānā nāder der dāni tadāni tadāre tānānānā nānā\ndīm tānādīm tānānānā nānānānā nānānānā nānānānā\ndhalāṃ dhalāṃ dhalāṃ dhalāṃ\n\nĀbhog\n\ndṛgitoma dṛgitoma dṛmikeṭe dṛmikeṭe thārikeṭe\nthārikeṭe tākujhāku tāku jhāku nāga diga diga\nthaṃ naṃ naṃ thuṃ diga diga toma ambo ambo amboiyā\ntiyā iyā tiya iyā tiyā iyā tiyā iyā tiyā iyā\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nJaladtetālā (drut Tintāl) is a 16-beat cycle divided as 4 + 4 + 4 + 4 (vibhāgs marked X, 2, O, 3). Each row below shows one complete cycle: the sixteen columns correspond to beats 1–16, with sam X at beat 1, 2 at beat 5, O (khālī) at beat 9, and 3 at beat 13.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/caturanga_rasa_sana.html#sthāyī",
+    "href": "chapters/caturanga_rasa_sana.html#sthāyī",
+    "title": "Rāg Iman kalyaṅ",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(M\\)\n\\(G\\)\n\\(P\\)\n\n\n-\n-\n-\n-\n-\n-\n-\n-\nca\ntu\nra\nṅga\nra\nsa\nsa\nna\n\n\n\\(G\\)\n\\(\\lb{-R}\\)\n\\(S\\)\n\\(R\\)\n\\(G\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(M\\)\n\\(G\\)\n\\(P\\)\n\n\ngā\n-\n-\nye\nho\n-\n-\n-\nca\ntu\nra\nṅga\nra\nsa\nsa\nna\n\n\n\\(G\\)\n\\(\\lb{-R}\\)\n\\(S\\)\n\\(R\\)\n\\(G\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(-\\)\n\\(P\\)\n\\(P\\)\n\\(R\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\n\ngā\n-\n-\nye\nho\n-\n-\ngā\nya\n-\nna\n-\n-\n-\n-\ngu\n\n\n\\(P\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(-\\)\n\n\nṇī\n-\n-\n-\nā\n-\nye\n-\nma\nha\n-\nmma\nda\n-\nśā\n-\n\n\n\\(P\\)\n\\(D\\)\n\\(P\\)\n\\(M\\)\n\\(G\\)\n\\(-\\)\n\\(D\\)\n\\(-\\)\n\\(P\\)\n\\(D\\)\n\\(P\\)\n\\(M\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\n\nke\n-\n-\n-\ngha\n-\nra\n-\nkā\n-\n-\n-\n-\n-\n-\n-\n\n\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(R\\)\n\\(-\\)\n\\(S\\)\n\\(-\\)\n\\(S\\)\n\\(S\\)\n\\(\\mn{D}\\)\n\\(-\\)\n\\(S\\)\n\\(S\\)\n\\(S\\)\n\\(S\\)\n\n\n-\n-\n-\n-\n-\n-\nja\n-\nha\n-\nstī\n-\ntu\nra\nṅga\nsa\n\n\n\\(S\\)\n\\(S\\)\n\\(S\\)\n\\(S\\)\n\\(R\\)\n\\(-\\)\n\\(S\\)\n\\(-\\)\n\\(S\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(-\\)\n\\(R\\)\n\\(R\\)\n\\(-\\)\n\n\nra\nsa\nsu\nkha\npā\n-\nve\n-\ndā\n-\nna\nmā\n-\nna\nsu\n-\n\n\n\\(R\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(S\\)\n\n\nnda\nra\nja\nra\nśi\nra\npā\n-\n-\n-\n-\n-\n-\n-\n-\n-\n\n\n\\(G\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(R\\)\n\\(-\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\n-\n-\n-\n-\ni\n-\nye\n-\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/caturanga_rasa_sana.html#antarā",
+    "href": "chapters/caturanga_rasa_sana.html#antarā",
+    "title": "Rāg Iman kalyaṅ",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(S\\)\n\\(R\\)\n\\(S\\)\n\\(R\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\n\n-\n-\n-\n-\n-\n-\n-\n-\nsā\nre\nsā\nre\ngā\ngā\nre\ngā\n\n\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(-\\)\n\\(P\\)\n\\(P\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(S\\)\n\\(R\\)\n\\(G\\)\n\\(M\\)\n\\(P\\)\n\\(P\\)\n\n\ngā\nre\nsā\n-\npā\npā\ngā\ngā\nre\nsā\nsā\nre\ngā\nmā\npā\npā\n\n\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(D\\)\n\\(N\\)\n\\(N\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(M\\)\n\n\ndhā\ndhā\npā\ndhā\ndhā\npā\nni\nni\ndhā\nni\nni\ndhā\ndhā\npā\npā\nmā\n\n\n\\(M\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nmā\ngā\ngā\nre\ngā\ngā\nre\nsā\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/caturanga_rasa_sana.html#sanchārī",
+    "href": "chapters/caturanga_rasa_sana.html#sanchārī",
+    "title": "Rāg Iman kalyaṅ",
+    "section": "Sanchārī",
+    "text": "Sanchārī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(P\\)\n\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\nnā\nder\nder\ndā\n\n\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(-\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(N\\)\n\\(D\\)\n\\(N\\)\n\n\nni\ntom\nder\nder\ndi\nyā\nnā\nre\ntom\n-\ntā\nnā\nna\ntā\n-\nna\n\n\n\\(\\lb{PM}\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(N\\)\n\\(D\\)\n\\(N\\)\n\\(\\lb{PM}\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{PM}\\)\n\\(P\\)\n\\(G\\)\n\\(G\\)\n\n\ntā\nnā\nnā\nnā\nnā\nder\nder\ndā\nni\ntā\ndā\nni\nta\ndā\n-\nre\n\n\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(P\\)\n\\(M\\)\n\\(P\\)\n\\(R\\)\n\\(-\\)\n\\(G\\)\n\\(P\\)\n\\(P\\)\n\\(R\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\ntā\nnā\nnā\nnā\nnā\n-\nnā\ndī\nm\ntā\nnā\n-\ndīm\n-\n-\n-\n\n\n\\(R\\)\n\\(G\\)\n\\(M\\)\n\\(P\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{G}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\n\ntā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\nnā\n\n\n\\(D\\)\n\\(D\\)\n\\(\\lb{PP}\\)\n\\(M\\)\n\\(\\lb{GG}\\)\n\\(-\\)\n\\(\\lb{RR}\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\ndha\nlāṃ\ndhalāṃ\n-\ndha\nlāṃ\ndha\nlāṃ\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/caturanga_rasa_sana.html#ābhog",
+    "href": "chapters/caturanga_rasa_sana.html#ābhog",
+    "title": "Rāg Iman kalyaṅ",
+    "section": "Ābhog",
+    "text": "Ābhog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(S\\)\n\\(S\\)\n\\(S\\)\n\\(-\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(P\\)\n\\(P\\)\n\n\n-\n-\n-\n-\ndṛ\ngi\ntoma\n-\ndṛ\ngi\ntoma\n-\ndṛ\nmi\nke\nṭe\n\n\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(D\\)\n\\(D\\)\n\\(D\\)\n\n\ndṛ\nmi\nke\nṭe\nthā\nri\nke\nṭe\nthā\nri\nke\nṭe\ntā\nku\njhā\nku\n\n\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(P\\)\n\\(P\\)\n\\(D\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(P\\)\n\\(D\\)\n\\(P\\)\n\\(-\\)\n\n\ntā\nku\njhā\nku\nnāga\ndiga\ndiga\ntham\nnaṃ\nnaṃ\nthuṃ\n-\ndiga\ndiga\ntom\n-\n\n\n\\(P\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(R\\)\n\\(S\\)\n\\(-\\)\n\\(S\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(-\\)\n\n\na\n-\nmvo\na\n-\nmvo\na\n-\nmvo\n-\n-\n-\ni\n-\nyā\n-\n\n\n\\(S\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(R\\)\n\\(G\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\n\nti\nyā\ni\nyā\nti\nyā\ni\nyā\nti\nyā\n-\ni\nyā\n-\nti\n-\n\n\n\\(G\\)\n\\(-\\)\n\\(P\\)\n\\(P\\)\n\\(R\\)\n\\(-\\)\n\\(-\\)\n\\(R\\)\n\\(R\\)\n\\(G\\)\n\\(M\\)\n\\(P\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\n\nyā\n-\ni\n-\nyā\n-\n-\nti\nyā\n-\n-\n-\n-\n-\n-\n-\n\n\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\ni\n-\n-\n-\n-\n-\n-\nyā\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "rag-purvi.html",
+    "href": "rag-purvi.html",
+    "title": "Rāg Pūrvī",
+    "section": "",
+    "text": "E dhana dhana"
+  },
+  {
+    "objectID": "rag-purvi.html#songs-in-this-collection",
+    "href": "rag-purvi.html#songs-in-this-collection",
+    "title": "Rāg Pūrvī",
+    "section": "",
+    "text": "E dhana dhana"
+  },
+  {
+    "objectID": "rag-natmalhar.html",
+    "href": "rag-natmalhar.html",
+    "title": "Rāg Naṭ malhār",
+    "section": "",
+    "text": "Dārādīm dārā dīm"
+  },
+  {
+    "objectID": "rag-natmalhar.html#songs-in-this-collection",
+    "href": "rag-natmalhar.html#songs-in-this-collection",
+    "title": "Rāg Naṭ malhār",
+    "section": "",
+    "text": "Dārādīm dārā dīm"
+  },
+  {
+    "objectID": "rag-alahiya.html",
+    "href": "rag-alahiya.html",
+    "title": "Rāg Ālāhiyā",
+    "section": "",
+    "text": "ḍapha bājata mohana"
+  },
+  {
+    "objectID": "rag-alahiya.html#songs-in-this-collection",
+    "href": "rag-alahiya.html#songs-in-this-collection",
+    "title": "Rāg Ālāhiyā",
+    "section": "",
+    "text": "ḍapha bājata mohana"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html",
+    "title": "Rāg Niśāsāg",
+    "section": "",
+    "text": "Composer: Tulasīdās  ·  Tāl: Jhāpatāl (Madhyalay)"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#lyrics",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#lyrics",
+    "title": "Rāg Niśāsāg",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\ndusaha dokha-dukha dalani, karu devi dayā\n\nAntarā-1\n\nviśva mūlāhasi jana sānukulāsi\nkaraśūla dhāriṇi mahāmūla māyā\n\nAntarā-2\n\ntaḍita garbhāṅga sarvāṅga sundara lasita\ndivya paṭa bhavya bhūkhana birāje\n\nAntarā-3\n\nvāla mṛga mañju khañjani vilocani\ncandravadani lakhi koṭa rati māra lāje\n\nAntarā-4\n\nrūpa-sukha-śīla sīmāhsi bhīmāhasi\nrāmhāsi vāmāsi vara vuddhi vāṇī\n\nAntarā-5\n\nchamukha heramva amvāsi jagadamvike\nśamvu jāyāsi jaya jaya bhavāni\n\nAntarā-6\n\ncaṇḍa bhuja daṇḍa khaṇḍani vihaṇḍani muṇḍa\nmahikha mada bhaṅga kari aṅga tore\n\nAntarā-7\n\nśumbha niśumva kumbhīśa raṇa keśarina\nkrodha vāridha vairī vṛnda vore\n\nAntarā-8\n\nnigama āgama agama gurviva tava guṇa kathana\nurvivadhara bhaṇata dohe sahasa jihvā\n\nAntarā-9\n\ndehi mā mohe praṇa prema nita nema yaha\nrāma ghana śyāma tulasī papīhā\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nJhāpatāl is a 10-beat cycle divided as 2 + 3 + 2 + 3 (vibhāgs marked X, 2, O, 3). Each row below shows one complete cycle: the ten columns correspond to beats 1–10, with sam X at beat 1, 2 at beat 3, O (khālī) at beat 6, and 3 at beat 8.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#sthāyī",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#sthāyī",
+    "title": "Rāg Niśāsāg",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(R\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\n\n-\n-\n-\n-\n-\n-\n-\ndu\nsa\nha\n\n\n\\(R\\)\n\\(\\lb{GR}\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\sps{P}D}\\)\n\\(\\lb{\\sps{P}D-P}\\)\n\\(m\\)\n\\(m\\)\n\\(m\\)\n\n\ndo\n-\nkha\ndu\nkha\nda\nla\nni\nka\nru\n\n\n\\(G\\)\n\\(\\lb{-R}\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nde\n-\nvi\nda\n-\nyā\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-1",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-1",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-1",
+    "text": "Antarā-1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nvi\n-\nśva\nmū\n-\nlāha\n-\nsi\nja\nna\n\n\n\\(\\lb{\\sps{N}\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\nsā\n-\nnu\nku\n-\nlā\n-\nsi\nka\nra\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nvi\n-\nśva\nmū\n-\nlāha\n-\nsi\nja\nna\n\n\n\\(\\lb{\\sps{N}\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\nsā\n-\nnu\nku\n-\nlā\n-\nsi\nka\nra\n\n\n\\(n\\)\n\\(n\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(n\\)\n\n\nśū\n-\nla\ndhā\n-\nri\nṇi\nma\nhā\n-\n\n\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(\\lb{\\sps{R}G}\\)\n\\(R\\)\n\\(G\\)\n\\(G\\)\n\\(S\\)\n\n\nmū\n-\nla\nmā\n-\nyā\n-\ndu\nsa\nha"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-2",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-2",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-2",
+    "text": "Antarā-2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(n\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\n\nta\nḍi\nta\nga\n-\nrbhā\n-\nṅga\nsa\n-\n\n\n\\(G\\)\n\\(\\lb{mG}\\)\n\\(m\\)\n\\(\\lb{\\sps{m}n}\\)\n\\(-\\)\n\\(\\lb{DP}\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\n\nrvā\n-\nṅga\nsu\n-\nnda\nra\nla\nsi\nta\n\n\n\\(\\lb{\\sps{R}G}\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\\(m\\)\n\\(R\\)\n\n\ndi\n-\nvya\npa\nṭa\nbha\n-\nvya\nbhū\n-\n\n\n\\(G\\)\n\\(R\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nkha\nna\nbi\nrā\n-\nje\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-3",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-3",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-3",
+    "text": "Antarā-3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{ND}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\n\nvā\n-\nla\nmṛ\nga\nma\n-\nñju\nkha\n-\n\n\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}\\tr{S}}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(n\\)\n\\(P\\)\n\n\nñja\nni\nvi\nlo\n-\nca\nni\nca\n-\nndra\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{ND}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\n\nvā\n-\nla\nmṛ\nga\nma\n-\nñju\nkha\n-\n\n\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{S}\\tr{S}}\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\sps{\\tr{S}}N}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(n\\)\n\\(P\\)\n\n\nñja\nni\nvi\nlo\n-\nca\nni\nca\n-\nndra\n\n\n\\(n\\)\n\\(D\\)\n\\(m\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nva\nda\nna\nla\nkhi\nko\n-\nṭa\nra\nti\n\n\n\\(\\lb{\\tr{S}\\tr{R}}\\)\n\\(n\\)\n\\(n\\)\n\\(\\lb{DD}\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nmā\nra\n-\nlā\n-\nje\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-4",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-4",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-4",
+    "text": "Antarā-4\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(\\tr{S}\\)\n\\(-\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{N-\\tr{S}}\\)\n\\(n\\)\n\\(D\\)\n\\(n\\)\n\\(-\\)\n\n\nrū\n-\npa\nsu\nkha\nśī\n-\nla\nsī\n-\n\n\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(\\lb{\\sps{m}n}\\)\n\\(-\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(-\\)\n\n\nmāh\n-\nsi\nbhī\n-\nmā\n-\nsi\nrā\n-\n\n\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(\\lb{GP}\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\n\nmhā\n-\nsi\nvā\n-\nmā\n-\nsi\nva\nra\n\n\n\\(S\\)\n\\(-\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nvu\n-\nddhi\nvā\n-\nṇī\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-5",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-5",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-5",
+    "text": "Antarā-5\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\ncha\nmu\nkha\nhe\n-\nra\n-\nmva\n-\na\n\n\n\\(\\lb{N\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(n\\)\n\n\nmvā\n-\nsi\nja\nga\nda\n-\nmvi\nke\n-\n\n\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\ncha\nmu\nkha\nhe\n-\nra\n-\nmva\n-\na\n\n\n\\(\\lb{N\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(n\\)\n\n\nmvā\n-\nsi\nja\nga\nda\n-\nmvi\nke\n-\n\n\n\\(D\\)\n\\(\\lb{-P}\\)\n\\(m\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{\\tr{S}\\tr{S}}\\)\n\\(\\tr{R}\\)\n\n\nśa\n-\nmvu\njā\n-\nyā\n-\nsi\nja\nya\n\n\n\\(\\lb{\\tr{S}n}\\)\n\\(-\\)\n\\(D\\)\n\\(\\lb{\\sps{P}D}\\)\n\\(P\\)\n\\(m\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(S\\)\n\n\nja\nya\nbha\nvā\n-\nni\n-\ndu\nsa\nha"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-6",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-6",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-6",
+    "text": "Antarā-6\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(-\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\sps{N}\\tr{S}}\\)\n\\(-\\)\n\\(n\\)\n\\(D\\)\n\\(P\\)\n\n\nca\n-\nṇḍa\nbhu\nja\nda\n-\nṇḍa\nkha\n-\n\n\n\\(m\\)\n\\(G\\)\n\\(m\\)\n\\(\\lb{\\sps{m}n}\\)\n\\(-\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(-\\)\n\\(G\\)\n\n\nṇḍa\nni\nvi\nha\n-\nṇḍa\nni\nmu\n-\nṇḍa\n\n\n\\(\\lb{GR}\\)\n\\(G\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\\(\\lb{\\sps{m}G}\\)\n\\(m\\)\n\n\nma\nhi\nkha\nma\nda\nbha\n-\nṅga\nka\nri\n\n\n\\(R\\)\n\\(-\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\na\n-\nṅga\nto\n-\nre\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-7",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-7",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-7",
+    "text": "Antarā-7\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nśu\n-\nmbha\nni\n-\nśu\n-\nmva\n-\nku\n\n\n\\(\\tr{S}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(R\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\nmbhī\n-\nśa\nra\nṇa\nke\n-\nśa\nri\nna\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\n\nśu\n-\nmbha\nni\n-\nśu\n-\nmva\n-\nku\n\n\n\\(\\tr{S}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(R\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\nmbhī\n-\nśa\nra\nṇa\nke\n-\nśa\nri\nna\n\n\n\\(n\\)\n\\(n\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\tr{S}\\tr{S}}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\n\nkro\n-\ndha\nvā\n-\nri\ndha\nvai\n-\nrī\n\n\n\\(n\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(\\lb{\\sps{R}G}\\)\n\\(R\\)\n\\(G\\)\n\\(G\\)\n\\(S\\)\n\n\nvṛ\n-\nnda\nvo\n-\nre\n-\ndu\nsa\nha"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-8",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-8",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-8",
+    "text": "Antarā-8\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\sps{\\tr{S}}\\tr{R}n}\\)\n\\(-\\)\n\\(\\lb{DP}\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\n\nni\nga\nma\nā\n-\nga\nma\na\nga\nma\n\n\n\\(\\lb{\\sps{R}G}\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\sps{P}D}\\)\n\\(m\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\n\ngu\n-\nrviva\nta\nva\ngu\nṇa\nka\ntha\nna\n\n\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(R\\)\n\n\nu\n-\nrviva\ndha\nra\nbha\nṇa\nta\ndo\nhe\n\n\n\\(S\\)\n\\(S\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nsa\nha\nsa\nji\n-\nhvā\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/dusaha_dokha-dukha_dalani.html#antarā-9",
+    "href": "chapters/dusaha_dokha-dukha_dalani.html#antarā-9",
+    "title": "Rāg Niśāsāg",
+    "section": "Antarā-9",
+    "text": "Antarā-9\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n2\n\n\nO\n\n3\n\n\n\n\n\n\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(N\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nde\n-\nhi\nmā\n-\nmo\n-\nhe\npra\nṇa\n\n\n\\(\\lb{\\sps{N}\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\n\npre\n-\nma\nni\nta\nne\n-\nma\nya\nha\n\n\n\\(n\\)\n\\(n\\)\n\\(m\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\nrā\n-\nma\ngha\nna\nśyā\n-\nma\ntu\nla\n\n\n\\(\\lb{\\tr{S}\\tr{R}}\\)\n\\(n\\)\n\\(\\lb{DP}\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(S\\)\n\n\nsī\n-\npa\npī\n-\nhā\n-\ndu\nsa\nha"
+  },
+  {
+    "objectID": "chapters/dapha_bajata_mohana.html",
+    "href": "chapters/dapha_bajata_mohana.html",
+    "title": "Rāg Ālāhiyā",
+    "section": "",
+    "text": "Composer: Adāraṅga  ·  Tāl: Dhamār (Madhyalay)"
+  },
+  {
+    "objectID": "chapters/dapha_bajata_mohana.html#lyrics",
+    "href": "chapters/dapha_bajata_mohana.html#lyrics",
+    "title": "Rāg Ālāhiyā",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\nḍapha bājata mohana chabi chājata\nnācata gata so ānanda de de de de tāri\n\nAntarā\n\ntāla mṛdaṅga upāṅga bīṇa dhuna\nnevara kī jhanakāra kārī\n\nSanchārī\n\ngvāla bāla saba saṅga sakhā ṭhāḍhe\nbane sāgara nāgara banacārī\n\nĀbhog\n\ndekhi adāraṅga bhūla pyārī ko\naṅga samāna tāri\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nDhamār is a 14-beat cycle divided as 5 + 2 + 3 + 4 (vibhāgs marked X, 2, O, 3). Each row below shows one complete cycle: the fourteen columns correspond to beats 1–14, with sam X at beat 1, 2 at beat 6, O (khālī) at beat 8, and 3 at beat 11.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/dapha_bajata_mohana.html#sthāyī",
+    "href": "chapters/dapha_bajata_mohana.html#sthāyī",
+    "title": "Rāg Ālāhiyā",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n\n2\n\nO\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(D\\)\n\\(N\\)\n\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\nḍa\npha\n\n\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\lb{\\tr{R}\\tr{S}}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\\(D\\)\n\\(-\\)\n\\(P\\)\n\\(m\\)\n\n\nbā\n-\n-\nja\n-\nta\n-\n-\n-\nmo\nha\n-\nna\n-\n\n\n\\(P\\)\n\\(m\\)\n\\(-\\)\n\\(\\lb{Gm}\\)\n\\(\\lb{Gm}\\)\n\\(R\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(-\\)\n\\(\\lb{Gm}\\)\n\\(R\\)\n\\(G\\)\n\\(-\\)\n\n\ncha\nbi\n-\nchā\n-\n-\n-\nja\nta\n-\nnā\n-\n-\n-\n\n\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(\\lb{Gm}\\)\n\\(\\lb{Gm}\\)\n\\(R\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\\(R\\)\n\\(-\\)\n\n\nca\nta\n-\nga\n-\nta\n-\n-\n-\n-\nso\n-\n-\n-\n\n\n\\(\\lb{SS}\\)\n\\(-\\)\n\\(-\\)\n\\(S\\)\n\\(S\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(-\\)\n\\(D\\)\n\\(-\\)\n\\(N\\)\n\\(-\\)\n\n\n-\n-\n-\nāna\nnda\nde\n-\n-\nde\n-\nde\n-\n-\n-\n\n\n\\(\\lb{DN}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(-\\)\n\n\nde\n-\n-\ntā\n-\n-\n-\n-\n-\n-\n-\nri\n-\n-"
+  },
+  {
+    "objectID": "chapters/dapha_bajata_mohana.html#antarā",
+    "href": "chapters/dapha_bajata_mohana.html#antarā",
+    "title": "Rāg Ālāhiyā",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n\n2\n\nO\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{ND}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\n-\n-\n-\ntā\n-\nla\nmṛ\nda\n-\n-\n-\n-\nṅga\nu\n\n\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{R}\\)\n\\(\\lb{\\tr{G}\\tr{R}}\\)\n\\(\\tr{G}\\)\n\\(-\\)\n\\(\\tr{R}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\lb{\\sps{\\tr{R}}\\tr{S}}\\)\n\\(\\tr{S}\\)\n\n\npā\n-\n-\nṅga\n-\nbī\n-\nṇa\n-\n-\ndhu\n-\nna\n-\n\n\n\\(\\tr{S}\\)\n\\(D\\)\n\\(P\\)\n\\(P\\)\n\\(D\\)\n\\(m\\)\n\\(\\lb{Pm}\\)\n\\(P\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(D\\)\n\\(N\\)\n\n\n-\n-\n-\nne\nva\n-\n-\nra\n-\n-\nkī\n-\njha\nna\n\n\n\\(\\lb{\\sps{D}N}\\)\n\\(-\\)\n\\(\\lb{-\\tr{R}}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(-\\)\n\n\nkā\n-\n-\nra\n-\nkā\n-\n-\n-\n-\n-\nrī\n-\n-"
+  },
+  {
+    "objectID": "chapters/dapha_bajata_mohana.html#sanchārī",
+    "href": "chapters/dapha_bajata_mohana.html#sanchārī",
+    "title": "Rāg Ālāhiyā",
+    "section": "Sanchārī",
+    "text": "Sanchārī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n\n2\n\nO\n\n\n3\n\n\n\n\n\n\n\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(S\\)\n\\(-\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(P\\)\n\\(-\\)\n\\(D\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\n\ngvā\n-\n-\nla\n-\nbā\n-\n-\nla\n-\nsa\n-\nba\n-\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(D\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(D\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\n\n-\n-\n-\nsa\n-\nṅga\nsa\nkhā\n-\n-\nṭhā\n-\nḍhe\n-\n\n\n\\(m\\)\n\\(G\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(G\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(-\\)\n\\(\\lb{Gm}\\)\n\\(R\\)\n\\(G\\)\n\\(-\\)\n\n\n-\n-\n-\nba\nne\nsā\n-\nga\nra\n-\nnā\n-\n-\n-\n\n\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(\\lb{Gm}\\)\n\\(\\lb{Gm}\\)\n\\(R\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\\(R\\)\n\\(-\\)\n\n\nga\nra\n-\nba\n-\nna\n-\n-\n-\n-\ncā\n-\nrī\n-"
+  },
+  {
+    "objectID": "chapters/dapha_bajata_mohana.html#ābhog",
+    "href": "chapters/dapha_bajata_mohana.html#ābhog",
+    "title": "Rāg Ālāhiyā",
+    "section": "Ābhog",
+    "text": "Ābhog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n\n2\n\nO\n\n\n3\n\n\n\n\n\n\n\n\\(S\\)\n\\(-\\)\n\\(-\\)\n\\(\\lb{\\sps{S}\\tr{S}}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\n\n-\n-\n-\nde\n-\nkhi\nā\ndā\n-\n-\nra\n-\nṅga\n-\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{G}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\n\n-\n-\n-\nbhū\n-\nla\n-\npyā\n-\n-\nrī\n-\nko\n-\n\n\n\\(\\lb{N\\tr{S}}\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(P\\)\n\\(\\lb{\\sps{P}\\tr{S}}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(P\\)\n\\(-\\)\n\\(D\\)\n\\(-\\)\n\\(N\\)\n\\(-\\)\n\n\n-\n-\n-\na\n-\nṅga\nsa\nmā\n-\n-\n-\n-\n-\n-\n\n\n\\(\\lb{\\sps{D}N}\\)\n\\(-\\)\n\\(\\lb{-\\tr{R}}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(\\lb{N\\tr{S}}\\)\n\\(D\\)\n\\(N\\)\n\\(-\\)\n\\(P\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\n-\n-\n-\nna\n-\ntā\n-\n-\n-\n-\nri\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/daradim_daradim.html",
+    "href": "chapters/daradim_daradim.html",
+    "title": "Rāg Naṭ malhār",
+    "section": "",
+    "text": "Composer: Manaraṅg  ·  Tāl: Tintāl (Madhyalay)"
+  },
+  {
+    "objectID": "chapters/daradim_daradim.html#lyrics",
+    "href": "chapters/daradim_daradim.html#lyrics",
+    "title": "Rāg Naṭ malhār",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\ndārādīm dārā dīm dāra dīm dāra tadāre dāni dāni\ntānā nāder der tom tānānā tānā tomder tadāre\ndāni tadāni tātādāni dāni dāni dāni\n\nAntarā\n\nabro vādo maho khuraśedo phalak dar kāranda\ntā to nāne vakaph arī o vagaphlat na khurī\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nTintāl is a 16-beat cycle divided as 4 + 4 + 4 + 4 (vibhāgs marked X, 2, O, 3). Each row below shows one complete cycle: the sixteen columns correspond to beats 1–16, with sam X at beat 1, 2 at beat 5, O (khālī) at beat 9, and 3 at beat 13.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/daradim_daradim.html#sthāyī",
+    "href": "chapters/daradim_daradim.html#sthāyī",
+    "title": "Rāg Naṭ malhār",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(S\\)\n\\(S\\)\n\\(R\\)\n\\(S\\)\n\\(R\\)\n\\(R\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\n\n-\n-\n-\ndā\nrā\ndī\nm\ndā\nrā\ndī\nm\ndā\nrā\ndī\nm\ndā\n\n\n\\(m\\)\n\\(G\\)\n\\(-\\)\n\\(S\\)\n\\(S\\)\n\\(R\\)\n\\(S\\)\n\\(R\\)\n\\(R\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(D\\)\n\\(D\\)\n\\(P\\)\n\n\nrā\n-\n-\ndā\nrā\ndī\nm\ndā\nrā\ndī\nm\ndā\nrā\ndī\nm\ndā\n\n\n\\(m\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\\(m\\)\n\\(R\\)\n\\(-\\)\n\\(R\\)\n\\(\\lb{Gm}\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(\\lb{\\sps{R}G}\\)\n\\(-\\)\n\\(R\\)\n\\(S\\)\n\n\nrā\n-\n-\n-\n-\n-\n-\nta\ndā\n-\nre\n-\n-\n-\ndā\nni\n\n\n\\(R\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(R\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\sps{P}n}\\)\n\\(\\lb{\\sps{D}n}\\)\n\\(m\\)\n\\(P\\)\n\n\ndā\nni\ntā\nnā\nnā\nder\nder\nto\nm\ntā\nnā\nnā\ntā\nnā\ntom\nder\n\n\n\\(D\\)\n\\(\\lb{\\tr{S}\\tr{S}}\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{mn}\\)\n\\(D\\)\n\\(-\\)\n\\(P\\)\n\n\nta\ndā\nre\ndā\nni\nta\ndā\nni\ntā\ntā\ndā\nni\ndā\nni\n-\ndā\n\n\n\\(P\\)\n\\(m\\)\n\\(\\lb{\\sps{R}G}\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nni\ndā\nni\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/daradim_daradim.html#antarā",
+    "href": "chapters/daradim_daradim.html#antarā",
+    "title": "Rāg Naṭ malhār",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(P\\)\n\\(-\\)\n\\(m\\)\n\\(n\\)\n\\(D\\)\n\\(\\lb{nD}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\n\n-\n-\n-\n-\nab\nro\n-\nvā\ndo\n-\n-\nma\nho\n-\nkhur\nśe\n\n\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(P\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{R}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\lb{\\tr{R}\\tr{S}}\\)\n\\(\\tr{S}\\)\n\\(D\\)\n\\(-\\)\n\n\n-\n-\ndo\n-\n-\npha\nlak\ndar\nkā\n-\n-\n-\nra\n-\n-\n-\n\n\n\\(n\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(\\lb{DN}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(\\lb{DD}\\)\n\\(\\lb{Pm}\\)\n\\(P\\)\n\n\n-\nnda\n-\ntā\nto\nnā\n-\nne\n-\n-\nva\nkaph\na\nrī\n-\n-\n\n\n\\(m\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\\(m\\)\n\\(R\\)\n\\(-\\)\n\\(G\\)\n\\(R\\)\n\\(P\\)\n\\(-\\)\n\\(m\\)\n\\(\\lb{DD}\\)\n\\(\\lb{PP}\\)\n\\(m\\)\n\\(-\\)\n\n\no\n-\n-\n-\n-\n-\n-\nva\ngaph\nlat\n-\nna\nkhu\n-\nrī\n-\n\n\n\\(G\\)\n\\(m\\)\n\\(R\\)\n\\(S\\)\n\\(R\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(-\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{\\sps{P}n}\\)\n\\(\\lb{\\sps{D}n}\\)\n\\(m\\)\n\\(P\\)\n\n\n-\n-\ntā\nnā\nnā\nder\nder\ntom\n-\ntā\nnā\nnā\ntā\nnā\ntom\nder\n\n\n\\(D\\)\n\\(\\lb{\\tr{S}\\tr{S}}\\)\n\\(D\\)\n\\(P\\)\n\\(m\\)\n\\(P\\)\n\\(m\\)\n\\(G\\)\n\\(R\\)\n\\(G\\)\n\\(m\\)\n\\(P\\)\n\\(\\lb{mn}\\)\n\\(D\\)\n\\(-\\)\n\\(P\\)\n\n\nta\ndā\nre\ndā\nni\ntā\ndā\nni\ntā\ntā\ndā\nni\ndā\nni\n-\ndā\n\n\n\\(P\\)\n\\(m\\)\n\\(\\lb{\\sps{R}G}\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nni\ndā\nni\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/e_dhana_dhana.html",
+    "href": "chapters/e_dhana_dhana.html",
+    "title": "Rāg Pūrvī",
+    "section": "",
+    "text": "Composer: Sultān husain sirkī  ·  Tāl: Tintāl (Madhyalay)"
+  },
+  {
+    "objectID": "chapters/e_dhana_dhana.html#lyrics",
+    "href": "chapters/e_dhana_dhana.html#lyrics",
+    "title": "Rāg Pūrvī",
+    "section": "Lyrics",
+    "text": "Lyrics\n\nSthāyī\n\ne dhana dhana caraṇ parasata haī ānanda\nsukha bhayo mero tana mana caraṇ parasat\n\nAntarā\n\nsultān jarā jarī jarā bakś nizāmuddīn auliyā\n\n\n\n\n\n\n\n\nNoteReading the notation\n\n\n\n\n\nTintāl is a 16-beat cycle divided as 4 + 4 + 4 + 4 (vibhāgs marked X, 2, O, 3). Each row below shows one complete cycle: the sixteen columns correspond to beats 1–16, with sam X at beat 1, 2 at beat 5, O (khālī) at beat 9, and 3 at beat 13.\nThe sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash - indicates a held note or empty beat. Brackets \\(\\lb{\\cdot}\\) denote meend (glide) or grouped notes; superscripts \\(\\sps{\\cdot}\\) indicate the starting grace note of a glide; \\(\\tr{X}\\) denotes a note in the upper octave (tār saptak); \\(\\mn{X}\\) denotes a note in the lower octave (mandra saptak)."
+  },
+  {
+    "objectID": "chapters/e_dhana_dhana.html#sthāyī",
+    "href": "chapters/e_dhana_dhana.html#sthāyī",
+    "title": "Rāg Pūrvī",
+    "section": "Sthāyī",
+    "text": "Sthāyī\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\\(M\\)\n\\(P\\)\n\\(P\\)\n\\(P\\)\n\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\ne\n-\ndha\nna\n-\n\n\n\\(\\lb{DM}\\)\n\\(-\\)\n\\(P\\)\n\\(M\\)\n\\(P\\)\n\\(\\lb{\\sps{G}m}\\)\n\\(G\\)\n\\(-\\)\n\\(m\\)\n\\(G\\)\n\\(\\lb{rS}\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(r\\)\n\\(-\\)\n\n\ndha\n-\n-\n-\n-\nna\n-\n-\nca\nra\nṇ\n-\n-\npa\nra\n-\n\n\n\\(G\\)\n\\(m\\)\n\\(g\\)\n\\(-\\)\n\\(r\\)\n\\(-\\)\n\\(g\\)\n\\(M\\)\n\\(P\\)\n\\(M\\)\n\\(P\\)\n\\(D\\)\n\\(M\\)\n\\(P\\)\n\\(\\lb{\\sps{G}m}\\)\n\\(-\\)\n\n\nsa\n-\nta\n-\n-\n-\nhaī\n-\nā\n-\n-\nna\n-\n-\n-\n-\n\n\n\\(G\\)\n\\(r\\)\n\\(-\\)\n\\(\\lb{GM}\\)\n\\(P\\)\n\\(G\\)\n\\(r\\)\n\\(G\\)\n\\(r\\)\n\\(S\\)\n\\(-\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(r\\)\n\\(G\\)\n\\(M\\)\n\n\nnda\n-\n-\nsu\n-\nkha\n-\nbha\n-\nyo\n-\nme\nro\n-\nta\nna\n\n\n\\(P\\)\n\\(\\lb{DM}\\)\n\\(-\\)\n\\(P\\)\n\\(\\lb{MP}\\)\n\\(\\lb{\\sps{G}m}\\)\n\\(G\\)\n\\(-\\)\n\\(m\\)\n\\(G\\)\n\\(\\lb{rS}\\)\n\\(S\\)\n\\(\\mn{N}\\)\n\\(S\\)\n\\(r\\)\n\\(-\\)\n\n\nma\nna\n-\n-\n-\n-\n-\n-\nca\nra\nṇ\n-\n-\npa\nra\n-\n\n\n\\(G\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(m\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\\(r\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nsa\n-\n-\n-\n-\n-\nt\n-\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "chapters/e_dhana_dhana.html#antarā",
+    "href": "chapters/e_dhana_dhana.html#antarā",
+    "title": "Rāg Pūrvī",
+    "section": "Antarā",
+    "text": "Antarā\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nX\n\n\n\n2\n\n\n\nO\n\n\n\n3\n\n\n\n\n\n\n\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(G\\)\n\\(G\\)\n\\(P\\)\n\\(M\\)\n\\(D\\)\n\n\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\nsu\nl\ntā\n-\n-\n\n\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{r}\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\n\nn\n-\n-\n-\nja\nrā\n-\n-\n-\nja\nrī\n-\n-\nja\nrā\n-\n\n\n\\(\\tr{S}\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(-\\)\n\\(\\tr{r}\\)\n\\(\\tr{G}\\)\n\\(\\tr{r}\\)\n\\(-\\)\n\\(\\tr{S}\\)\n\\(-\\)\n\\(-\\)\n\\(N\\)\n\\(\\tr{S}\\)\n\\(N\\)\n\\(D\\)\n\\(N\\)\n\n\nba\nk\nś\n-\n-\nni\nzā\n-\nmu\n-\n-\n-\n-\nddī\n-\nn\n\n\n\\(\\tr{S}\\)\n\\(N\\)\n\\(\\lb{DP}\\)\n\\(P\\)\n\\(M\\)\n\\(P\\)\n\\(M\\)\n\\(P\\)\n\\(\\lb{\\sps{G}m}\\)\n\\(-\\)\n\\(G\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\\(-\\)\n\n\nau\nli\nyā\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-"
+  },
+  {
+    "objectID": "rag-nisasag.html",
+    "href": "rag-nisasag.html",
+    "title": "Rāg Niśāsāg",
+    "section": "",
+    "text": "Dusaha dokha-dukha dalani"
+  },
+  {
+    "objectID": "rag-nisasag.html#songs-in-this-collection",
+    "href": "rag-nisasag.html#songs-in-this-collection",
+    "title": "Rāg Niśāsāg",
+    "section": "",
+    "text": "Dusaha dokha-dukha dalani"
   }
 ]
