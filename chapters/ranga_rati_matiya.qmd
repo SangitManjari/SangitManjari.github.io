@@ -1,0 +1,76 @@
+---
+title: "Rāg Sarpardā"
+subtitle: "*raṅga rāti mātiyā*"
+description: "Composition by Adāraṅga, in Tilwādā (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Adāraṅga &nbsp;·&nbsp; **Tāl:** Tilwādā (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> raṅga rāti mātiyā āve piyā<br>bāta kahata itarāta āve piyā
+
+**Antarā**
+
+> ajahuna saha ninda piyā nainā batanāve<br>cāla calata itarāta āve piyā
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tilwādā is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the sixteen columns correspond to beats 1–16, with sam **X** at beat 1, tali **2** at beat 5, khālī **O** at beat 9, and tali **3** at beat 13.
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $R$ | $P$ | $\lb{Dn}$ | $D$ | $P$ | $-$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **ra** | **-** | **-** | **ṅga** | **rā** | **-** |
+| $\lb{mP}$ | $\lb{mm}$ | $G$ | $\lb{-m}$ | $\lb{Gm}$ | $\lb{\sps{R}G}$ | $R$ | $G$ | $m$ | $P$ | $-$ | $G$ | $m$ | $G$ | $R$ | $G$ |
+| **ti** | **-** | **mā** | **-** | **-** | **-** | **-** | **-** | **ti** | **yā** | **-** | **ā** | **-** | **ve** | **-** | **-** |
+| $R$ | $\lb{\mn{N}R}$ | $\lb{SS}$ | $-$ | $-$ | $-$ | $-$ | $\lb{SS}$ | $G$ | $m$ | $P$ | $P$ | $-$ | $-$ | $\lb{mP}$ | $P$ |
+| **pi** | **yā** | **-** | **-** | **-** | **-** | **-** | **bā** | **ta** | **ka** | **ha** | **ta** | **-** | **-** | **-** | **i** |
+| $P$ | $-$ | $-$ | $\lb{PP}$ | $\lb{DN}$ | $\tr{S}$ | $\tr{S}$ | $D$ | $-$ | $n$ | $P$ | $P$ | $m$ | $-$ | $n$ | $D$ |
+| **ta** | **-** | **-** | **rā** | **-** | **-** | **-** | **-** | **-** | **-** | **ta** | **ā** | **-** | **-** | **-** | **ve** |
+| $P$ | $\lb{mm}$ | $G$ | $\lb{Gm}$ | $\lb{PP}$ | $\lb{mG}$ | $\lb{RG}$ | $\lb{mm}$ | $\lb{GR}$ | $\lb{SS}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **-** | **-** | **pi** | **yā** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $P$ | $P$ | $\lb{\sps{P}N}$ | $D$ | $N$ | $\lb{N\tr{S}}$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **a** | **ja** | **hu** | **na** | **-** | **-** |
+| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{N\tr{S}}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{\sps{\tr{R}}\tr{S}\tr{S}}$ | $-$ | $-$ | $\tr{S}$ | $N$ | $\tr{S}$ | $D$ | $N$ | $\lb{N\tr{S}}$ |
+| **sa** | **ha** | **ni** | **-** | **-** | **nda** | **pi** | **yā** | **-** | **-** | **nai** | **nā** | **-** | **-** | **-** | **-** |
+| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\sps{\tr{R}}\tr{S}\tr{S}}$ | $D$ | $\lb{-n}$ | $P$ | $-$ | $-$ | $P$ | $P$ | $\lb{\sps{P}N}$ | $D$ | $N$ | $\lb{N\tr{S}}$ |
+| **va** | **ta** | **nā** | **-** | **ve** | **-** | **-** | **-** | **-** | **-** | **a** | **ja** | **hu** | **-** | **-** | **-** |
+| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{N\tr{S}}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{\sps{\tr{R}}\tr{S}\tr{S}}$ | $-$ | $-$ | $\tr{S}$ | $N$ | $\tr{S}$ | $D$ | $N$ | $\lb{N\tr{S}}$ |
+| **sa** | **ha** | **ni** | **-** | **-** | **nda** | **pi** | **yā** | **-** | **-** | **nai** | **nā** | **-** | **-** | **-** | **-** |
+| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\sps{\tr{R}}\tr{S}\tr{S}}$ | $D$ | $\lb{-n}$ | $P$ | $-$ | $m$ | $\lb{GR}$ | $G$ | $m$ | $P$ | $\lb{mP}$ | $P$ |
+| **ba** | **ta** | **nā** | **-** | **ve** | **-** | **-** | **-** | **-** | **cā** | **la** | **ca** | **la** | **ta** | **-** | **i** |
+| $P$ | $-$ | $-$ | $\lb{PP}$ | $\lb{DN}$ | $S$ | $\lb{-S}$ | $D$ | $-$ | $n$ | $P$ | $P$ | $m$ | $-$ | $n$ | $D$ |
+| **ta** | **-** | **-** | **rā** | **-** | **-** | **-** | **-** | **-** | **-** | **ta** | **ā** | **-** | **-** | **-** | **ve** |
+| $P$ | $\lb{mm}$ | $G$ | $\lb{Gm}$ | $\lb{PP}$ | $\lb{mg}$ | $\lb{RG}$ | $\lb{mm}$ | $\lb{GR}$ | $\lb{SS}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **-** | **-** | **pi** | **yā** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::

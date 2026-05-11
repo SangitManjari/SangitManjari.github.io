@@ -1,0 +1,78 @@
+---
+title: "Rāg Śyāma"
+subtitle: "*papīhā bole le*"
+description: "Composition by Sadāraṅga, in Ektāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Sadāraṅga &nbsp;·&nbsp; **Tāl:** Ektāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> papīhā bole le re sāvana kī ritu āi tore<br>sadāraṅga upayogī piya gara lāgorī<br>dhāya rasa batiyā barasa barasa re
+
+**Antarā**
+
+> dāmini kuḍhata jīya ḍara lāge na kauna rahungī nyāre<br>mahammadaśā pyāre hita deya cita deya nani nani bundariya<br>prīta sarasa sarasa re
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Ektāl is a 12-beat cycle divided as **2 + 2 + 2 + 2 + 2 + 2** (vibhāgs marked **X**, **O**, **X**, **O**, **3**, **4**). Each row below shows **one complete cycle**: the twelve columns correspond to beats 1–12, with sam **X** at beat 1, khālī **O** at beat 3, tali **X** (often written as 2) at beat 5, khālī **O** at beat 7, tali **3** at beat 9, and tali **4** at beat 11.
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak). Capital letters (like $M$, $D$) denote teevra or shuddh notes depending on the specific raga's convention compared to lowercase letters.
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **O** |   | **X** |   | **O** |   | **3** |   | **4** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $\lb{PM}$ | $P$ | $G$ | $m$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **pa** | **pī** | **-** | **hā** |
+| $D$ | $-$ | $N$ | $D$ | $\lb{N\tr{S}}$ | $N$ | $\lb{DP}$ | $P$ | $\lb{\sps{D}P}$ | $m$ | $G$ | $m$ |
+| **bo** | **-** | **-** | **-** | **-** | **le** | **le** | **-** | **pa** | **pī** | **-** | **hā** |
+| $D$ | $-$ | $N$ | $D$ | $\lb{N\tr{S}}$ | $N$ | $D$ | $-$ | $\lb{PP}$ | $-$ | $\lb{DP}$ | $P$ |
+| **bo** | **-** | **-** | **-** | **-** | **le** | **le** | **-** | **-** | **-** | **re** | **-** |
+| $\lb{mG}$ | $m$ | $R$ | $R$ | $S$ | $-$ | $S$ | $S$ | $\lb{\sps{S}\mn{N}}$ | $R$ | $S$ | $S$ |
+| **sā** | **-** | **va** | **na** | **kī** | **-** | **ri** | **tu** | **ā** | **i** | **to** | **re** |
+| $\lb{\sps{S}\mn{N}}$ | $S$ | $m$ | $m$ | $m$ | $m$ | $m$ | $m$ | $m$ | $G$ | $m$ | $G$ |
+| **sa** | **dā** | **ra** | **ṅga** | **u** | **pa** | **yo** | **gī** | **pi** | **ya** | **ga** | **ra** |
+| $\lb{\sps{m}G}$ | $P$ | $P$ | $\lb{MP}$ | $D$ | $D$ | $P$ | $P$ | $\lb{\sps{m}G}$ | $m$ | $\lb{DP}$ | $P$ |
+| **lā** | **go** | **rī** | **dhā** | **-** | **ya** | **ra** | **sa** | **ba** | **ti** | **yā** | **-** |
+| $m$ | $G$ | $m$ | $R$ | $S$ | $P$ | $M$ | $\lb{PD}$ | $\lb{\sps{M}P}$ | $m$ | $G$ | $m$ |
+| **ba** | **ra** | **sa** | **ba** | **ra** | **sa** | **re** | **-** | **pa** | **pī** | **-** | **hā** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   | **O** |   | **X** |   | **O** |   | **3** |   | **4** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $\lb{PM}$ | $D$ | $P$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ |
+| **dā** | **mi** | **ni** | **ku** | **ḍha** | **ta** | **jī** | **ya** | **ḍa** | **ra** | **lā** | **ge** |
+| $\tr{S}$ | $N$ | $D$ | $N$ | $\tr{S}$ | $\tr{R}$ | $\tr{S}$ | $\lb{-N}$ | $\lb{\tr{R}\tr{S}}$ | $\tr{S}$ | $D$ | $\lb{-P}$ |
+| **na** | **kau** | **na** | **ra** | **hu** | **ṅgī** | **nyā** | **-** | **re** | **-** | **-** | **ma** |
+| $\lb{PPD}$ | $\lb{N\tr{S}}$ | $N$ | $D$ | $\lb{MD}$ | $\lb{PP}$ | $G$ | $\lb{mP}$ | $G$ | $\lb{-m}$ | $R$ | $S$ |
+| **ha** | **-** | **mma** | **da** | **śā** | **-** | **pyā** | **-** | **-** | **-** | **-** | **re** |
+| $S$ | $S$ | $m$ | $G$ | $P$ | $M$ | $P$ | $N$ | $D$ | $\lb{ND}$ | $N$ | $\tr{S}$ |
+| **hi** | **ta** | **de** | **ya** | **ci** | **ta** | **de** | **-** | **-** | **-** | **-** | **ya** |
+| $\lb{\tr{S}N}$ | $\tr{S}$ | $\lb{\tr{S}\tr{m}\tr{G}}$ | $\tr{m}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{DN}$ | $\lb{\tr{S}\tr{R}}$ | $\tr{S}$ |
+| **na** | **ni** | **na** | **ni** | **bun** | **da** | **ri** | **yā** | **-** | **prī** | **-** | **ta** |
+| $N$ | $D$ | $\tr{S}$ | $N$ | $D$ | $P$ | $\lb{MPD}$ | $\lb{N\tr{S}}$ | $\lb{ND}$ | $\lb{PM}$ | $G$ | $m$ |
+| **sa** | **ra** | **sa** | **sa** | **ra** | **sa** | **re** | **-** | **pa** | **pī** | **-** | **hā** |
+
+:::

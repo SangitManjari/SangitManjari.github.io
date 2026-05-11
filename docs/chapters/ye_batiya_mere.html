@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Composition by Ānandaghana, in Dhamār (Madhyalay)">
+<meta name="description" content="Composition by Mahārāja navalakiśor, in Cautāl (Madhyalay)">
 
-<title>Rāg Nāyakī kānaḍā – Sangīt Manjarī</title>
+<title>Rāg Suraṭ – Sangīt Manjarī</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -39,14 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-85af4a7359a15c7365e59dee6eb8d557.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-8fbfd1c2676f86d8a6ebaeaaa2fad39c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-85af4a7359a15c7365e59dee6eb8d557.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-674b8f48f074681490cc088e118af6f7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -138,169 +134,7 @@ window.Quarto = {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
-    const toggleBodyColorMode = (bsSheetEl) => {
-      const mode = bsSheetEl.getAttribute("data-mode");
-      const bodyEl = window.document.querySelector("body");
-      if (mode === "dark") {
-        bodyEl.classList.add("quarto-dark");
-        bodyEl.classList.remove("quarto-light");
-      } else {
-        bodyEl.classList.add("quarto-light");
-        bodyEl.classList.remove("quarto-dark");
-      }
-    }
-    const toggleBodyColorPrimary = () => {
-      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
-      if (bsSheetEl) {
-        toggleBodyColorMode(bsSheetEl);
-      }
-    }
-    const setColorSchemeToggle = (alternate) => {
-      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-      for (let i=0; i < toggles.length; i++) {
-        const toggle = toggles[i];
-        if (toggle) {
-          if (alternate) {
-            toggle.classList.add("alternate");
-          } else {
-            toggle.classList.remove("alternate");
-          }
-        }
-      }
-    };
-    const toggleColorMode = (alternate) => {
-      // Switch the stylesheets
-      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
-      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-      manageTransitions('#quarto-margin-sidebar .nav-link', false);
-      if (alternate) {
-        // note: dark is layered on light, we don't disable primary!
-        enableStylesheet(alternateStylesheets);
-        for (const sheetNode of alternateStylesheets) {
-          if (sheetNode.id === "quarto-bootstrap") {
-            toggleBodyColorMode(sheetNode);
-          }
-        }
-      } else {
-        disableStylesheet(alternateStylesheets);
-        enableStylesheet(primaryStylesheets)
-        toggleBodyColorPrimary();
-      }
-      manageTransitions('#quarto-margin-sidebar .nav-link', true);
-      // Switch the toggles
-      setColorSchemeToggle(alternate)
-      // Hack to workaround the fact that safari doesn't
-      // properly recolor the scrollbar when toggling (#1455)
-      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-        manageTransitions("body", false);
-        window.scrollTo(0, 1);
-        setTimeout(() => {
-          window.scrollTo(0, 0);
-          manageTransitions("body", true);
-        }, 40);
-      }
-    }
-    const disableStylesheet = (stylesheets) => {
-      for (let i=0; i < stylesheets.length; i++) {
-        const stylesheet = stylesheets[i];
-        stylesheet.rel = 'disabled-stylesheet';
-      }
-    }
-    const enableStylesheet = (stylesheets) => {
-      for (let i=0; i < stylesheets.length; i++) {
-        const stylesheet = stylesheets[i];
-        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
-          stylesheet.rel = 'stylesheet';
-        }
-      }
-    }
-    const manageTransitions = (selector, allowTransitions) => {
-      const els = window.document.querySelectorAll(selector);
-      for (let i=0; i < els.length; i++) {
-        const el = els[i];
-        if (allowTransitions) {
-          el.classList.remove('notransition');
-        } else {
-          el.classList.add('notransition');
-        }
-      }
-    }
-    const isFileUrl = () => {
-      return window.location.protocol === 'file:';
-    }
-    const hasAlternateSentinel = () => {
-      let styleSentinel = getColorSchemeSentinel();
-      if (styleSentinel !== null) {
-        return styleSentinel === "alternate";
-      } else {
-        return false;
-      }
-    }
-    const setStyleSentinel = (alternate) => {
-      const value = alternate ? "alternate" : "default";
-      if (!isFileUrl()) {
-        window.localStorage.setItem("quarto-color-scheme", value);
-      } else {
-        localAlternateSentinel = value;
-      }
-    }
-    const getColorSchemeSentinel = () => {
-      if (!isFileUrl()) {
-        const storageValue = window.localStorage.getItem("quarto-color-scheme");
-        return storageValue != null ? storageValue : localAlternateSentinel;
-      } else {
-        return localAlternateSentinel;
-      }
-    }
-    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-      let newTheme = '';
-      if(authorPrefersDark) {
-        newTheme = isAlternate ? baseTheme : alternateTheme;
-      } else {
-        newTheme = isAlternate ? alternateTheme : baseTheme;
-      }
-      const changeGiscusTheme = () => {
-        // From: https://github.com/giscus/giscus/issues/336
-        const sendMessage = (message) => {
-          const iframe = document.querySelector('iframe.giscus-frame');
-          if (!iframe) return;
-          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-        }
-        sendMessage({
-          setConfig: {
-            theme: newTheme
-          }
-        });
-      }
-      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-      if (isGiscussLoaded) {
-        changeGiscusTheme();
-      }
-    };
-    const authorPrefersDark = false;
-    const darkModeDefault = authorPrefersDark;
-      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
-    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-    // Dark / light mode switch
-    window.quartoToggleColorScheme = () => {
-      // Read the current dark / light value
-      let toAlternate = !hasAlternateSentinel();
-      toggleColorMode(toAlternate);
-      setStyleSentinel(toAlternate);
-      toggleGiscusIfUsed(toAlternate, darkModeDefault);
-      window.dispatchEvent(new Event('resize'));
-    };
-    // Switch to dark mode if need be
-    if (hasAlternateSentinel()) {
-      toggleColorMode(true);
-    } else {
-      toggleColorMode(false);
-    }
-  </script>
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -331,24 +165,129 @@ window.Quarto = {
  <span class="dropdown-text">Rāg Āḍānā</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../rag-alahiya.html">
+ <span class="dropdown-text">Rāg Ālāhiyā</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-bagisvari.html">
+ <span class="dropdown-text">Rāg Bāgīśvarī</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../rag-bahar.html">
  <span class="dropdown-text">Rāg Bahār</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-basant.html">
+ <span class="dropdown-text">Rāg Basant</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../rag-behag.html">
  <span class="dropdown-text">Rāg Behāg</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="../rag-bhairav.html">
+ <span class="dropdown-text">Rāg Bhairav</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-bhairavi.html">
+ <span class="dropdown-text">Rāg Bhairavī</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-bhimapalasri.html">
+ <span class="dropdown-text">Rāg Bhīmapalaśrī</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-bhupali.html">
+ <span class="dropdown-text">Rāg Bhūpāli</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-brindabani_sarang.html">
+ <span class="dropdown-text">Rāg Bṛndāvanī sāraṅg</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-chayanat.html">
+ <span class="dropdown-text">Rāg Chāyānaṭ</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../rag-darabari_kanada.html">
  <span class="dropdown-text">Rāg Darabāri kānaḍā</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../rag-nayaki kanada.html">
+    <a class="dropdown-item" href="../rag-darabari_todi.html">
+ <span class="dropdown-text">Rāg Darabāri toḍī</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-gaud_malhar.html">
+ <span class="dropdown-text">Rāg Gauḍ malhār</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-hamir.html">
+ <span class="dropdown-text">Rāg Hamīr</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-iman_kalyan.html">
+ <span class="dropdown-text">Rāg Iman kalyāṅ</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-iman.html">
+ <span class="dropdown-text">Rāg Iman</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-kaphi.html">
+ <span class="dropdown-text">Rāg Kāphī</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-kedar.html">
+ <span class="dropdown-text">Rāg Kedār</span></a>
+  </li>  
+        <li class="dropdown-header">Rāg Kedār</li>
+        <li>
+    <a class="dropdown-item" href="../rag-megh.html">
+ <span class="dropdown-text">Rāg Megh</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-natmalhar.html">
+ <span class="dropdown-text">Rāg Naṭ malhār</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-nayaki_kanada.html">
  <span class="dropdown-text">Rāg Nāyakī kānaḍā</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../rag-surat.qmd">
+    <a class="dropdown-item" href="../rag-nisasag.html">
+ <span class="dropdown-text">Rāg Niśāsāg</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-purvi.html">
+ <span class="dropdown-text">Rāg Pūrvī</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-ramkali.html">
+ <span class="dropdown-text">Rāg Rāmkali</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-sarparda.html">
+ <span class="dropdown-text">Rāg Sarpardā</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-sindhu.html">
+ <span class="dropdown-text">Rāg Sindhu</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-sukla_belavali.html">
+ <span class="dropdown-text">Rāg Śukla belāvalī</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-surat.html">
  <span class="dropdown-text">Rāg Suraṭ</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-syama.html">
+ <span class="dropdown-text">Rāg Śyāma</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rag-tilak_kamod.html">
+ <span class="dropdown-text">Rāg Tilak kāmod</span></a>
   </li>  
     </ul>
   </li>
@@ -362,7 +301,6 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -379,7 +317,7 @@ window.Quarto = {
   <li><a href="#lyrics" id="toc-lyrics" class="nav-link active" data-scroll-target="#lyrics">Lyrics</a></li>
   <li><a href="#sthāyī" id="toc-sthāyī" class="nav-link" data-scroll-target="#sthāyī">Sthāyī</a></li>
   <li><a href="#antarā" id="toc-antarā" class="nav-link" data-scroll-target="#antarā">Antarā</a></li>
-  <li><a href="#sanchārī" id="toc-sanchārī" class="nav-link" data-scroll-target="#sanchārī">Sanchārī</a></li>
+  <li><a href="#sañcārī" id="toc-sañcārī" class="nav-link" data-scroll-target="#sañcārī">Sañcārī</a></li>
   <li><a href="#ābhog" id="toc-ābhog" class="nav-link" data-scroll-target="#ābhog">Ābhog</a></li>
   </ul>
 </nav>
@@ -387,16 +325,15 @@ window.Quarto = {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Rāg Nāyakī kānaḍā</h1>
-<p class="subtitle lead"><em>āyo phāguna baḍho</em></p>
+<h1 class="title">Rāg Suraṭ</h1>
+<p class="subtitle lead"><em>ye batiyā mere</em></p>
 </div>
 
 <div>
   <div class="description">
-    Composition by Ānandaghana, in Dhamār (Madhyalay)
+    Composition by Mahārāja navalakiśor, in Cautāl (Madhyalay)
   </div>
 </div>
 
@@ -414,30 +351,26 @@ window.Quarto = {
 
 
 <div class="composer-info">
-<p><strong>Composer:</strong> Ānandaghana &nbsp;·&nbsp; <strong>Tāl:</strong> Dhamār (Madhyalay)</p>
+<p><strong>Composer:</strong> Mahārāja navalakiśor &nbsp;·&nbsp; <strong>Tāl:</strong> Cautāl (Madhyalay)</p>
 </div>
 <section id="lyrics" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="lyrics">Lyrics</h2>
 <div class="lyrics-block">
 <p><strong>Sthāyī</strong></p>
 <blockquote class="blockquote">
-<p>āyo phāguna baḍho māna<br>
-nanda ko chaila ḍole gokula ki ḍagara</p>
+<p>ye batiyā mere cita caḍhi nisa dina kālī nāma raṭata rahe<br>mo rasanā kahā karuṅ mana na thira rahata neka</p>
 </blockquote>
 <p><strong>Antarā</strong></p>
 <blockquote class="blockquote">
-<p>baḍho bhāga anurāga yā braja ko<br>
-bājata jhānjha ḍapha nanda kī bagara</p>
+<p>kāma krodha lobha moha mada matsara ahaṅkāra<br>ye ati durnibāra māno matta gajendra eka te eka</p>
 </blockquote>
-<p><strong>Sanchārī</strong></p>
+<p><strong>Sañcārī</strong></p>
 <blockquote class="blockquote">
-<p>raṅga picakārī sabana pai ḍārata<br>
-sudha na rahe kachu aba ghara ghara</p>
+<p>jāko vaśa karaṇako bhakti tuva mahāvata<br>jñāna aṅkuśa sākāra viveka</p>
 </blockquote>
 <p><strong>Ābhog</strong></p>
 <blockquote class="blockquote">
-<p>ānanda umangī calo braja māhi<br>
-gvāla bāla saṅga kara dhara dhara</p>
+<p>navalakiśora oura kāso binati kara<br>jāko tua caraṇa śaraṇako ṭeka</p>
 </blockquote>
 </div>
 <div class="callout callout-style-simple callout-note no-icon callout-titled">
@@ -452,7 +385,7 @@ gvāla bāla saṅga kara dhara dhara</p>
 </div>
 <div id="callout-1" class="callout-1-contents callout-collapse collapse">
 <div class="callout-body-container callout-body">
-<p>Dhamār is a 14-beat cycle divided as <strong>5 + 2 + 3 + 4</strong> (vibhāgs marked <strong>X</strong>, <strong>2</strong>, <strong>O</strong>, <strong>3</strong>). Each row below shows <strong>one complete cycle</strong>: the fourteen columns correspond to beats 1–14, with sam <strong>X</strong> at beat 1, <strong>2</strong> at beat 6, <strong>O</strong> (khālī) at beat 8, and <strong>3</strong> at beat 11.</p>
+<p>Cautāl is a 12-beat cycle. In this layout, it is divided into blocks corresponding to <strong>2 + 2 + 2 + 2 + 2 + 2</strong> (vibhāgs marked <strong>X</strong>, <strong>O</strong>, <strong>2</strong>, <strong>O</strong>, <strong>3</strong>, <strong>4</strong>). Each row below shows <strong>one complete cycle</strong>: the twelve columns correspond to beats 1–12, with sam <strong>X</strong> at beat 1.</p>
 <p>The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash <strong>-</strong> indicates a held note or empty beat. Brackets <span class="math inline">\(\lb{\cdot}\)</span> denote meend (glide) or grouped notes; superscripts <span class="math inline">\(\sps{\cdot}\)</span> indicate the starting grace note of a glide; <span class="math inline">\(\tr{X}\)</span> denotes a note in the upper octave (tār saptak); <span class="math inline">\(\mn{X}\)</span> denotes a note in the lower octave (mandra saptak).</p>
 </div>
 </div>
@@ -460,39 +393,35 @@ gvāla bāla saṅga kara dhara dhara</p>
 </section>
 <section id="sthāyī" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="sthāyī">Sthāyī</h2>
-<div class="notation-table">
+<div class="notation-table cautal">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;"><strong>X</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>2</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>3</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>4</strong></th>
 <th style="text-align: center;"></th>
 </tr>
 </thead>
@@ -505,220 +434,164 @@ gvāla bāla saṅga kara dhara dhara</p>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{R}m}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>yo</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\mn{n}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>phā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>gu</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>yo</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\mn{n}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{-m}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>phā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>gu</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ye</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>ba</strong></td>
-<td style="text-align: center;"><strong>ḍho</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{-N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{\tr{S}}\tr{R}\tr{S}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>yā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>me</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>re</strong></td>
+<td style="text-align: center;"><strong>ci</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ta</strong></td>
+<td style="text-align: center;"><strong>ca</strong></td>
+<td style="text-align: center;"><strong>ḍhi</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{-m}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{mg}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>ni</strong></td>
+<td style="text-align: center;"><strong>sa</strong></td>
+<td style="text-align: center;"><strong>di</strong></td>
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>kā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>lī</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>nā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ma</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{SR}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{Pm}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(G\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{P}mm}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>mā</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra ṭa</strong></td>
+<td style="text-align: center;"><strong>ta</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>he</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>mo</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>sa</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>nā</strong></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>nda</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ko</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>chai</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>la</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ḍo</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(d\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mP}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>le</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
+<td style="text-align: center;"><strong>hā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
+<td style="text-align: center;"><strong>ruṅ</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ma na</strong></td>
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>thi</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>go</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{-d}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{N}\tr{R}\tr{S}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}n}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{nD}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{DP}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mR}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mS}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{mn}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{Pd}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>ku</strong></td>
-<td style="text-align: center;"><strong>la</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>kī</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ḍa</strong></td>
-<td style="text-align: center;"><strong>ga</strong></td>
 <td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>ha</strong></td>
+<td style="text-align: center;"><strong>ta</strong></td>
+<td style="text-align: center;"><strong>ne</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ye</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ba</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
 </tbody>
@@ -727,39 +600,35 @@ gvāla bāla saṅga kara dhara dhara</p>
 </section>
 <section id="antarā" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="antarā">Antarā</h2>
-<div class="notation-table">
+<div class="notation-table cautal">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;"><strong>X</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>2</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>3</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>4</strong></th>
 <th style="text-align: center;"></th>
 </tr>
 </thead>
@@ -767,363 +636,347 @@ gvāla bāla saṅga kara dhara dhara</p>
 <tr class="odd">
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(N\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{SN}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>ba</strong></td>
-<td style="text-align: center;"><strong>ḍho</strong></td>
+<td style="text-align: center;"><strong>kā</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ma</strong></td>
+<td style="text-align: center;"><strong>kro</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>dha</strong></td>
+<td style="text-align: center;"><strong>lo</strong></td>
+<td style="text-align: center;"><strong>bha</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>mo</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bhā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ga</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>a</strong></td>
-<td style="text-align: center;"><strong>nu</strong></td>
+<td style="text-align: center;"><strong>ha</strong></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{m}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{N\tr{S}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{R}\tr{S}\tr{R}}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>rā</strong></td>
+<td style="text-align: center;"><strong>ma</strong></td>
+<td style="text-align: center;"><strong>da</strong></td>
+<td style="text-align: center;"><strong>mat</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ga</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>yā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bra</strong></td>
-<td style="text-align: center;"><strong>ja</strong></td>
-<td style="text-align: center;"><strong>ko</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>ba</strong></td>
-<td style="text-align: center;"><strong>ḍho</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bhā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ga</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>a</strong></td>
-<td style="text-align: center;"><strong>nu</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{N\tr{S}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>rā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ga</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>yā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bra</strong></td>
-<td style="text-align: center;"><strong>ja</strong></td>
-<td style="text-align: center;"><strong>ko</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>bā</strong></td>
-<td style="text-align: center;"><strong>ja</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ta</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>jhān</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>jha</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ḍa</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>pha</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{Pd}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>nda</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>kī</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ba</strong></td>
-<td style="text-align: center;"><strong>ga</strong></td>
+<td style="text-align: center;"><strong>sa</strong></td>
 <td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>a</strong></td>
+<td style="text-align: center;"><strong>ha</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ṅkā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{SN}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>kā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ma</strong></td>
+<td style="text-align: center;"><strong>kro</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>dha</strong></td>
+<td style="text-align: center;"><strong>lo</strong></td>
+<td style="text-align: center;"><strong>bha</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>mo</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ha</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{m}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{R}\tr{S}\tr{R}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>ma</strong></td>
+<td style="text-align: center;"><strong>da</strong></td>
+<td style="text-align: center;"><strong>mat</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>sa</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>a</strong></td>
+<td style="text-align: center;"><strong>ha</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ṅkā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{-D}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mR}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>ye</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>a</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
+<td style="text-align: center;"><strong>dur</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ni</strong></td>
+<td style="text-align: center;"><strong>bā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{N\tr{S}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>mā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>no</strong></td>
+<td style="text-align: center;"><strong>ma</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>tta</strong></td>
+<td style="text-align: center;"><strong>ga</strong></td>
+<td style="text-align: center;"><strong>je</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ndra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{N}\tr{R}\tr{S}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}n}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{nD}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{DP}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mR}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mS}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>e</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
+<td style="text-align: center;"><strong>te</strong></td>
+<td style="text-align: center;"><strong>e</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ye</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ba</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
 </tbody>
 </table>
 </div>
 </section>
-<section id="sanchārī" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="sanchārī">Sanchārī</h2>
-<div class="notation-table">
+<section id="sañcārī" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="sañcārī">Sañcārī</h2>
+<div class="notation-table cautal">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;"><strong>X</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>2</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>3</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>4</strong></th>
 <th style="text-align: center;"></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{S}D}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>ṅga</strong></td>
-<td style="text-align: center;"><strong>pi</strong></td>
-<td style="text-align: center;"><strong>ca</strong></td>
-<td style="text-align: center;"><strong>kā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>rī</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>sa</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{nD}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{Pd}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>ba</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>jā</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>pai</strong></td>
+<td style="text-align: center;"><strong>ko</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ḍā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>va</strong></td>
+<td style="text-align: center;"><strong>śa</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
 <td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>ta</strong></td>
+<td style="text-align: center;"><strong>ṇa</strong></td>
+<td style="text-align: center;"><strong>ko</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>bha</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>kti</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>tu</strong></td>
+<td style="text-align: center;"><strong>va</strong></td>
+<td style="text-align: center;"><strong>ma</strong></td>
+<td style="text-align: center;"><strong>hā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>va</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ta</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{-D}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(g\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{-m}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{P}D}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{Gm}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{G}m}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>jñā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>a</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ṅku</strong></td>
+<td style="text-align: center;"><strong>śa</strong></td>
+<td style="text-align: center;"><strong>sā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>kā</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{nD}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{nm}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><strong>vi</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>su</strong></td>
-<td style="text-align: center;"><strong>dha</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>he</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ve</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>ka</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>chu</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{Pd}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{mg}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>a</strong></td>
-<td style="text-align: center;"><strong>ba</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>gha</strong></td>
-<td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>gha</strong></td>
-<td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
@@ -1133,233 +986,205 @@ gvāla bāla saṅga kara dhara dhara</p>
 </section>
 <section id="ābhog" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="ābhog">Ābhog</h2>
-<div class="notation-table">
+<div class="notation-table cautal">
 <table class="caption-top table">
 <colgroup>
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
-<col style="width: 7%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
+<col style="width: 8%">
 </colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: center;"><strong>X</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>2</strong></th>
 <th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>O</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
 <th style="text-align: center;"><strong>3</strong></th>
 <th style="text-align: center;"></th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;"><strong>4</strong></th>
 <th style="text-align: center;"></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(S\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>nda</strong></td>
-<td style="text-align: center;"><strong>u</strong></td>
-<td style="text-align: center;"><strong>man</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>gī</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{N}\tr{S}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>ca</strong></td>
-<td style="text-align: center;"><strong>lo</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bra</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ja</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>mā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>hi</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>na</strong></td>
-<td style="text-align: center;"><strong>nda</strong></td>
-<td style="text-align: center;"><strong>u</strong></td>
-<td style="text-align: center;"><strong>man</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>gī</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{N}\tr{S}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{n}d}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>ca</strong></td>
-<td style="text-align: center;"><strong>lo</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bra</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ja</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>mā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>hi</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{Pn}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{P\tr{S}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{N\tr{R}}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><strong>gvā</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>va</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>la</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>bā</strong></td>
+<td style="text-align: center;"><strong>ki</strong></td>
+<td style="text-align: center;"><strong>śo</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>au</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>la</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>sa</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>ṅga</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(P\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
 <td style="text-align: center;"><span class="math inline">\(n\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{Pd}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}P}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(\lb{\sps{m}g}\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
-<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><strong>kā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>so</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>vi</strong></td>
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>ka</strong></td>
-<td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
-<td style="text-align: center;"><strong>dha</strong></td>
-<td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>ra</strong></td>
-<td style="text-align: center;"><strong>dha</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(N\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>va</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>la</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ki</strong></td>
+<td style="text-align: center;"><strong>śo</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>ou</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}\tr{R}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(n\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(D\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>kā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>so</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>vi</strong></td>
+<td style="text-align: center;"><strong>na</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{R}\tr{S}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\sps{\tr{R}}\tr{m}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{S}\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>jā</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ko</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>tu</strong></td>
+<td style="text-align: center;"><strong>a</strong></td>
+<td style="text-align: center;"><strong>ca</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>ṇa</strong></td>
+<td style="text-align: center;"><strong>śa</strong></td>
+<td style="text-align: center;"><strong>ra</strong></td>
+<td style="text-align: center;"><strong>ṇa</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{S}N}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{\tr{R}\tr{S}}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\tr{R}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{nD}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{DP}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mR}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(\lb{mS}\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(R\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(m\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(P\)</span></td>
+<td style="text-align: center;"><span class="math inline">\(-\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>ko</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ṭe</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ka</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ye</strong></td>
+<td style="text-align: center;"><strong>-</strong></td>
+<td style="text-align: center;"><strong>ba</strong></td>
+<td style="text-align: center;"><strong>ti</strong></td>
 <td style="text-align: center;"><strong>-</strong></td>
 </tr>
 </tbody>
@@ -1372,19 +1197,6 @@ gvāla bāla saṅga kara dhara dhara</p>
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    // Ensure there is a toggle, if there isn't float one in the top right
-    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-      const a = window.document.createElement('a');
-      a.classList.add('top-right');
-      a.classList.add('quarto-color-scheme-toggle');
-      a.href = "";
-      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-      const i = window.document.createElement("i");
-      i.classList.add('bi');
-      a.appendChild(i);
-      window.document.body.appendChild(a);
-    }
-    setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
     const anchorJS = new window.AnchorJS();
     anchorJS.options = {

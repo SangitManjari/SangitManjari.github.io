@@ -1,0 +1,51 @@
+---
+format:
+  html:
+    page-layout: article # 'article' keeps the text readable; use 'full' if you want it edge-to-edge
+    toc: false
+---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Sangīt Manjarī
+:::
+
+:::: {.columns}
+
+::: {.column width="65%"}
+::: {style="text-align: justify; padding-right: 20px;"}
+Preserving India’s musical heritage means balancing deep respect for tradition with thoughtful documentation. Much of Indian classical music has been passed down orally through the guru-shishya system, creating profound, personal learning—but also making the tradition vulnerable to loss without written records. Saving old bandishes is not just archival work; it’s about keeping the voices of past generations alive for today and tomorrow.
+
+Saṅgīt Manjarī is a key step in this endeavor. Compiled by Pt. Ramprasanna Bandyopadhyay of the Bishnupur Gharānā and first published in 1907, it is one of the earliest written collections of a gharānā’s music, drawing on both his father's teaching and the broader Bishnupur tradition. The collection is remarkable for its range: while Dhrupad is central, it also features Khayāl, Tappā, Thumri, Chaturang, Jhulan, Trivat, and Thillānā—few works from that era showcase such diversity. Later, around 1935, Pt. Ramprasanna’s brother, Pt. Gopeswar Bandyopadhyay, expanded and edited the book, helping it serve as a core resource for musicians and scholars.
+
+Despite its importance, Saṅgīt Manjarī has long been difficult to access. Scanned versions online are in Braj Bhasha, written with Bengali script, making them hard for most modern readers. Guided by my teacher, Guruji Pt. Arijit Mahalanabis—whose deep knowledge and pioneering work on reviving rare musical texts inspired this project—our team created a new edition (now available on Amazon). This version transliterates the original Braj into Roman script, corrects minor errors, and presents the music using Bhatkhande notation widely adopted in Indian classical music. Our goal is to stay true to the original while making it relevant and accessible today.
+
+This website is the companion to that book. Here, you will find a digital selection of compositions from Saṅgīt Manjarī. Rather than simply reproduce the original, our aim is to make these materials practical and inspiring for the next generation.
+
+Because Saṅgīt Manjarī is so extensive, we are releasing material in installments. The first set features compositions that influenced our national poet Viswakavi Rabindranath Tagore, highlighting the Bishnupur Gharānā’s unique impact on his music and, more broadly, on modern Bengali music.
+
+Ultimately, we hope this project will help preserve India’s musical legacy by combining careful editing with digital sharing. We invite others working with different gharānās to join in and help revive more rare musical traditions.
+:::
+:::
+
+::: {.column width="35%"}
+```{=html}
+<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 24px 20px; display: flex; flex-direction: column; align-items: center; text-align: center; max-width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); font-family: inherit; background-color: #ffffff; margin-top: 10px; margin-left: auto; margin-right: auto;">
+  
+  <div style="margin-bottom: 20px;">
+    <img src="images/cover_page.jpg" alt="Sangīt Manjarī: Tagore Edition Cover" style="width: 160px; height: auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+  
+  <div style="width: 100%;">
+    <h4 style="margin: 0 0 10px 0; font-size: 18px; color: #111; line-height: 1.3;">Sangīt Manjarī: Tagore Edition</h4>
+    <p style="margin: 0 0 20px 0; font-size: 14px; color: #565959; line-height: 1.5;">By Ramprasanna Banerjee, Dr. Suparno Bhattacharya, Pt. Arijit Mahalanabis</p>
+    
+    <a href="[https://www.amazon.com/Sangi%CC%84t-Manjari%CC%84-Tagore-Ramprasanna-Banerjee/dp/B0F9Q2TPQ7?crid=OMD8EMUVRRN&dib=eyJ2IjoiMSJ9._sZF7mMtJZ5G58VDw-sr_w.ho2ccy0ZKJyDsemK527np1V5NDaRP95lgPHHUxTBcXs&dib_tag=se&keywords=sangit+manjari&qid=1778421182&sprefix=sangit+manjar%2Caps%2C364&sr=8-1](https://www.amazon.com/Sangi%CC%84t-Manjari%CC%84-Tagore-Ramprasanna-Banerjee/dp/B0F9Q2TPQ7?crid=OMD8EMUVRRN&dib=eyJ2IjoiMSJ9._sZF7mMtJZ5G58VDw-sr_w.ho2ccy0ZKJyDsemK527np1V5NDaRP95lgPHHUxTBcXs&dib_tag=se&keywords=sangit+manjari&qid=1778421182&sprefix=sangit+manjar%2Caps%2C364&sr=8-1)" target="_blank" rel="noopener noreferrer" style="display: block; background-color: #ffd814; color: #0f1111; text-decoration: none; padding: 10px 0; border-radius: 20px; font-size: 14px; font-weight: 600; border: 1px solid #fcd200; transition: background-color 0.2s ease; width: 100%; box-sizing: border-box;">
+      View on Amazon
+    </a>
+  </div>
+  
+</div>
+```
+:::
+
+::::

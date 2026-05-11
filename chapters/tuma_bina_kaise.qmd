@@ -1,0 +1,75 @@
+---
+title: "Rāg Bāgīśvarī"
+subtitle: "*tuma bina kaise*"
+description: "Composition by Niyāmat khā, in Tilwādā (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Niyāmat khā &nbsp;·&nbsp; **Tāl:** Tilwādā (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> tuma bina kaise rahoṅgī re piyu
+
+**Antarā**
+
+> ye niśa dina mohe kaṭhina bītata hai  
+> vyākula bhaye jiya morā re
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tilwādā is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the sixteen columns correspond to beats 1–16, with sam **X** at beat 1, **2** at beat 5, **O** (khālī) at beat 9, and **3** at beat 13. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $S$ | $R$ | $\lb{SR}$ | $m$ | $m$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **tu** | **ma** | **vi** | **-** | **na** |
+| $\lb{\sps{m}P}$ | $-$ | $-$ | $m$ | $-$ | $g$ | $-$ | $P$ | $m$ | $-$ | $g$ | $-$ | $-$ | $g$ | $m$ | $D$ |
+| **kai** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **se** | **-** | **-** | **ra** | **ho** | **-** |
+| $n$ | $-$ | $\tr{S}$ | $-$ | $-$ | $\lb{\tr{S}\tr{R}}$ | $\tr{S}$ | $-$ | $n$ | $-$ | $-$ | $\lb{\sps{n}\tr{R}}$ | $\tr{S}$ | $n$ | $-$ | $D$ |
+| **ṅgī** | **-** | **-** | **-** | **-** | **-** | **re** | **-** | **-** | **-** | **-** | **pi** | **yu** | **-** | **-** | **-** |
+| $P$ | $D$ | $D$ | $-$ | $n$ | $-$ | $-$ | $\tr{S}$ | $D$ | $n$ | $-$ | $n$ | $D$ | $P$ | $-$ | $m$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **tu** | **ma** | **vi** | **-** | **na** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $m$ | $\lb{nD}$ | $\lb{nD}$ | $n$ | $\tr{S}$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **ye** | **-** | **-** | **ni** | **śa** |
+| $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{R}$ | $-$ |
+| **di** | **na** | **-** | **-** | **-** | **mo** | **he** | **-** | **-** | **-** | **-** | **ka** | **ṭhi** | **na** | **vī** | **-** |
+| $\tr{S}$ | $-$ | $\lb{\sps{\tr{S}}n}$ | $n$ | $n$ | $\tr{S}$ | $n$ | $-$ | $D$ | $P$ | $-$ | $m$ | $\lb{nD}$ | $\lb{nD}$ | $n$ | $\tr{S}$ |
+| **-** | **-** | **ta** | **ta** | **hai** | **-** | **-** | **-** | **-** | **-** | **-** | **ye** | **-** | **-** | **ni** | **śa** |
+| $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{R}$ | $-$ |
+| **di** | **na** | **-** | **-** | **-** | **mo** | **he** | **-** | **-** | **-** | **-** | **ka** | **ṭhi** | **na** | **vī** | **-** |
+| $\tr{S}$ | $-$ | $\lb{\sps{\tr{S}}n}$ | $n$ | $n$ | $\tr{S}$ | $n$ | $-$ | $D$ | $P$ | $-$ | $m$ | $m$ | $m$ | $-$ | $\lb{\sps{m}P}$ |
+| **-** | **-** | **ta** | **ta** | **hai** | **-** | **-** | **-** | **-** | **-** | **-** | **vyā** | **ku** | **la** | **-** | **bha** |
+| $m$ | $-$ | $g$ | $-$ | $-$ | $-$ | $m$ | $D$ | $n$ | $-$ | $\tr{S}$ | $-$ | $\lb{\tr{S}\tr{R}}$ | $\tr{S}$ | $-$ | $n$ |
+| **ye** | **-** | **-** | **-** | **-** | **-** | **ji** | **ya** | **mo** | **-** | **-** | **-** | **-** | **rā** | **-** | **-** |
+| $n$ | $\tr{S}$ | $n$ | $-$ | $-$ | $D$ | $P$ | $D$ | $D$ | $n$ | $-$ | $n$ | $D$ | $P$ | $-$ | $m$ |
+| **re** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **tu** | **ma** | **vi** | **-** | **na** |
+
+:::

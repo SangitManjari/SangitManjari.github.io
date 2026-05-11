@@ -20,12 +20,26 @@ website:
             text: Rāg Āḍānā
           - href: rag-alahiya.qmd
             text: Rāg Ālāhiyā
+          - href: rag-bagisvari.qmd
+            text: Rāg Bāgīśvarī
           - href: rag-bahar.qmd
             text: Rāg Bahār
+          - href: rag-basant.qmd
+            text: Rāg Basant
           - href: rag-behag.qmd
             text: Rāg Behāg
+          - href: rag-bhairav.qmd
+            text: Rāg Bhairav
+          - href: rag-bhairavi.qmd
+            text: Rāg Bhairavī
+          - href: rag-bhimapalasri.qmd
+            text: Rāg Bhīmapalaśrī
+          - href: rag-bhupali.qmd
+            text: Rāg Bhūpāli
           - href: rag-brindabani_sarang.qmd
             text: Rāg Bṛndāvanī sāraṅg
+          - href: rag-chayanat.qmd
+            text: Rāg Chāyānaṭ
           - href: rag-darabari_kanada.qmd
             text: Rāg Darabāri kānaḍā
           - href: rag-darabari_todi.qmd
@@ -36,6 +50,14 @@ website:
             text: Rāg Hamīr
           - href: rag-iman_kalyan.qmd
             text: Rāg Iman kalyāṅ
+          - href: rag-iman.qmd
+            text: Rāg Iman
+          - href: rag-kaphi.qmd
+            text: Rāg Kāphī
+          - href: rag-kedar.qmd
+          - text: Rāg Kedār
+          - href: rag-megh.qmd
+            text: Rāg Megh
           - href: rag-natmalhar.qmd
             text: Rāg Naṭ malhār
           - href: rag-nayaki_kanada.qmd
@@ -46,10 +68,16 @@ website:
             text: Rāg Pūrvī
           - href: rag-ramkali.qmd
             text: Rāg Rāmkali
+          - href: rag-sarparda.qmd
+            text: Rāg Sarpardā  
+          - href: rag-sindhu.qmd
+            text: Rāg Sindhu
           - href: rag-sukla_belavali.qmd
             text: Rāg Śukla belāvalī
           - href: rag-surat.qmd
             text: Rāg Suraṭ
+          - href: rag-syama.qmd
+            text: Rāg Śyāma
           - href: rag-tilak_kamod.qmd
             text: Rāg Tilak kāmod
           
@@ -67,8 +95,7 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: flatly
     css: styles.css
     toc: true
     toc-location: right

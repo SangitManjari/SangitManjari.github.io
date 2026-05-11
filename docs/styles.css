@@ -2,6 +2,105 @@
    Sangīt Manjarī — site styles
    ========================================================================== */
 
+
+
+
+/* Professional Amazon Card Styling */
+.amazon-card {
+  border: 1px solid #eaeaea;
+  border-radius: 12px;
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #ffffff;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  margin-top: 10px;
+}
+
+/* Subtle hover effect to make it feel interactive */
+.amazon-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0,0,0,0.12);
+}
+
+.amazon-card-image img {
+  width: 140px;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin-bottom: 18px;
+}
+
+.amazon-card-content h4 {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+  color: #222;
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+.amazon-card-content p {
+  margin: 0 0 20px 0;
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.5;
+}
+
+.amazon-button {
+  display: block;
+  background-color: #FFD814; /* Official Amazon Yellow */
+  color: #0F1111;
+  text-decoration: none;
+  padding: 10px 0;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border: 1px solid #FCD200;
+  width: 100%;
+  box-sizing: border-box;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Darker yellow on hover just like Amazon's real buttons */
+.amazon-button:hover {
+  background-color: #F7CA00; 
+  border-color: #F2C200;
+  color: #0F1111;
+  text-decoration: none;
+}
+
+
+/* Add a scrollbar to long navbar dropdown menus */
+.navbar .dropdown-menu {
+  max-height: 60vh; /* Limits the height to 60% of the screen height */
+  overflow-y: auto; /* Adds a vertical scrollbar when needed */
+}
+
+/* Optional: Make the scrollbar look a bit thinner and more elegant */
+.navbar .dropdown-menu::-webkit-scrollbar {
+  width: 8px;
+}
+
+.navbar .dropdown-menu::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+  border-radius: 4px;
+}
+
+.navbar .dropdown-menu::-webkit-scrollbar-thumb {
+  background: #c1c1c1; 
+  border-radius: 4px;
+}
+
+.navbar .dropdown-menu::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8; 
+}
+
+
+
+
 /* Composer / tāl line under the title -------------------------------------- */
 .composer-info {
   font-size: 1.05rem;
@@ -142,4 +241,44 @@
 .notation-table table:has(th:nth-child(12):last-child) th:nth-child(11),
 .notation-table table:has(th:nth-child(12):last-child) td:nth-child(11) {
   border-left: 1px solid #444; 
+}
+
+
+/* Vertical dividers for Jhāpatāl (10 beats: 2 + 3 + 2 + 3) */
+/* Since it shares 10 columns with Suraphaktal, we combine the dividers:
+   Jhāpatāl needs dividers at 3, 6, 8 
+   Suraphāktāl needs dividers at 5, 7 */
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(3),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(3),
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(6),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(6),
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(8),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(8) {
+  border-left: 1px solid #444; 
+}
+
+
+/* Double Tīvrā (14 beats displayed, 3+2+2 | 3+2+2) */
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(4),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(4),
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(6),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(6),
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(8),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(8),
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(11),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(11),
+.notation-table table:has(th:nth-child(14):last-child) th:nth-child(13),
+.notation-table table:has(th:nth-child(14):last-child) td:nth-child(13) {
+  border-left: 1px solid #444;
+}
+
+
+/* Vertical dividers for Jhāpatāl (10 beats: 2+3+2+3) */
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(2),
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(5),
+.notation-table table:has(th:nth-child(10):last-child) th:nth-child(7),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(2),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(5),
+.notation-table table:has(th:nth-child(10):last-child) td:nth-child(7) {
+  border-right: 1px solid var(--border);
 }

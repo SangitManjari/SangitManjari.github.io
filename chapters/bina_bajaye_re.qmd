@@ -1,0 +1,69 @@
+---
+title: "Rāg Pūrvī"
+subtitle: "*bīna bajāya re*"
+description: "Composition by Kṛṣṇarasik, in Dhamār (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Kṛṣṇarasik &nbsp;·&nbsp; **Tāl:** Dhamār (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> bīna bajāya re mana le gayo
+
+**Antarā**
+
+> madhura madhura dhuna adharana dhara re  
+> rasa bhari tāna sunāya re mana le gayo
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Dhamār is a 14-beat cycle divided as **5 + 2 + 3 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the fourteen columns correspond to beats 1–14, with sam **X** at beat 1, **2** at beat 6, **O** (khālī) at beat 8, and **3** at beat 11. 
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   |   | **2** |   | **O** |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $\mn{N}$ | $-$ | $r$ | $G$ | $-$ | $P$ | $M$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **bī** | **-** | **-** | **-** | **-** | **ṇa** | **ba** |
+| $P$ | $-$ | $-$ | $P$ | $-$ | $\lb{\sps{D}M}$ | $-$ | $\lb{\sps{G}m}$ | $-$ | $G$ | $-$ | $\lb{MD}$ | $P$ | $M$ |
+| **jā** | **-** | **-** | **-** | **-** | **ya** | **-** | **re** | **-** | **-** | **-** | **ma** | **na** | **-** |
+| $G$ | $m$ | $G$ | $r$ | $-$ | $S$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **le** | **-** | **-** | **ga** | **-** | **yo** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   |   | **2** |   | **O** |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $M$ | $D$ | $-$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $N$ | $\tr{r}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ |
+| **ma** | **dhu** | **-** | **ra** | **-** | **ma** | **dhu** | **ra** | **-** | **-** | **dhu** | **-** | **na** | **-** |
+| $N$ | $\tr{r}$ | $-$ | $\tr{G}$ | $-$ | $\tr{r}$ | $\tr{P}$ | $\tr{G}$ | $\tr{r}$ | $-$ | $\tr{S}$ | $N$ | $\tr{S}$ | $-$ |
+| **a** | **dha** | **ra** | **-** | **na** | **-** | **-** | **dha** | **ra** | **-** | **re** | **-** | **-** | **-** |
+| $\lb{\tr{S}\tr{r}}$ | $N$ | $-$ | $D$ | $N$ | $D$ | $P$ | $P$ | $-$ | $-$ | $M$ | $P$ | $N$ | $D$ |
+| **ra** | **sa** | **-** | **-** | **-** | **bha** | **ri** | **tā** | **-** | **-** | **-** | **-** | **na** | **su** |
+| $P$ | $-$ | $-$ | $P$ | $-$ | $\lb{\sps{D}M}$ | $-$ | $\lb{\sps{G}m}$ | $-$ | $G$ | $-$ | $\lb{MD}$ | $P$ | $M$ |
+| **nā** | **-** | **-** | **-** | **-** | **ya** | **-** | **re** | **-** | **-** | **-** | **ma** | **na** | **-** |
+| $G$ | $m$ | $G$ | $r$ | $-$ | $S$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **le** | **-** | **-** | **ga** | **-** | **yo** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::

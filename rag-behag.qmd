@@ -8,3 +8,5 @@ format: html
 ----
 
 - [āju raṅga khelata](chapters/aju_ranga_khelata.qmd)
+
+- [Mere danda dala](chapters/mere_danda_dala.qmd)

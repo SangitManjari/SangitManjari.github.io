@@ -1,0 +1,68 @@
+---
+title: "Rāg Rāmkalī"
+subtitle: "*pyālā mujhe bhari*"
+description: "Composition by Acapala, in Tintāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Acapala &nbsp;·&nbsp; **Tāl:** Tintāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> pyālā mujhe bhari de re matavāri morā<br>bīta gailī sagarī raina bhailī bhora
+
+**Antarā**
+
+> hama tuma pive chakāi chakāve<br>durajana loga dekha jare karahi śora
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Tintāl is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**). Each row below shows **one complete cycle**: the sixteen columns correspond to beats 1–16, with sam **X** at beat 1, tali **2** at beat 5, khālī **O** at beat 9, and tali **3** at beat 13.
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $\lb{dd}$ | $\lb{Pm}$ | $P$ | $\lb{mG}$ | $\lb{mG}$ | $m$ | $m$ | $P$ | $P$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **pyā** | **-** | **-** | **lā** | **-** | **mu** | **jhe** | **bha** | **ri** |
+| $\lb{\sps{n}d}$ | $-$ | $-$ | $d$ | $P$ | $-$ | $\lb{mP}$ | $\lb{dP}$ | $\lb{mP}$ | $m$ | $G$ | $m$ | $m$ | $P$ | $P$ | $-$ |
+| **de** | **-** | **-** | **-** | **re** | **-** | **pyā** | **-** | **-** | **lā** | **-** | **mu** | **jhe** | **bha** | **ri** | **-** |
+| $\lb{\sps{n}d}$ | $-$ | $-$ | $d$ | $P$ | $-$ | $-$ | $-$ | $m$ | $m$ | $G$ | $-$ | $-$ | $-$ | $\lb{mP}$ | $m$ |
+| **de** | **-** | **-** | **-** | **re** | **-** | **-** | **-** | **ma** | **ta** | **vā** | **-** | **-** | **-** | **-** | **ri** |
+| $G$ | $-$ | $r$ | $-$ | $-$ | $-$ | $S$ | $-$ | $-$ | $\lb{mG}$ | $\lb{mG}$ | $m$ | $P$ | $-$ | $P$ | $-$ |
+| **mo** | **-** | **-** | **-** | **-** | **-** | **ra** | **-** | **-** | **bī** | **ta** | **ga** | **i** | **-** | **lī** | **-** |
+| $-$ | $d$ | $d$ | $d$ | $\lb{dN}$ | $d$ | $P$ | $-$ | $d$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $-$ | $\lb{N\tr{S}}$ | $\lb{\tr{r}\tr{r}}$ | $\lb{\tr{S}N}$ | $\tr{S}$ |
+| **-** | **sa** | **ga** | **rī** | **rai** | **-** | **na** | **-** | **bha** | **i** | **lī** | **-** | **-** | **-** | **-** | **-** |
+| $\lb{\sps{N}\tr{S}}$ | $d$ | $-$ | $-$ | $P$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **bho** | **-** | **-** | **-** | **ra** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table}
+
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $\lb{dd}$ | $\lb{dd}$ | $N$ | $\tr{S}$ | $\lb{\tr{r}\tr{r}}$ | $\lb{\tr{S}\tr{S}}$ | $N$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{dd}$ | $N$ | $\lb{\tr{S}\tr{S}}$ | $\lb{N\tr{S}}$ | $\lb{\tr{r}\tr{r}\tr{S}-}$ | $\lb{N\tr{S}}$ | $N$ |
+| **hama** | **tuma** | **pi** | **ve** | **chakā** | **i cha** | **kā** | **ve** | **dura** | **jana** | **lo** | **ga de** | **kha** | **-** | **-** | **ja** |
+| $d$ | $P$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| **-** | **re** | **kara** | **hi** | **śo** | **ra** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
+
+:::

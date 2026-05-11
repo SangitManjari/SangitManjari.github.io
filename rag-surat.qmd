@@ -8,3 +8,5 @@ format: html
 ----
 
 - [Bāja rahī sakhiyā](chapters/baja_rahi_sakhiya.qmd)
+
+- [Ye batiyā mere](chapters/ye_batiya_mere.qmd)

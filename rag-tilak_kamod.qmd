@@ -8,3 +8,7 @@ format: html
 ----
 
 - [Kauna rūpa bane](chapters/kauna_rupa_bane.qmd)
+
+- [Prathama paravaradigārahi](chapters/prathama.qmd)
+
+- [śambhu hara pada](chapters/sambhu_hara_pada.qmd)

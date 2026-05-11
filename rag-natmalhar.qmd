@@ -8,3 +8,5 @@ format: html
 ----
 
 - [Dārādīm dārā dīm](chapters/daradim_daradim.qmd)
+
+- [Mori nai lagana](chapters/mori_nai_lagana.qmd)

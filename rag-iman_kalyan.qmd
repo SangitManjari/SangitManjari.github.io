@@ -10,3 +10,7 @@ format: html
 - [Baṅgari mori murakai](chapters/bangari_mori_murakai.qmd)
 
 - [Caturaṅga rasa sana](chapters/caturanga_rasa_sana.qmd)
+
+- [śankara śiva pinākī](chapters/sankara_siva.qmd)
+
+- [śyāma ko daraśana](chapters/syama_ko_darsana.qmd)

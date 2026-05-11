@@ -8,3 +8,5 @@ format: html
 ----
 
 - [Bajata bīṅa pravīṅa](chapters/bajata_bina_pravina.qmd)
+
+- [Pyālā mujhe bhari](chapters/pyala_mujhe_bhari.qmd)

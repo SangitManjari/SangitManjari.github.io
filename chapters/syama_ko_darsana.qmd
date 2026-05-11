@@ -1,0 +1,76 @@
+---
+title: "Rāg Iman kalyāṇ"
+subtitle: "*śyāma ko daraśana*"
+description: "Composition by Śrī gopeśvara bandyopādhyāy, in Āḍācautāl (Madhyalay)"
+format:
+  html:
+    page-layout: article
+---
+
+::: {.composer-info}
+**Composer:** Śrī gopeśvara bandyopādhyāy &nbsp;·&nbsp; **Tāl:** Āḍācautāl (Madhyalay)
+:::
+
+## Lyrics {.unnumbered}
+
+::: {.lyrics-block}
+
+**Sthāyī**
+
+> śyāma ko daraśana nahi pāyo<br>mero mana cancala hota unase jaba hi mile sohi dina hi sudina
+
+**Antarā**
+
+> abahi jāta ḍhunḍhe yamunā taṭa ko<br>una bina ghari ghari pala china bhavana ko nahi rahata mana
+
+:::
+
+::: {.callout-note appearance="minimal" collapse="true"}
+## Reading the notation
+
+Āḍācautāl is a 14-beat cycle. In this layout, it is divided as **2 + 4 + 4 + 4** (vibhāgs marked **X**, **2**, **O**, **3**, **O**, **4**, **O** grouped into blocks). Each row below shows **one complete cycle**: the fourteen columns correspond to beats 1–14, with sam **X** at beat 1.
+
+The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
+:::
+
+## Sthāyī {.unnumbered}
+
+::: {.notation-table .adacautal}
+
+| **X** |   | **2** |   | **O** |   | **3** |   | **O** |   | **4** |   | **O** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $S$ | $-$ | $\tr{S}$ | $\tr{S}$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **śyā** | **-** | **ma** | **ko** |
+| $N$ | $D$ | $M$ | $D$ | $P$ | $M$ | $R$ | $-$ | $G$ | $m$ | $G$ | $G$ | $R$ | $S$ |
+| **da** | **ra** | **śa** | **na** | **na** | **hi** | **pā** | **-** | **yo** | **-** | **me** | **-** | **-** | **ro** |
+| $\lb{\sps{S}\mn{N}}$ | $R$ | $R$ | $-$ | $G$ | $G$ | $M$ | $G$ | $P$ | $P$ | $P$ | $P$ | $D$ | $-$ |
+| **ma** | **na** | **cha** | **-** | **nca** | **la** | **ho** | **-** | **-** | **ta** | **u** | **na** | **se** | **-** |
+| $P$ | $P$ | $P$ | $M$ | $G$ | $P$ | $P$ | $P$ | $\lb{\sps{P}N}$ | $D$ | $P$ | $M$ | $D$ | $P$ |
+| **ja** | **ba** | **hi** | **-** | **-** | **-** | **mi** | **le** | **so** | **hi** | **di** | **-** | **-** | **na** |
+| $P$ | $R$ | $G$ | $m$ | $G$ | $R$ | $G$ | $\mn{N}$ | $R$ | $S$ | $-$ | $-$ | $-$ | $-$ |
+| **hi** | **-** | **su** | **di** | **-** | **-** | **-** | **-** | **-** | **-n** | **-** | **-** | **-** | **-** |
+
+:::
+
+## Antarā {.unnumbered}
+
+::: {.notation-table .adacautal}
+
+| **X** |   | **2** |   | **O** |   | **3** |   | **O** |   | **4** |   | **O** |   |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $G$ | $P$ | $M$ | $D$ |
+| **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **a** | **ba** | **hi** | **-** |
+| $P$ | $P$ | $N$ | $D$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ | $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $-$ |
+| **jā** | **-** | **-** | **-** | **-** | **ta** | **ḍhun** | **-** | **ḍhe** | **-** | **ya** | **mu** | **nā** | **-** |
+| $\tr{R}$ | $N$ | $\tr{R}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $G$ | $P$ | $M$ | $D$ |
+| **-** | **-** | **-** | **-** | **ta** | **ṭa** | **ko** | **-** | **-** | **-** | **a** | **ba** | **hi** | **-** |
+| $P$ | $P$ | $N$ | $D$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ | $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $-$ |
+| **jā** | **-** | **-** | **-** | **-** | **ta** | **ḍhun** | **-** | **ḍhe** | **-** | **ya** | **mu** | **nā** | **-** |
+| $\tr{R}$ | $N$ | $\tr{R}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{ND}$ | $N$ | $D$ | $D$ | $P$ | $P$ |
+| **-** | **-** | **-** | **-** | **ta** | **ṭa** | **ko** | **-** | **u** | **na** | **-** | **-** | **bi** | **na** |
+| $P$ | $\lb{ND}$ | $\tr{R}$ | $\tr{S}$ | $N$ | $D$ | $M$ | $D$ | $P$ | $P$ | $\lb{\sps{P}N}$ | $D$ | $P$ | $P$ |
+| **gha** | **ri** | **gha** | **ri** | **pa** | **la** | **-** | **-** | **chi** | **na** | **bha** | **va** | **na** | **ko** |
+| $P$ | $R$ | $G$ | $m$ | $G$ | $R$ | $\mn{N}$ | $R$ | $S$ | $S$ | $-$ | $-$ | $-$ | $-$ |
+| **na** | **-** | **hi** | **ra** | **ha** | **ta** | **-** | **-** | **ma** | **na** | **-** | **-** | **-** | **-** |
+
+:::
