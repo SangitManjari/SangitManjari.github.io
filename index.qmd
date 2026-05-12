@@ -46,22 +46,3 @@ Because *Saṅgīt Manjarī* is so extensive, we are releasing material in insta
 Ultimately, we hope this project will help preserve India’s musical legacy by combining careful editing with digital sharing. We invite others working with different gharānās to join in and help revive more rare musical traditions.
 :::
 
----
-
-### Featured Compositions {.unnumbered}
-
-Explore the interactive digital notations from the Tagore Edition:
-
-::: {style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; margin-top: 20px; font-size: 1.05em;"}
-- [Rāg Bahār](rag-bahar.html)
-- [Rāg Bhairav](rag-bhairav.html)
-- [Rāg Bhairavī](rag-bhairavi.html)
-- [Rāg Bhīmapalaśrī](rag-bhimapalasri.html)
-- [Rāg Bhūpāli](rag-bhupali.html)
-- [Rāg Bṛndāvanī sāraṅg](rag-brindavani-sarang.html)
-- [Rāg Chāyānaṭ](rag-chayanat.html)
-- [Rāg Darabāri kānaḍā](rag-darabari-kanada.html)
-- [Rāg Darabāri toḍī](rag-darabari-todi.html)
-- [Rāg Gauḍ malhār](rag-gaud-malhar.html)
-- [Rāg Hamīr](rag-hamir.html)
-:::
