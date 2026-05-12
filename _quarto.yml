@@ -55,7 +55,7 @@ website:
           - href: rag-kaphi.qmd
             text: Rāg Kāphī
           - href: rag-kedar.qmd
-          - text: Rāg Kedār
+            text: Rāg Kedār
           - href: rag-megh.qmd
             text: Rāg Megh
           - href: rag-natmalhar.qmd
