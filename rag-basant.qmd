@@ -1,10 +1,16 @@
 ---
-title: "Rāg Basant"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Basant
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Sarasa sundara bara](chapters/sarasa_sundara_bara.qmd)

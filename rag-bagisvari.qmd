@@ -1,10 +1,16 @@
 ---
-title: "Rāg Bāgīśvarī"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Bāgīśvarī
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Tuma bina kaise](chapters/tuma_bina_kaise.qmd)

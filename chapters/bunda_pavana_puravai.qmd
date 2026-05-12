@@ -1,7 +1,6 @@
 ---
 title: "Rāg Hamīr"
-subtitle: "*bunda pavana puravāi*"
-description: "Composition by Hitaparakh, in Cautāl (Drut)"
+subtitle: "*Bunda pavana puravāi*"
 format:
   html:
     page-layout: article
@@ -36,34 +35,34 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .cautal}
 
 | **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $P$ | $\lb{-M}$ | $D$ | $\lb{PP}$ | $\lb{\sps{P}G}$ | $M$ | $D$ | $-$ | $D$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ |
+| P | $\lb{-M}$ | D | $\lb{PP}$ | $\lb{\sps{P}G}$ | M | D | - | D | $\lb{\tr{S}N}$ | $\tr{S}$ | D |
 | **bun** | **-** | **da** | **pa** | **va** | **na** | **pu** | **-** | **ra** | **vā** | **-** | **i** |
-| $\lb{PM}$ | $P$ | $\lb{\sps{P}G}$ | $\lb{\sps{m}G}$ | $\lb{\sps{G}D}$ | $P$ | $\lb{\sps{P}G}$ | $G$ | $\lb{Gm}$ | $R$ | $S$ | $S$ |
+| $\lb{PM}$ | P | $\lb{\sps{P}G}$ | $\lb{\sps{m}G}$ | $\lb{\sps{G}D}$ | P | $\lb{\sps{P}G}$ | G | $\lb{Gm}$ | R | S | S |
 | **ga** | **ra** | **ja** | **ga** | **ra** | **ja** | **ba** | **ra** | **kha** | **ta** | **gha** | **na** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .cautal}
 
 | **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $\lb{PM}$ | $D$ | $P$ | $\lb{\sps{P}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
+| $\lb{PM}$ | D | P | $\lb{\sps{P}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | - | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
 | **u** | **ma** | **ḍa** | **ghu** | **ma** | **ḍa** | **ca** | **hu** | **-** | **di** | **-** | **sa** |
-| $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{ND}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ | $P$ |
+| $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{ND}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | D | P |
 | **gha** | **na** | **-** | **a** | **-** | **ti** | **ghe** | **-** | **ra** | **ā** | **va** | **ta** |
-| $\lb{PM}$ | $D$ | $P$ | $\lb{\sps{P}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
+| $\lb{PM}$ | D | P | $\lb{\sps{P}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | - | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
 | **u** | **ma** | **ḍa** | **ghu** | **ma** | **ḍa** | **ca** | **hu** | **-** | **di** | **-** | **sa** |
-| $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{ND}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ | $P$ |
+| $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $\lb{ND}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | D | P |
 | **gha** | **na** | **-** | **a** | **-** | **ti** | **ghe** | **-** | **ra** | **ā** | **va** | **ta** |
-| $\lb{mG}$ | $G$ | $\lb{PM}$ | $D$ | $M$ | $P$ | $G$ | $m$ | $R$ | $\mn{N}$ | $R$ | $S$ |
+| $\lb{mG}$ | G | $\lb{PM}$ | D | M | P | G | m | R | $\mn{N}$ | R | S |
 | **ma** | **da** | **na** | **da** | **ha** | **na** | **ka** | **ra** | **ta** | **-** | **ta** | **na** |
-| $S$ | $\tr{R}$ | $\tr{R}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $D$ | $\lb{PM}$ | $G$ | $m$ |
+| S | $\tr{R}$ | $\tr{R}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | D | $\lb{PM}$ | G | m |
 | **u** | **na** | **bi** | **na** | **kai** | **se** | **ra** | **ha** | **ta** | **bha** | **va** | **na** |
 
 :::

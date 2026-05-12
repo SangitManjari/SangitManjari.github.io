@@ -1,7 +1,6 @@
 ---
 title: "Rāg Bahār"
-subtitle: "*manamatha tana dahe*"
-description: "Composition by Tānarāj, in Cautāl (Madhyalay)"
+subtitle: "*Manamatha tana dahe*"
 format:
   html:
     page-layout: article
@@ -37,38 +36,38 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .cautal}
 
 | **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $-$ | $-$ | $\lb{nD}$ | $\lb{nD}$ | $N$ | $\tr{S}$ | $\lb{n}$ | $P$ | $\lb{mg}$ | $m$ |
+| - | - | - | - | $\lb{nD}$ | $\lb{nD}$ | N | $\tr{S}$ | $\lb{n}$ | P | $\lb{mg}$ | m |
 | **-** | **-** | **-** | **-** | **ma** | **na** | **ma** | **tha** | **ta** | **na** | **da** | **he** |
-| $n$ | $-$ | $D$ | $n$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\lb{nD}$ | $\lb{nP}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $n$ | $P$ |
+| n | - | D | n | $\lb{\tr{S}N}$ | $\tr{S}$ | $\lb{nD}$ | $\lb{nP}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | n | P |
 | **me** | **-** | **-** | **-** | **-** | **ro** | **du** | **kha** | **ta** | **sa** | **ka** | **la** |
-| $\lb{\sps{m}g}$ | $m$ | $n$ | $\lb{\sps{D}n}$ | $P$ | $m$ | $g$ | $g$ | $\lb{\sps{m}g}$ | $\lb{gm}$ | $R$ | $S$ |
+| $\lb{\sps{m}g}$ | m | n | $\lb{\sps{D}n}$ | P | m | g | g | $\lb{\sps{m}g}$ | $\lb{gm}$ | R | S |
 | **dru** | **ma** | **na** | **i** | **bā** | **hā** | **-** | **ra** | **pā** | **-** | **ye** | **ri** |
-| $S$ | $S$ | $m$ | $m$ | $m$ | $m$ | $m$ | $\lb{mP}$ | $P$ | $P$ | $\lb{mg}$ | $m$ |
+| S | S | m | m | m | m | m | $\lb{mP}$ | P | P | $\lb{mg}$ | m |
 | **hā** | **sa** | **ta** | **bhra** | **ma** | **ra** | **ko** | **-** | **ya** | **lā** | **de** | **ta** |
-| $n$ | $n$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| n | n | $\lb{\tr{S}N}$ | $\tr{S}$ | - | - | - | - | - | - | - | - |
 | **gā** | **-** | **-** | **ri** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .cautal}
 
 | **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $n$ | $\lb{\sps{D}N}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
+| n | $\lb{\sps{D}N}$ | N | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{R}\tr{S}}$ | $\tr{R}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ |
 | **e** | **ka** | **su** | **ga** | **-** | **ndha** | **ba** | **ha** | **ta** | **pa** | **va** | **na** |
-| $\tr{R}$ | $-$ | $\tr{R}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\tr{S}$ | $n$ | $D$ | $D$ |
+| $\tr{R}$ | - | $\tr{R}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\tr{R}$ | $\tr{S}$ | n | D | D |
 | **hā** | **-** | **hā** | **ka** | **ra** | **ta** | **bi** | **ra** | **hi** | **ja** | **-** | **na** |
-| $N$ | $-$ | $P$ | $m$ | $m$ | $m$ | $m$ | $P$ | $P$ | $P$ | $\lb{mg}$ | $m$ |
+| N | - | P | m | m | m | m | P | P | P | $\lb{mg}$ | m |
 | **tā** | **-** | **na** | **rā** | **-** | **ja** | **gā** | **-** | **va** | **ta** | **ba** | **na** |
-| $n$ | $n$ | $n$ | $n$ | $\tr{S}$ | $N$ | $\tr{S}$ | $-$ | $n$ | $D$ | $n$ | $P$ |
+| n | n | n | n | $\tr{S}$ | N | $\tr{S}$ | - | n | D | n | P |
 | **ba** | **na** | **ra** | **ci** | **e** | **-** | **ri** | **-** | **-** | **-** | **-** | **-** |
-| $P$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| P | $\lb{\tr{S}N}$ | $\tr{S}$ | - | - | - | - | - | - | - | - | - |
 | **pyā** | **-** | **ri** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::

@@ -1,7 +1,6 @@
 ---
 title: "Rāg Bāhār"
 subtitle: "*Āye ritu pati*"
-description: "Composition in Suraphāktāl (Madhyalay)"
 format:
   html:
     page-layout: article
@@ -28,49 +27,49 @@ format:
 ::: {.callout-note appearance="minimal" collapse="true"}
 ## Reading the notation
 
-Suraphāktāl is a 10-beat cycle. In this notation, it is divided as **4 + 2 + 4** (vibhāgs marked **X**, **2**, **3**). Each row below shows **one complete cycle**: the ten columns correspond to beats 1–10, with sam **X** at beat 1, **2** at beat 5, and **3** at beat 7. 
+Suraphāktāl(Madhyalay) is a 10-beat cycle. In this notation, it is divided as **4 + 2 + 4** (vibhāgs marked **X**, **2**, **3**). Each row below shows **one complete cycle**: the ten columns correspond to beats 1–10, with sam **X** at beat 1, **2** at beat 5, and **3** at beat 7. 
 
 The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
 :::
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .suraphaktal-madhyalay}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $S$ | $-$ | $m$ | $-$ | $m$ | $m$ | $m$ | $m$ | $m$ | $m$ |
+| S | - | m | - | m | m | m | m | m | m |
 | **ā** | **-** | **ye** | **-** | **ri** | **tu** | **pa** | **ti** | **va** | **sa** |
-| $P$ | $m$ | $P$ | $-$ | $m$ | $m$ | $\lb{PD}$ | $P$ | $\lb{\sps{m}g}$ | $m$ |
+| P | m | P | - | m | m | $\lb{PD}$ | P | $\lb{\sps{m}g}$ | m |
 | **-** | **nta** | **rā** | **-** | **ja** | **sa** | **ka** | **la** | **da** | **la** |
-| $n$ | $D$ | $N$ | $N$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $n$ | $D$ |
+| n | D | N | N | N | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | n | D |
 | **sā** | **-** | **ja** | **na** | **ka** | **ra** | **bo** | **-** | **le** | **-** |
-| $-$ | $D$ | $D$ | $N$ | $N$ | $\tr{S}$ | $n$ | $D$ | $D$ | $N$ |
+| - | D | D | N | N | $\tr{S}$ | n | D | D | N |
 | **-** | **ko** | **ye** | **li** | **yā** | **-** | **-** | **-** | **ra** | **va** |
-| $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $n$ | $n$ | $D$ | $D$ |
+| N | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | n | n | D | D |
 | **su** | **na** | **ta** | **śra** | **va** | **ṅa** | **ku** | **hu** | **ra** | **va** |
-| $n$ | $-$ | $P$ | $m$ | $m$ | $P$ | $\lb{mg}$ | $m$ | $R$ | $S$ |
+| n | - | P | m | m | P | $\lb{mg}$ | m | R | S |
 | **mo** | **-** | **ma** | **na** | **da** | **ra** | **pā** | **-** | **ve** | **-** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .suraphaktal-madhyalay}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $\lb{\sps{n}D}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $n$ | $D$ | $n$ | $n$ | $P$ | $P$ |
+| $\lb{\sps{n}D}$ | N | $\tr{S}$ | $\tr{S}$ | n | D | n | n | P | P |
 | **pra** | **phu** | **lli** | **ta** | **sa** | **ba** | **va** | **na** | **gha** | **na** |
-| $m$ | $-$ | $n$ | $D$ | $D$ | $N$ | $N$ | $\tr{S}$ | $-$ | $\tr{S}$ |
+| m | - | n | D | D | N | N | $\tr{S}$ | - | $\tr{S}$ |
 | **ca** | **-** | **mpā** | **-** | **ba** | **ku** | **la** | **be** | **-** | **la** |
-| $\tr{R}$ | $-$ | $N$ | $\tr{S}$ | $n$ | $-$ | $D$ | $-$ | $D$ | $N$ |
+| $\tr{R}$ | - | N | $\tr{S}$ | n | - | D | - | D | N |
 | **ri** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **sa** | **ba** |
-| $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{m}$ | $\tr{g}$ | $\tr{g}$ | $\tr{m}$ | $\tr{m}$ | $\tr{R}$ | $\tr{R}$ |
+| N | $\tr{S}$ | $\tr{S}$ | $\tr{m}$ | $\tr{g}$ | $\tr{g}$ | $\tr{m}$ | $\tr{m}$ | $\tr{R}$ | $\tr{R}$ |
 | **a** | **ti** | **su** | **ga** | **-** | **ndha** | **ba** | **hu** | **ta** | **pa** |
-| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $n$ | $D$ | $D$ | $N$ | $N$ |
+| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | - | $\tr{S}$ | n | D | D | N | N |
 | **va** | **na** | **ma** | **-** | **nda** | **ma** | **-** | **nda** | **a** | **li** |
-| $\tr{S}$ | $\tr{S}$ | $n$ | $D$ | $n$ | $P$ | $\lb{mg}$ | $m$ | $R$ | $S$ |
+| $\tr{S}$ | $\tr{S}$ | n | D | n | P | $\lb{mg}$ | m | R | S |
 | **ku** | **la** | **vyā** | **-** | **ku** | **la** | **bha** | **-** | **ye** | **-** |
 
 :::

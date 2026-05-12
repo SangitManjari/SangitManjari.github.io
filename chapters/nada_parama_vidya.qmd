@@ -1,7 +1,6 @@
 ---
 title: "Rāg Bhairavī"
-subtitle: "*nāda parama vidyā*"
-description: "Composition by Raṅganāth, in Suraphāktāl (Madhyalay)"
+subtitle: "*Nāda parama vidyā*"
 format:
   html:
     page-layout: article
@@ -43,68 +42,68 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .suraphaktal-madhyalay}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $m$ | $-$ | $m$ | $m$ | $P$ | $m$ | $g$ | $-$ | $g$ | $-$ |
+| m | - | m | m | P | m | g | - | g | - |
 | **nā** | **-** | **da** | **pa** | **ra** | **ma** | **vi** | **-** | **dyā** | ** ** |
-| $r$ | $S$ | $r$ | $m$ | $g$ | $-$ | $r$ | $-$ | $S$ | $-$ |
+| r | S | r | m | g | - | r | - | S | - |
 | **de** | **-** | **hi** | **bha** | **vā** | **-** | **-** | **-** | **nī** | **-** |
-| $S$ | $S$ | $d$ | $d$ | $P$ | $n$ | $d$ | $P$ | $\lb{\sps{m}g}$ | $-$ |
+| S | S | d | d | P | n | d | P | $\lb{\sps{m}g}$ | - |
 | **ni** | **sa** | **di** | **na** | **ma** | **-** | **nge** | **to** | **se** | **-** |
-| $m$ | $n$ | $d$ | $P$ | $g$ | $m$ | $\lb{gr}$ | $-$ | $S$ | $-$ |
+| m | n | d | P | g | m | $\lb{gr}$ | - | S | - |
 | **rā** | **-** | **ga** | **tā** | **-** | **la** | **bā** | **-** | **ṇī** | **-** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .suraphaktal-madhyalay}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $d$ | $d$ | $n$ | $n$ | $\tr{S}$ | $-$ | $\tr{S}$ | $n$ | $\tr{S}$ | $\tr{S}$ |
+| d | d | n | n | $\tr{S}$ | - | $\tr{S}$ | n | $\tr{S}$ | $\tr{S}$ |
 | **su** | **ta** | **ra** | **ṅga** | **nā** | **-** | **tha** | **tu** | **-** | **jha** |
-| $d$ | $n$ | $\tr{S}$ | $\tr{g}$ | $\tr{r}$ | $\tr{S}$ | $\lb{nd}$ | $-$ | $P$ | $-$ |
+| d | n | $\tr{S}$ | $\tr{g}$ | $\tr{r}$ | $\tr{S}$ | $\lb{nd}$ | - | P | - |
 | **ca** | **ra** | **ṇa** | **ju** | **ga** | **la** | **dhyā** | **-** | **nī** | **-** |
-| $S$ | $-$ | $d$ | $d$ | $P$ | $n$ | $d$ | $P$ | $m$ | $g$ |
+| S | - | d | d | P | n | d | P | m | g |
 | **gā** | **-** | **ve** | **ba** | **jā** | **-** | **ve** | **-** | **-** | **-** |
-| $m$ | $n$ | $d$ | $P$ | $g$ | $m$ | $g$ | $r$ | $S$ | $-$ |
+| m | n | d | P | g | m | g | r | S | - |
 | **ja** | **ya** | **ja** | **ya** | **śi** | **va** | **rā** | **-** | **nī** | **-** |
 
 :::
 
 ## Sañcārī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .suraphaktal-madhyalay}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $S$ | $S$ | $d$ | $d$ | $P$ | $P$ | $m$ | $g$ | $-$ | $g$ |
+| S | S | d | d | P | P | m | g | - | g |
 | **ā** | **ga** | **ma** | **ni** | **ga** | **ma** | **ga** | **ṇe** | **-** | **śa** |
-| $S$ | $r$ | $g$ | $m$ | $g$ | $g$ | $r$ | $-$ | $S$ | $-$ |
+| S | r | g | m | g | g | r | - | S | - |
 | **nā** | **-** | **ra** | **da** | **śū** | **la** | **pā** | **-** | **ṇi** | **-** |
-| $S$ | $\mn{n}$ | $\mn{d}$ | $\mn{n}$ | $S$ | $-$ | $S$ | $-$ | $g$ | $g$ |
+| S | $\mn{n}$ | $\mn{d}$ | $\mn{n}$ | S | - | S | - | g | g |
 | **bh** | **iṛ** | **-** | **ṅgī** | **ā** | **-** | **di** | **-** | **mu** | **ni** |
-| $m$ | $m$ | $d$ | $P$ | $m$ | $g$ | $g$ | $r$ | $-$ | $S$ |
+| m | m | d | P | m | g | g | r | - | S |
 | **ja** | **na** | **pū** | **je** | **jo** | **-** | **ḍa** | **pā** | **-** | **ṇi** |
 
 :::
 
 ## Ābhog {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .suraphaktal-madhyalay}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $d$ | $d$ | $n$ | $n$ | $\tr{S}$ | $-$ | $\tr{S}$ | $n$ | $\tr{S}$ | $\tr{S}$ |
+| d | d | n | n | $\tr{S}$ | - | $\tr{S}$ | n | $\tr{S}$ | $\tr{S}$ |
 | **i** | **ta** | **nā** | **hin** | **a** | **-** | **nta** | **ka** | **hi** | **na** |
-| $d$ | $n$ | $\tr{S}$ | $\tr{g}$ | $\tr{r}$ | $\tr{S}$ | $n$ | $\tr{S}$ | $S$ | $S$ |
+| d | n | $\tr{S}$ | $\tr{g}$ | $\tr{r}$ | $\tr{S}$ | n | $\tr{S}$ | S | S |
 | **pā** | **-** | **ve** | **-** | **bha** | **vā** | **-** | **nī** | **a** | **pa** |
-| $d$ | $d$ | $d$ | $d$ | $d$ | $P$ | $n$ | $d$ | $-$ | $P$ |
+| d | d | d | d | d | P | n | d | - | P |
 | **nī** | **ye** | **ja** | **sa** | **kṛ** | **pā** | **-** | **kī** | **-** | **je** |
-| $g$ | $m$ | $P$ | $n$ | $d$ | $P$ | $m$ | $g$ | $r$ | $S$ |
+| g | m | P | n | d | P | m | g | r | S |
 | **mu** | **-** | **ḍhe** | **-** | **ka** | **ro** | **jñā** | **-** | **-** | **nī** |
 
 :::

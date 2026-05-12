@@ -1,10 +1,15 @@
 ---
-title: "Rāg Chāyānaṭ"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Chāyānaṭ
+:::
 
 ## Songs in this collection
 
-----
 
 - [śambhū hara maheśa](chapters/sambhu_hara_mahesa.qmd)

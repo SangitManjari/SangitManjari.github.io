@@ -1,10 +1,16 @@
 ---
-title: "Rāg Bhairavī"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Bhairavī
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Nāda parama vidyā](chapters/nada_parama_vidya.qmd)

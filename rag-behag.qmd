@@ -1,11 +1,17 @@
 ---
-title: "rag-behag"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Behag
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [āju raṅga khelata](chapters/aju_ranga_khelata.qmd)
 

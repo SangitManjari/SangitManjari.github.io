@@ -1,10 +1,16 @@
 ---
-title: "Rāg Gauḍ malhār"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Gauḍ malhār
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Indrahunkī asabārī papīyana](chapters/indrahunki_asabari.qmd)

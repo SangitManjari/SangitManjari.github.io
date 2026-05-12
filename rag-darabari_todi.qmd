@@ -1,10 +1,16 @@
 ---
-title: "Rāg Darabāri toḍī"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Darabāri toḍī
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Kāhna na kara](chapters/kahna_na_kara.qmd)

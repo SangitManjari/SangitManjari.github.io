@@ -2,9 +2,6 @@
    Sangīt Manjarī — site styles
    ========================================================================== */
 
-
-
-
 /* Professional Amazon Card Styling */
 .amazon-card {
   border: 1px solid #eaeaea;
@@ -51,7 +48,7 @@
 
 .amazon-button {
   display: block;
-  background-color: #FFD814; /* Official Amazon Yellow */
+  background-color: #FFD814;
   color: #0F1111;
   text-decoration: none;
   padding: 10px 0;
@@ -64,7 +61,6 @@
   transition: background-color 0.2s ease, border-color 0.2s ease;
 }
 
-/* Darker yellow on hover just like Amazon's real buttons */
 .amazon-button:hover {
   background-color: #F7CA00; 
   border-color: #F2C200;
@@ -72,34 +68,15 @@
   text-decoration: none;
 }
 
-
-/* Add a scrollbar to long navbar dropdown menus */
 .navbar .dropdown-menu {
-  max-height: 60vh; /* Limits the height to 60% of the screen height */
-  overflow-y: auto; /* Adds a vertical scrollbar when needed */
+  max-height: 60vh;
+  overflow-y: auto;
 }
 
-/* Optional: Make the scrollbar look a bit thinner and more elegant */
-.navbar .dropdown-menu::-webkit-scrollbar {
-  width: 8px;
-}
-
-.navbar .dropdown-menu::-webkit-scrollbar-track {
-  background: #f1f1f1; 
-  border-radius: 4px;
-}
-
-.navbar .dropdown-menu::-webkit-scrollbar-thumb {
-  background: #c1c1c1; 
-  border-radius: 4px;
-}
-
-.navbar .dropdown-menu::-webkit-scrollbar-thumb:hover {
-  background: #a8a8a8; 
-}
-
-
-
+.navbar .dropdown-menu::-webkit-scrollbar { width: 8px; }
+.navbar .dropdown-menu::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
+.navbar .dropdown-menu::-webkit-scrollbar-thumb { background: #c1c1c1; border-radius: 4px; }
+.navbar .dropdown-menu::-webkit-scrollbar-thumb:hover { background: #a8a8a8; }
 
 /* Composer / tāl line under the title -------------------------------------- */
 .composer-info {
@@ -113,7 +90,7 @@
 /* Lyrics block ------------------------------------------------------------- */
 .lyrics-block {
   background: #fafafa;
-  border-left: 3px solid #b08d57;       /* warm gold */
+  border-left: 3px solid #b08d57;
   padding: 1rem 1.25rem;
   margin: 1.25rem 0 2rem 0;
   border-radius: 4px;
@@ -132,47 +109,74 @@
 
 /* Notation tables ---------------------------------------------------------- */
 .notation-table {
-  overflow-x: auto;          /* horizontal scroll on narrow viewports */
+  overflow-x: auto;
   margin: 1.5rem 0 2.5rem 0;
   background: #fff;
-  border: none;              /* Remove outer box border */
+  border: none;
 }
 
+/* FIX: Ensure the table layout forces columns to distribute evenly */
 .notation-table table {
   width: 100%;
+  table-layout: fixed; /* This forces columns to respect widths instead of collapsing */
   border-collapse: collapse;
   margin: 0;
-  font-size: 1rem;           /* Slightly larger for clarity */
+  font-size: 1rem;
 }
 
 .notation-table thead {
-  background: transparent;   /* Remove beige background */
+  background: transparent;
 }
 
 .notation-table th {
   font-weight: 600;
-  color: #b08d57;            /* Keep header golden */
-  border-bottom: 2px solid #d8c79f; /* Keep golden underline for header */
+  color: #333;
   padding: 0.75rem 0.4rem;
   text-align: center;
   vertical-align: bottom;
   white-space: nowrap;
+  border: none; 
+  /* FIX: Explicitly add bottom border to the header row */
+  border-bottom: 1px solid #444 !important; 
+}
+
+/* Remove horizontal borders on table rows */
+.notation-table tr {
+  border-bottom: none !important;
 }
 
 .notation-table td {
   text-align: center;
   padding: 0.6rem 0.4rem;    
-  border: none;              /* Remove ALL horizontal and default vertical borders */
   vertical-align: middle;
   white-space: nowrap;
+  border: none !important; /* Ensure absolute removal of default grid borders */
 }
 
-/* Add a subtle visual difference for the lyrics row so it doesn't float away */
+/* Fix width distribution for ALL specific Tāls to prevent collapsing */
+.tintal table th, .tintal table td,
+.tilwada table th, .tilwada table td,
+.tilwada-shifted table th, .tilwada-shifted table td,
+.tilwada-madhyalay table th, .tilwada-madhyalay table td { width: 6.25%; } /* 16 beats */
+
+.dhamar table th, .dhamar table td,
+.dhamar-variant table th, .dhamar-variant table td,
+.dhamar-madhyalay table th, .dhamar-madhyalay table td,
+.adacautal table th, .adacautal table td,
+.doubletivra table th, .doubletivra table td { width: 7.14%; } /* 14 beats */
+
+.cautal table th, .cautal table td { width: 8.33%; } /* 12 beats */
+
+.suraphaktal table th, .suraphaktal table td,
+.suraphaktal-madhyalay table th, .suraphaktal-madhyalay table td,
+.jhapatal table th, .jhapatal table td { width: 10%; } /* 10 beats */
+
+/* Subtle padding adjustments for lyrics row */
 .notation-table tbody tr:nth-child(even) td {
   color: #222;
   font-weight: 500;
-  padding-top: 0.15rem;     /* Pull lyrics closer to the swara above them */
-  padding-bottom: 0.85rem;  /* Push lyrics further from the swara below them */
+  padding-top: 0.15rem;
+  padding-bottom: 0.85rem;
 }
 
 .notation-table tbody tr:nth-child(odd) td {
@@ -180,7 +184,6 @@
   padding-bottom: 0.15rem;
 }
 
-/* Make MathJax output align nicely inside narrow cells */
 .notation-table mjx-container {
   margin: 0 !important;
 }
@@ -192,93 +195,91 @@
 /* 1. Left opening line for the very first column */
 .notation-table th:first-child,
 .notation-table td:first-child {
-  border-left: 1px solid #444; 
+  border-left: 1px solid #444 !important; 
 }
 
 /* 2. Right closing line for the very last column */
 .notation-table th:last-child,
 .notation-table td:last-child {
-  border-right: 1px solid #444; 
+  border-right: 1px solid #444 !important; 
 }
 
-/* 3. Auto-detect Tintāl (16 beats). If the table has 16 columns, apply these dividers */
-.notation-table table:has(th:nth-child(16):last-child) th:nth-child(5),
-.notation-table table:has(th:nth-child(16):last-child) td:nth-child(5),
-.notation-table table:has(th:nth-child(16):last-child) th:nth-child(9),
-.notation-table table:has(th:nth-child(16):last-child) td:nth-child(9),
-.notation-table table:has(th:nth-child(16):last-child) th:nth-child(13),
-.notation-table table:has(th:nth-child(16):last-child) td:nth-child(13) {
-  border-left: 1px solid #444; 
+/* 3. Tintāl (16 beats: 4 + 4 + 4 + 4). */
+.tintal th:nth-child(5), .tintal td:nth-child(5),
+.tintal th:nth-child(9), .tintal td:nth-child(9),
+.tintal th:nth-child(13), .tintal td:nth-child(13) {
+  border-left: 1px solid #444 !important; 
 }
 
-/* 4. Auto-detect Dhamār (14 beats). If the table has 14 columns, apply these dividers */
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(6),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(6),
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(8),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(8),
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(11),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(11) {
-  border-left: 1px solid #444; 
+/* 4. Dhamār (14 beats: 5 + 2 + 3 + 4). */
+.dhamar th:nth-child(6), .dhamar td:nth-child(6),
+.dhamar th:nth-child(8), .dhamar td:nth-child(8),
+.dhamar th:nth-child(11), .dhamar td:nth-child(11) {
+  border-left: 1px solid #444 !important; 
 }
 
-/* 5. Auto-detect Suraphāktāl (10 beats). If the table has 10 columns, apply these dividers */
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(5),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(5),
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(7),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(7) {
-  border-left: 1px solid #444; 
+/* 5. Suraphāktāl / Suraphāktāl Madhyalay (10 beats: 4 + 2 + 4). */
+.suraphaktal th:nth-child(5), .suraphaktal td:nth-child(5),
+.suraphaktal th:nth-child(7), .suraphaktal td:nth-child(7),
+.suraphaktal-madhyalay th:nth-child(5), .suraphaktal-madhyalay td:nth-child(5),
+.suraphaktal-madhyalay th:nth-child(7), .suraphaktal-madhyalay td:nth-child(7) {
+  border-left: 1px solid #444 !important; 
 }
 
-/* 6. Auto-detect Cautāl / Ektāl (12 beats). If the table has 12 columns, apply these dividers */
-.notation-table table:has(th:nth-child(12):last-child) th:nth-child(3),
-.notation-table table:has(th:nth-child(12):last-child) td:nth-child(3),
-.notation-table table:has(th:nth-child(12):last-child) th:nth-child(5),
-.notation-table table:has(th:nth-child(12):last-child) td:nth-child(5),
-.notation-table table:has(th:nth-child(12):last-child) th:nth-child(7),
-.notation-table table:has(th:nth-child(12):last-child) td:nth-child(7),
-.notation-table table:has(th:nth-child(12):last-child) th:nth-child(9),
-.notation-table table:has(th:nth-child(12):last-child) td:nth-child(9),
-.notation-table table:has(th:nth-child(12):last-child) th:nth-child(11),
-.notation-table table:has(th:nth-child(12):last-child) td:nth-child(11) {
-  border-left: 1px solid #444; 
+/* 6. Cautāl / Ektāl (12 beats: 2 + 2 + 2 + 2 + 2 + 2). */
+.cautal th:nth-child(3), .cautal td:nth-child(3),
+.cautal th:nth-child(5), .cautal td:nth-child(5),
+.cautal th:nth-child(7), .cautal td:nth-child(7),
+.cautal th:nth-child(9), .cautal td:nth-child(9),
+.cautal th:nth-child(11), .cautal td:nth-child(11) {
+  border-left: 1px solid #444 !important; 
 }
 
-
-/* Vertical dividers for Jhāpatāl (10 beats: 2 + 3 + 2 + 3) */
-/* Since it shares 10 columns with Suraphaktal, we combine the dividers:
-   Jhāpatāl needs dividers at 3, 6, 8 
-   Suraphāktāl needs dividers at 5, 7 */
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(3),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(3),
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(6),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(6),
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(8),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(8) {
-  border-left: 1px solid #444; 
+/* 7. Jhāpatāl (10 beats: 2 + 3 + 2 + 3) */
+.jhapatal th:nth-child(3), .jhapatal td:nth-child(3),
+.jhapatal th:nth-child(6), .jhapatal td:nth-child(6),
+.jhapatal th:nth-child(8), .jhapatal td:nth-child(8) {
+  border-left: 1px solid #444 !important; 
 }
 
-
-/* Double Tīvrā (14 beats displayed, 3+2+2 | 3+2+2) */
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(4),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(4),
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(6),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(6),
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(8),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(8),
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(11),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(11),
-.notation-table table:has(th:nth-child(14):last-child) th:nth-child(13),
-.notation-table table:has(th:nth-child(14):last-child) td:nth-child(13) {
-  border-left: 1px solid #444;
+/* 8. Double Tīvrā (14 beats displayed, 3+2+2 | 3+2+2) */
+.doubletivra th:nth-child(4), .doubletivra td:nth-child(4),
+.doubletivra th:nth-child(6), .doubletivra td:nth-child(6),
+.doubletivra th:nth-child(8), .doubletivra td:nth-child(8),
+.doubletivra th:nth-child(11), .doubletivra td:nth-child(11),
+.doubletivra th:nth-child(13), .doubletivra td:nth-child(13) {
+  border-left: 1px solid #444 !important;
 }
 
+/* 9. Āḍācautāl (14 beats: 2 + 4 + 4 + 4) */
+.adacautal th:nth-child(3), .adacautal td:nth-child(3),
+.adacautal th:nth-child(7), .adacautal td:nth-child(7),
+.adacautal th:nth-child(11), .adacautal td:nth-child(11) {
+  border-left: 1px solid #444 !important; 
+}
 
-/* Vertical dividers for Jhāpatāl (10 beats: 2+3+2+3) */
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(2),
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(5),
-.notation-table table:has(th:nth-child(10):last-child) th:nth-child(7),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(2),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(5),
-.notation-table table:has(th:nth-child(10):last-child) td:nth-child(7) {
-  border-right: 1px solid var(--border);
+/* 10. Dhamār Variant/Madhyalay (14 beats: 3 + 2 + 2 + 3 + 4) */
+.dhamar-variant th:nth-child(4), .dhamar-variant td:nth-child(4),
+.dhamar-variant th:nth-child(6), .dhamar-variant td:nth-child(6),
+.dhamar-variant th:nth-child(8), .dhamar-variant td:nth-child(8),
+.dhamar-variant th:nth-child(11), .dhamar-variant td:nth-child(11),
+.dhamar-madhyalay th:nth-child(4), .dhamar-madhyalay td:nth-child(4),
+.dhamar-madhyalay th:nth-child(6), .dhamar-madhyalay td:nth-child(6),
+.dhamar-madhyalay th:nth-child(8), .dhamar-madhyalay td:nth-child(8),
+.dhamar-madhyalay th:nth-child(11), .dhamar-madhyalay td:nth-child(11) {
+  border-left: 1px solid #444 !important; 
+}
+
+/* 11. Tilwādā Madhyalay (16 beats, visually 2 + 4 + 4 + 4 + 2) */
+.tilwada-madhyalay th:nth-child(3), .tilwada-madhyalay td:nth-child(3),
+.tilwada-madhyalay th:nth-child(7), .tilwada-madhyalay td:nth-child(7),
+.tilwada-madhyalay th:nth-child(11), .tilwada-madhyalay td:nth-child(11),
+.tilwada-madhyalay th:nth-child(15), .tilwada-madhyalay td:nth-child(15) {
+  border-left: 1px solid #444 !important; 
+}
+
+/* Red Khālī (O) marker */
+.khali {
+  color: #d32f2f !important;
+  font-weight: 700;
 }
