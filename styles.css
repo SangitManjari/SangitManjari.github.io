@@ -271,10 +271,9 @@
 }
 
 /* 11. Tilwādā Madhyalay (16 beats, visually 2 + 4 + 4 + 4 + 2) */
-.tilwada-madhyalay th:nth-child(3), .tilwada-madhyalay td:nth-child(3),
-.tilwada-madhyalay th:nth-child(7), .tilwada-madhyalay td:nth-child(7),
-.tilwada-madhyalay th:nth-child(11), .tilwada-madhyalay td:nth-child(11),
-.tilwada-madhyalay th:nth-child(15), .tilwada-madhyalay td:nth-child(15) {
+.tilwada-madhyalay th:nth-child(5), .tilwada-madhyalay td:nth-child(5),
+.tilwada-madhyalay th:nth-child(9), .tilwada-madhyalay td:nth-child(9),
+.tilwada-madhyalay th:nth-child(13), .tilwada-madhyalay td:nth-child(13) {
   border-left: 1px solid #444 !important; 
 }
 
