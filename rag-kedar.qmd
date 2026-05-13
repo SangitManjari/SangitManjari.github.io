@@ -1,7 +1,13 @@
 ---
-title: "Rāg Kedār"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Kedār
+:::
 
 ## Songs in this collection
 

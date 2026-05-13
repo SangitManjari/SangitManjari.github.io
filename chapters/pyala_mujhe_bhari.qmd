@@ -1,7 +1,6 @@
 ---
 title: "Rāg Rāmkalī"
-subtitle: "*pyālā mujhe bhari*"
-description: "Composition by Acapala, in Tintāl (Madhyalay)"
+subtitle: "*Pyālā mujhe bhari*"
 format:
   html:
     page-layout: article
@@ -35,34 +34,34 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .tintal}
 
 | **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $\lb{dd}$ | $\lb{Pm}$ | $P$ | $\lb{mG}$ | $\lb{mG}$ | $m$ | $m$ | $P$ | $P$ |
+| - | - | - | - | - | - | - | $\lb{\mathrm{dd}}$ | $\lb{\mathrm{Pm}}$ | P | $\lb{\mathrm{mG}}$ | $\lb{\mathrm{mG}}$ | m | m | P | P |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **pyā** | **-** | **-** | **lā** | **-** | **mu** | **jhe** | **bha** | **ri** |
-| $\lb{\sps{n}d}$ | $-$ | $-$ | $d$ | $P$ | $-$ | $\lb{mP}$ | $\lb{dP}$ | $\lb{mP}$ | $m$ | $G$ | $m$ | $m$ | $P$ | $P$ | $-$ |
+| $\lb{\sps{\mathrm{n}}\mathrm{d}}$ | - | - | d | P | - | $\lb{\mathrm{mP}}$ | $\lb{\mathrm{dP}}$ | $\lb{\mathrm{mP}}$ | m | G | m | m | P | P | - |
 | **de** | **-** | **-** | **-** | **re** | **-** | **pyā** | **-** | **-** | **lā** | **-** | **mu** | **jhe** | **bha** | **ri** | **-** |
-| $\lb{\sps{n}d}$ | $-$ | $-$ | $d$ | $P$ | $-$ | $-$ | $-$ | $m$ | $m$ | $G$ | $-$ | $-$ | $-$ | $\lb{mP}$ | $m$ |
+| $\lb{\sps{\mathrm{n}}\mathrm{d}}$ | - | - | d | P | - | - | - | m | m | G | - | - | - | $\lb{\mathrm{mP}}$ | m |
 | **de** | **-** | **-** | **-** | **re** | **-** | **-** | **-** | **ma** | **ta** | **vā** | **-** | **-** | **-** | **-** | **ri** |
-| $G$ | $-$ | $r$ | $-$ | $-$ | $-$ | $S$ | $-$ | $-$ | $\lb{mG}$ | $\lb{mG}$ | $m$ | $P$ | $-$ | $P$ | $-$ |
+| G | - | r | - | - | - | S | - | - | $\lb{\mathrm{mG}}$ | $\lb{\mathrm{mG}}$ | m | P | - | P | - |
 | **mo** | **-** | **-** | **-** | **-** | **-** | **ra** | **-** | **-** | **bī** | **ta** | **ga** | **i** | **-** | **lī** | **-** |
-| $-$ | $d$ | $d$ | $d$ | $\lb{dN}$ | $d$ | $P$ | $-$ | $d$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $-$ | $\lb{N\tr{S}}$ | $\lb{\tr{r}\tr{r}}$ | $\lb{\tr{S}N}$ | $\tr{S}$ |
+| - | d | d | d | $\lb{\mathrm{dN}}$ | d | P | - | d | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\tr{\mathrm{S}}$ | - | $\lb{\mathrm{N}\tr{\mathrm{S}}}$ | $\lb{\tr{\mathrm{r}}\tr{\mathrm{r}}}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\tr{\mathrm{S}}$ |
 | **-** | **sa** | **ga** | **rī** | **rai** | **-** | **na** | **-** | **bha** | **i** | **lī** | **-** | **-** | **-** | **-** | **-** |
-| $\lb{\sps{N}\tr{S}}$ | $d$ | $-$ | $-$ | $P$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| $\lb{\sps{\mathrm{N}}\tr{\mathrm{S}}}$ | d | - | - | P | - | - | - | - | - | - | - | - | - | - | - |
 | **bho** | **-** | **-** | **-** | **ra** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .tintal}
 
 | **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $\lb{dd}$ | $\lb{dd}$ | $N$ | $\tr{S}$ | $\lb{\tr{r}\tr{r}}$ | $\lb{\tr{S}\tr{S}}$ | $N$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{dd}$ | $N$ | $\lb{\tr{S}\tr{S}}$ | $\lb{N\tr{S}}$ | $\lb{\tr{r}\tr{r}\tr{S}-}$ | $\lb{N\tr{S}}$ | $N$ |
+| $\lb{\mathrm{dd}}$ | $\lb{\mathrm{dd}}$ | N | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{r}}\tr{\mathrm{r}}}$ | $\lb{\tr{\mathrm{S}}\tr{\mathrm{S}}}$ | N | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\lb{\mathrm{dd}}$ | N | $\lb{\tr{\mathrm{S}}\tr{\mathrm{S}}}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}}$ | $\lb{\tr{\mathrm{r}}\tr{\mathrm{r}}\tr{\mathrm{S}}-}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}}$ | N |
 | **hama** | **tuma** | **pi** | **ve** | **chakā** | **i cha** | **kā** | **ve** | **dura** | **jana** | **lo** | **ga de** | **kha** | **-** | **-** | **ja** |
-| $d$ | $P$ | $\lb{\tr{S}N}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| d | P | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | - | - | - | - | - | - | - | - | - |
 | **-** | **re** | **kara** | **hi** | **śo** | **ra** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::

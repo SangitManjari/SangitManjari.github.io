@@ -1,7 +1,6 @@
 ---
 title: "Rāg Pūrvī"
-subtitle: "*bīna bajāya re*"
-description: "Composition by Kṛṣṇarasik, in Dhamār (Madhyalay)"
+subtitle: "*Bīna bajāya re*"
 format:
   html:
     page-layout: article
@@ -36,34 +35,34 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .dhamar-madhyalay}
 
 | **X** |   |   |   |   | **2** |   | **O** |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $\mn{N}$ | $-$ | $r$ | $G$ | $-$ | $P$ | $M$ |
+| - | - | - | - | - | - | - | $\mn{\mathrm{N}}$ | - | r | G | - | P | M |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **bī** | **-** | **-** | **-** | **-** | **ṇa** | **ba** |
-| $P$ | $-$ | $-$ | $P$ | $-$ | $\lb{\sps{D}M}$ | $-$ | $\lb{\sps{G}m}$ | $-$ | $G$ | $-$ | $\lb{MD}$ | $P$ | $M$ |
+| P | - | - | P | - | $\lb{\sps{\mathrm{D}}\mathrm{M}}$ | - | $\lb{\sps{\mathrm{G}}\mathrm{m}}$ | - | G | - | $\lb{\mathrm{M}\mathrm{D}}$ | P | M |
 | **jā** | **-** | **-** | **-** | **-** | **ya** | **-** | **re** | **-** | **-** | **-** | **ma** | **na** | **-** |
-| $G$ | $m$ | $G$ | $r$ | $-$ | $S$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| G | m | G | r | - | S | - | - | - | - | - | - | - | - |
 | **le** | **-** | **-** | **ga** | **-** | **yo** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .dhamar-madhyalay}
 
 | **X** |   |   |   |   | **2** |   | **O** |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $M$ | $D$ | $-$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $N$ | $\tr{r}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ |
+| M | D | - | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | N | $\tr{\mathrm{r}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | - |
 | **ma** | **dhu** | **-** | **ra** | **-** | **ma** | **dhu** | **ra** | **-** | **-** | **dhu** | **-** | **na** | **-** |
-| $N$ | $\tr{r}$ | $-$ | $\tr{G}$ | $-$ | $\tr{r}$ | $\tr{P}$ | $\tr{G}$ | $\tr{r}$ | $-$ | $\tr{S}$ | $N$ | $\tr{S}$ | $-$ |
+| N | $\tr{\mathrm{r}}$ | - | $\tr{\mathrm{G}}$ | - | $\tr{\mathrm{r}}$ | $\tr{\mathrm{P}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{r}}$ | - | $\tr{\mathrm{S}}$ | N | $\tr{\mathrm{S}}$ | - |
 | **a** | **dha** | **ra** | **-** | **na** | **-** | **-** | **dha** | **ra** | **-** | **re** | **-** | **-** | **-** |
-| $\lb{\tr{S}\tr{r}}$ | $N$ | $-$ | $D$ | $N$ | $D$ | $P$ | $P$ | $-$ | $-$ | $M$ | $P$ | $N$ | $D$ |
+| $\lb{\tr{\mathrm{S}}\tr{\mathrm{r}}}$ | N | - | D | N | D | P | P | - | - | M | P | N | D |
 | **ra** | **sa** | **-** | **-** | **-** | **bha** | **ri** | **tā** | **-** | **-** | **-** | **-** | **na** | **su** |
-| $P$ | $-$ | $-$ | $P$ | $-$ | $\lb{\sps{D}M}$ | $-$ | $\lb{\sps{G}m}$ | $-$ | $G$ | $-$ | $\lb{MD}$ | $P$ | $M$ |
+| P | - | - | P | - | $\lb{\sps{\mathrm{D}}\mathrm{M}}$ | - | $\lb{\sps{\mathrm{G}}\mathrm{m}}$ | - | G | - | $\lb{\mathrm{M}\mathrm{D}}$ | P | M |
 | **nā** | **-** | **-** | **-** | **-** | **ya** | **-** | **re** | **-** | **-** | **-** | **ma** | **na** | **-** |
-| $G$ | $m$ | $G$ | $r$ | $-$ | $S$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| G | m | G | r | - | S | - | - | - | - | - | - | - | - |
 | **le** | **-** | **-** | **ga** | **-** | **yo** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::

@@ -1,10 +1,16 @@
 ---
-title: "Rāg Sarpardā"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Sarpardā
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Raṅga rāti mātiyā](chapters/ranga_rati_matiya.qmd)

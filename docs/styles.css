@@ -278,6 +278,17 @@
   border-left: 1px solid #444 !important; 
 }
 
+
+/* Ektāl / Ektāl Madhyalay (12 beats displayed as: 4 + 4 + 4) */
+.ektal th:nth-child(1), .ektal td:nth-child(1),
+.ektal th:nth-child(5), .ektal td:nth-child(5),
+.ektal th:nth-child(9), .ektal td:nth-child(9),
+.ektal-madhyalay th:nth-child(1), .ektal-madhyalay td:nth-child(1),
+.ektal-madhyalay th:nth-child(5), .ektal-madhyalay td:nth-child(5),
+.ektal-madhyalay th:nth-child(9), .ektal-madhyalay td:nth-child(9) {
+  border-left: 1px solid #444 !important; 
+}
+
 /* Red Khālī (O) marker */
 .khali {
   color: #d32f2f !important;

@@ -1,10 +1,16 @@
 ---
-title: "Rāg Niśāsāg"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Niśāsāg
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Dusaha dokha-dukha dalani](chapters/dusaha_dokha-dukha_dalani.qmd)

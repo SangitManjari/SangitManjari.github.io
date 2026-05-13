@@ -1,10 +1,16 @@
 ---
-title: "Rāg Sindhu"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Sindhu
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Muralī dhuni suni](chapters/murali_dhuni_suni.qmd)

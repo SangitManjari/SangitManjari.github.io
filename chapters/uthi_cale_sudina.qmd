@@ -1,7 +1,6 @@
 ---
 title: "Rāg Kedār"
 subtitle: "*uṭhi cale sudina*"
-description: "Composition by Āśakaraṇa, in Suraphāktāl (Madhyalay)"
 format:
   html:
     page-layout: article
@@ -33,38 +32,38 @@ Suraphāktāl is a 10-beat cycle. In this layout, it is divided into blocks corr
 The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
 :::
 
-## Sthāyī {.unnumbered}
+## Sthāyī {.unnumbered .suraphaktal}
 
 ::: {.notation-table .suraphaktal}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $S$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $D$ | $P$ | $\lb{\sps{P}M}$ | $D$ |
+| S | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | D | P | $\lb{\sps{\mathrm{P}}\mathrm{M}}$ | D |
 | **u** | **ṭhi** | **ca** | **le** | **su** | **di** | **-** | **na** | **nā** | **-** |
-| $P$ | $m$ | $-$ | $m$ | $m$ | $G$ | $P$ | $M$ | $D$ | $-$ |
+| P | m | - | m | m | G | P | M | D | - |
 | **ca** | **ta** | **-** | **re** | **ā** | **-** | **lī** | **-** | **hūn** | **-** |
-| $\lb{\sps{P}M}$ | $-$ | $P$ | $-$ | $m$ | $m$ | $R$ | $R$ | $-$ | $S$ |
+| $\lb{\sps{\mathrm{P}}\mathrm{M}}$ | - | P | - | m | m | R | R | - | S |
 | **ā** | **-** | **yī** | **-** | **to** | **-** | **he** | **le** | **-** | **na** |
 
 :::
 
-## Antarā {.unnumbered}
+## Antarā {.unnumbered .suraphaktal}
 
 ::: {.notation-table .suraphaktal}
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $P$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ | $\tr{S}$ | $D$ |
+| P | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | D |
 | **lā** | **-** | **la** | **na** | **te** | **-** | **rī** | **-** | **ā** | **-** |
-| $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $N$ | $D$ | $\tr{R}$ |
+| $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | N | D | $\tr{\mathrm{R}}$ |
 | **ra** | **ti** | **ka** | **ra** | **ta** | **-** | **tu** | **a** | **su** | **-** |
-| $\tr{S}$ | $N$ | $D$ | $P$ | $D$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $N$ | $\tr{R}$ |
+| $\tr{\mathrm{S}}$ | N | D | P | D | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | N | $\tr{\mathrm{R}}$ |
 | **nda** | **ra** | **na** | **ṭa** | **nā** | **-** | **ga** | **ra** | **nā** | **-** |
-| $\tr{S}$ | $\tr{S}$ | $D$ | $P$ | $m$ | $-$ | $m$ | $\lb{\sps{P}M}$ | $D$ | $P$ |
+| $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | D | P | m | - | m | $\lb{\sps{\mathrm{P}}\mathrm{M}}$ | D | P |
 | **rī** | **-** | **-** | **su** | **di** | **-** | **na** | **nā** | **-** | **ca** |
-| $m$ | $-$ | $m$ | $-$ | $m$ | $G$ | $P$ | $M$ | $D$ | $-$ |
+| m | - | m | - | m | G | P | M | D | - |
 | **ta** | **-** | **re** | **-** | **ā** | **-** | **lī** | **-** | **hūn** | **-** |
-| $\lb{\sps{P}M}$ | $-$ | $P$ | $-$ | $m$ | $m$ | $R$ | $R$ | $-$ | $S$ |
+| $\lb{\sps{\mathrm{P}}\mathrm{M}}$ | - | P | - | m | m | R | R | - | S |
 | **ā** | **-** | **yī** | **-** | **to** | **-** | **he** | **le** | **-** | **na** |
 
 :::

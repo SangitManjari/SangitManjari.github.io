@@ -1,7 +1,6 @@
 ---
 title: "Rāg Naṭ malhār"
-subtitle: "*mori nai lagana*"
-description: "Composition by Niyāmat khān, in Ektāl (Madhyalay)"
+subtitle: "*Mori nai lagana*"
 format:
   html:
     page-layout: article
@@ -35,44 +34,44 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .ektal}
 
 | **X** |   | **O** |   | **X** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $-$ | $-$ | $\lb{\sps{m}D}$ | $P$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $\lb{\sps{R}SS}$ | $\mn{N}$ | $S$ |
+| - | - | - | - | $\lb{\sps{\mathrm{m}}\mathrm{D}}$ | P | m | G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | $\lb{\sps{\mathrm{R}}\mathrm{S}\mathrm{S}}$ | $\mn{\mathrm{N}}$ | S |
 | **-** | **-** | **-** | **-** | **mo** | **ri** | **na** | **i** | **la** | **ga** | **-** | **na** |
-| $R$ | $G$ | $\lb{\sps{R}G}$ | $m$ | $\lb{\sps{m}D}$ | $P$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $\lb{\sps{R}SS}$ | $\mn{N}$ | $S$ |
+| R | G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | m | $\lb{\sps{\mathrm{m}}\mathrm{D}}$ | P | m | G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | $\lb{\sps{\mathrm{R}}\mathrm{S}\mathrm{S}}$ | $\mn{\mathrm{N}}$ | S |
 | **lā** | **gī** | **re** | **-** | **mo** | **ri** | **na** | **i** | **la** | **ga** | **-** | **na** |
-| $R$ | $G$ | $\lb{\sps{R}G}$ | $m$ | $\lb{mR}$ | $-$ | $P$ | $P$ | $m$ | $P$ | $P$ | $P$ |
+| R | G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | m | $\lb{\mathrm{m}\mathrm{R}}$ | - | P | P | m | P | P | P |
 | **lā** | **gī** | **re** | **-** | **-** | **-** | **pi** | **yā** | **-** | **-** | **tu** | **ma** |
-| $\lb{mPDN}$ | $\tr{S}$ | $\lb{\tr{S}D}$ | $-$ | $\lb{n-}$ | $P$ | $\lb{mPDD}$ | $\lb{PmP-}$ | $m$ | $-$ | $G$ | $\lb{mG}$ |
+| $\lb{\mathrm{m}\mathrm{P}\mathrm{D}\mathrm{N}}$ | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{S}}\mathrm{D}}$ | - | $\lb{\mathrm{n}-}$ | P | $\lb{\mathrm{m}\mathrm{P}\mathrm{D}\mathrm{D}}$ | $\lb{\mathrm{P}\mathrm{m}\mathrm{P}-}$ | m | - | G | $\lb{\mathrm{m}\mathrm{G}}$ |
 | **sa** | **-** | **-** | **-** | **-** | **na** | **mo** | **-** | **rā** | **-** | **-** | **-** |
-| $G$ | $\lb{\sps{R}G}$ | $\lb{GR}$ | $\lb{S\mn{N}}$ | $S$ | $R$ | $\mn{N}$ | $S$ | $R$ | $G$ | $m$ | $P$ |
+| G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | $\lb{\mathrm{G}\mathrm{R}}$ | $\lb{\mathrm{S}\mn{\mathrm{N}}}$ | S | R | $\mn{\mathrm{N}}$ | S | R | G | m | P |
 | **su** | **nda** | **ra** | **s** | **ne** | **ha** | **la** | **gī** | **gha** | **ri** | **pa** | **la** |
-| $\lb{mPD-}$ | $\lb{\sps{m}P}$ | $m$ | $G$ | $\lb{m-}$ | $\lb{\sps{m}DP}$ | $m$ | $G$ | $\lb{\sps{R}G}$ | $\lb{\sps{R}SS}$ | $\mn{N}$ | $S$ |
+| $\lb{\mathrm{m}\mathrm{P}\mathrm{D}-}$ | $\lb{\sps{\mathrm{m}}\mathrm{P}}$ | m | G | $\lb{\mathrm{m}-}$ | $\lb{\sps{\mathrm{m}}\mathrm{D}\mathrm{P}}$ | m | G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | $\lb{\sps{\mathrm{R}}\mathrm{S}\mathrm{S}}$ | $\mn{\mathrm{N}}$ | S |
 | **chi** | **na** | **di** | **na** | **-** | **mori** | **na** | **i** | **la** | **ga** | **-** | **na** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .ektal}
 
 | **X** |   | **O** |   | **X** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $G$ | $m$ | $P$ | $P$ | $P$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ |
+| - | - | G | m | P | P | P | $\tr{\mathrm{S}}$ | N | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **-** | **-** | **jī** | **ya** | **kī** | **sa** | **ku** | **ca** | **-** | **-** | **ta** | **ji** |
-| $-$ | $-$ | $\lb{\sps{\tr{S}}N}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{S}\tr{R}-}$ | $\lb{\tr{S}N}$ | $S$ | $\lb{S-}$ | $\lb{Dn}$ | $P$ |
+| - | - | $\lb{\sps{\tr{\mathrm{S}}}\mathrm{N}}$ | N | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}\tr{\mathrm{R}}-}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | S | $\lb{\mathrm{S}-}$ | $\lb{\mathrm{D}\mathrm{n}}$ | P |
 | **-** | **-** | **pi** | **yā** | **sa** | **mi** | **la** | **na** | **kī** | **-** | **-** | **-** |
-| $-$ | $-$ | $G$ | $m$ | $P$ | $P$ | $P$ | $\tr{S}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ |
+| - | - | G | m | P | P | P | $\tr{\mathrm{S}}$ | N | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **-** | **-** | **jī** | **ya** | **kī** | **sa** | **ku** | **ca** | **-** | **-** | **ta** | **ji** |
-| $-$ | $-$ | $\lb{\sps{\tr{S}}N}$ | $N$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{S}\tr{R}-}$ | $\lb{\tr{S}N}$ | $S$ | $\lb{S-}$ | $\lb{Dn}$ | $P$ |
+| - | - | $\lb{\sps{\tr{\mathrm{S}}}\mathrm{N}}$ | N | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}\tr{\mathrm{R}}-}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | S | $\lb{\mathrm{S}-}$ | $\lb{\mathrm{D}\mathrm{n}}$ | P |
 | **-** | **-** | **pi** | **yā** | **so** | **mi** | **la** | **na** | **kī** | **-** | **-** | **-** |
-| $m$ | $P$ | $P$ | $\lb{mPDN}$ | $\tr{S}$ | $\lb{N\tr{S}}$ | $D$ | $P$ | $-$ | $\lb{mP}$ | $\lb{mPD-}$ | $\lb{\sps{P}DP}$ |
+| m | P | P | $\lb{\mathrm{m}\mathrm{P}\mathrm{D}\mathrm{N}}$ | $\tr{\mathrm{S}}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}}$ | D | P | - | $\lb{\mathrm{m}\mathrm{P}}$ | $\lb{\mathrm{m}\mathrm{P}\mathrm{D}-}$ | $\lb{\sps{\mathrm{P}}\mathrm{D}\mathrm{P}}$ |
 | **ne** | **ka** | **u** | **na** | **-** | **-** | **si** | **rā** | **-** | **-** | **-** | **ta** |
-| $m$ | $G$ | $\lb{mR}$ | $-$ | $G$ | $m$ | $P$ | $\tr{S}$ | $N$ | $\tr{S}$ | $D$ | $P$ |
+| m | G | $\lb{\mathrm{m}\mathrm{R}}$ | - | G | m | P | $\tr{\mathrm{S}}$ | N | $\tr{\mathrm{S}}$ | D | P |
 | **gā** | **-** | **ta** | **-** | **bā** | **ra** | **da** | **i** | **-** | **-** | **ta** | **na** |
-| $R$ | $R$ | $G$ | $m$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ |
+| R | R | G | m | - | - | - | - | - | - | - | - |
 | **ma** | **na** | **dha** | **na** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** |
 
 :::

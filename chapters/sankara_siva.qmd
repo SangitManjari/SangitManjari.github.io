@@ -1,7 +1,6 @@
 ---
 title: "Rāg Iman kalyāṇ"
 subtitle: "*śankara śiva pinākī*"
-description: "Composition by Budhaprakāś, in Suraphāktāl (Madhyalay)"
 format:
   html:
     page-layout: article
@@ -47,13 +46,13 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $\lb{PP}$ | $N$ | $D$ | $P$ | $M$ | $G$ | $P$ | $G$ | $-$ | $G$ |
+| $\lb{\mathrm{PP}}$ | N | D | P | M | G | P | G | - | G |
 | **śa** | **-** | **nka** | **ra** | **śi** | **va** | **pi** | **nā** | **-** | **kī** |
-| $R$ | $\lb{GR}$ | $G$ | $m$ | $G$ | $R$ | $\mn{N}$ | $R$ | $S$ | $S$ |
+| R | $\lb{\mathrm{GR}}$ | G | m | G | R | $\mn{\mathrm{N}}$ | R | S | S |
 | **ga** | **-** | **ngā** | **-** | **-** | **-** | **-** | **-** | **dha** | **ra** |
-| $\mn{N}$ | $S$ | $R$ | $G$ | $G$ | $-$ | $R$ | $\mn{N}$ | $R$ | $S$ |
+| $\mn{\mathrm{N}}$ | S | R | G | G | - | R | $\mn{\mathrm{N}}$ | R | S |
 | **vi** | **kha** | **dha** | **ra** | **vā** | **-** | **ma** | **de** | **-** | **va** |
-| $S$ | $\lb{GR}$ | $G$ | $m$ | $\lb{GR}$ | $G$ | $\lb{R\mn{N}}$ | $R$ | $S$ | $S$ |
+| S | $\lb{\mathrm{GR}}$ | G | m | $\lb{\mathrm{GR}}$ | G | $\lb{\mathrm{R}\mn{\mathrm{N}}}$ | R | S | S |
 | **ī** | **-** | **śva** | **ra** | **ḍa** | **ma** | **ru** | **-** | **ka** | **ra** |
 
 :::
@@ -64,17 +63,17 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $\lb{PM}$ | $D$ | $P$ | $\lb{\sps{P}\tr{S}}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ |
+| $\lb{\mathrm{PM}}$ | D | P | $\lb{\sps{\mathrm{P}}\tr{\mathrm{S}}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **bha** | **-** | **sma** | **a** | **-** | **nga** | **śo** | **-** | **bhi** | **ta** |
-| $\lb{\tr{S}N}$ | $\tr{S}$ | $\lb{\tr{G}\tr{R}}$ | $\tr{G}$ | $\tr{R}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $N$ | $D$ |
+| $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{G}}\tr{\mathrm{R}}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | N | D |
 | **bhu** | **ja** | **-** | **nga** | **bhā** | **-** | **la** | **ca** | **-** | **ndra** |
-| $\lb{PM}$ | $D$ | $P$ | $\lb{\sps{P}\tr{S}}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $\tr{S}$ |
+| $\lb{\mathrm{PM}}$ | D | P | $\lb{\sps{\mathrm{P}}\tr{\mathrm{S}}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **bha** | **-** | **sma** | **a** | **-** | **ṅga** | **śo** | **-** | **bhi** | **ta** |
-| $\lb{\tr{S}N}$ | $\tr{S}$ | $\lb{\tr{G}\tr{R}}$ | $\tr{G}$ | $\tr{R}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $N$ | $D$ |
+| $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{G}}\tr{\mathrm{R}}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | N | D |
 | **bhu** | **ja** | **-** | **ṅga** | **bhā** | **-** | **la** | **ca** | **-** | **ndra** |
-| $D$ | $\tr{R}$ | $\tr{S}$ | $N$ | $D$ | $N$ | $D$ | $P$ | $\lb{\sps{D}M}$ | $-$ |
+| D | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | N | D | N | D | P | $\lb{\sps{\mathrm{D}}\mathrm{M}}$ | - |
 | **śṛ** | **-** | **ngi** | **-** | **phu** | **-** | **ka** | **ta** | **hai** | **-** |
-| $G$ | $R$ | $G$ | $m$ | $G$ | $R$ | $\mn{N}$ | $R$ | $S$ | $S$ |
+| G | R | G | m | G | R | $\mn{\mathrm{N}}$ | R | S | S |
 | **bho** | **-** | **lā** | **-** | **di** | **-** | **ga** | **-** | **mba** | **ra** |
 
 :::
@@ -85,13 +84,13 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $G$ | $G$ | $P$ | $P$ | $P$ | $M$ | $D$ | $P$ | $P$ | $-$ |
+| G | G | P | P | P | M | D | P | P | - |
 | **ti** | **la** | **ka** | **la** | **lā** | **-** | **ṭa** | **ga** | **le** | **-** |
-| $D$ | $\tr{S}$ | $N$ | $D$ | $N$ | $D$ | $P$ | $D$ | $P$ | $M$ |
+| D | $\tr{\mathrm{S}}$ | N | D | N | D | P | D | P | M |
 | **ru** | **-** | **ṇdha** | **mā** | **-** | **la** | **tri** | **na** | **ya** | **na** |
-| $G$ | $R$ | $G$ | $m$ | $G$ | $R$ | $\mn{N}$ | $R$ | $S$ | $-$ |
+| G | R | G | m | G | R | $\mn{\mathrm{N}}$ | R | S | - |
 | **ba** | **ra** | **dā** | **-** | **tā** | **-** | **gau** | **-** | **rī** | **-** |
-| $G$ | $-$ | $P$ | $P$ | $\lb{PP}$ | $N$ | $D$ | $P$ | $P$ | $M$ |
+| G | - | P | P | $\lb{\mathrm{PP}}$ | N | D | P | P | M |
 | **sa** | **-** | **nga** | **tri** | **su** | **-** | **la** | **dha** | **ra** | **na** |
 
 :::
@@ -102,11 +101,11 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 | **X** |   |   |   | **2** |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $\lb{\sps{G}R}$ | $G$ | $\lb{\sps{P}M}$ | $D$ | $\lb{\sps{D}\tr{S}}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ |
+| $\lb{\sps{\mathrm{G}}\mathrm{R}}$ | G | $\lb{\sps{\mathrm{P}}\mathrm{M}}$ | D | $\lb{\sps{\mathrm{D}}\tr{\mathrm{S}}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ |
 | **pa** | **śū** | **pa** | **ti** | **vi** | **-** | **śva** | **nā** | **-** | **tha** |
-| $\tr{S}$ | $\lb{\tr{G}\tr{R}}$ | $\tr{G}$ | $\tr{m}$ | $\lb{\tr{G}\tr{R}}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $N$ | $D$ |
+| $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{G}}\tr{\mathrm{R}}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{m}}$ | $\lb{\tr{\mathrm{G}}\tr{\mathrm{R}}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | N | D |
 | **mṛ** | **-** | **tyu** | **-** | **nja** | **ya** | **ja** | **pa** | **ma** | **hā** |
-| $D$ | $\tr{R}$ | $\lb{\tr{S}N}$ | $D$ | $N$ | $D$ | $P$ | $M$ | $G$ | $M$ |
+| D | $\tr{\mathrm{R}}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | D | N | D | P | M | G | M |
 | **de** | **-** | **va** | **nā** | **-** | **ma** | **ha** | **ra** | **ha** | **ra** |
 
 :::

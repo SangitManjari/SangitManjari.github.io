@@ -1,7 +1,6 @@
 ---
 title: "Rāg Iman kalyāṇ"
 subtitle: "*śyāma ko daraśana*"
-description: "Composition by Śrī gopeśvara bandyopādhyāy, in Āḍācautāl (Madhyalay)"
 format:
   html:
     page-layout: article
@@ -39,15 +38,15 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 | **X** |   | **2** |   | **O** |   | **3** |   | **O** |   | **4** |   | **O** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $S$ | $-$ | $\tr{S}$ | $\tr{S}$ |
+| - | - | - | - | - | - | - | - | - | - | S | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **śyā** | **-** | **ma** | **ko** |
-| $N$ | $D$ | $M$ | $D$ | $P$ | $M$ | $R$ | $-$ | $G$ | $m$ | $G$ | $G$ | $R$ | $S$ |
+| N | D | M | D | P | M | R | - | G | m | G | G | R | S |
 | **da** | **ra** | **śa** | **na** | **na** | **hi** | **pā** | **-** | **yo** | **-** | **me** | **-** | **-** | **ro** |
-| $\lb{\sps{S}\mn{N}}$ | $R$ | $R$ | $-$ | $G$ | $G$ | $M$ | $G$ | $P$ | $P$ | $P$ | $P$ | $D$ | $-$ |
+| $\lb{\sps{\mathrm{S}}\mn{\mathrm{N}}}$ | R | R | - | G | G | M | G | P | P | P | P | D | - |
 | **ma** | **na** | **cha** | **-** | **nca** | **la** | **ho** | **-** | **-** | **ta** | **u** | **na** | **se** | **-** |
-| $P$ | $P$ | $P$ | $M$ | $G$ | $P$ | $P$ | $P$ | $\lb{\sps{P}N}$ | $D$ | $P$ | $M$ | $D$ | $P$ |
+| P | P | P | M | G | P | P | P | $\lb{\sps{\mathrm{P}}\mathrm{N}}$ | D | P | M | D | P |
 | **ja** | **ba** | **hi** | **-** | **-** | **-** | **mi** | **le** | **so** | **hi** | **di** | **-** | **-** | **na** |
-| $P$ | $R$ | $G$ | $m$ | $G$ | $R$ | $G$ | $\mn{N}$ | $R$ | $S$ | $-$ | $-$ | $-$ | $-$ |
+| P | R | G | m | G | R | G | $\mn{\mathrm{N}}$ | R | S | - | - | - | - |
 | **hi** | **-** | **su** | **di** | **-** | **-** | **-** | **-** | **-** | **-n** | **-** | **-** | **-** | **-** |
 
 :::
@@ -58,19 +57,19 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 | **X** |   | **2** |   | **O** |   | **3** |   | **O** |   | **4** |   | **O** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $-$ | $G$ | $P$ | $M$ | $D$ |
+| - | - | - | - | - | - | - | - | - | - | G | P | M | D |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **a** | **ba** | **hi** | **-** |
-| $P$ | $P$ | $N$ | $D$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ | $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $-$ |
+| P | P | N | D | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | - | $\lb{\sps{\tr{\mathrm{S}}}\mathrm{N}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{G}}$ | - |
 | **jā** | **-** | **-** | **-** | **-** | **ta** | **ḍhun** | **-** | **ḍhe** | **-** | **ya** | **mu** | **nā** | **-** |
-| $\tr{R}$ | $N$ | $\tr{R}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $-$ | $-$ | $G$ | $P$ | $M$ | $D$ |
+| $\tr{\mathrm{R}}$ | N | $\tr{\mathrm{R}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | - | - | G | P | M | D |
 | **-** | **-** | **-** | **-** | **ta** | **ṭa** | **ko** | **-** | **-** | **-** | **a** | **ba** | **hi** | **-** |
-| $P$ | $P$ | $N$ | $D$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\tr{S}$ | $-$ | $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $-$ |
+| P | P | N | D | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\tr{\mathrm{S}}$ | - | $\lb{\sps{\tr{\mathrm{S}}}\mathrm{N}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{G}}$ | - |
 | **jā** | **-** | **-** | **-** | **-** | **ta** | **ḍhun** | **-** | **ḍhe** | **-** | **ya** | **mu** | **nā** | **-** |
-| $\tr{R}$ | $N$ | $\tr{R}$ | $-$ | $\tr{S}$ | $\tr{S}$ | $\tr{S}$ | $-$ | $\lb{ND}$ | $N$ | $D$ | $D$ | $P$ | $P$ |
+| $\tr{\mathrm{R}}$ | N | $\tr{\mathrm{R}}$ | - | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | - | $\lb{\mathrm{ND}}$ | N | D | D | P | P |
 | **-** | **-** | **-** | **-** | **ta** | **ṭa** | **ko** | **-** | **u** | **na** | **-** | **-** | **bi** | **na** |
-| $P$ | $\lb{ND}$ | $\tr{R}$ | $\tr{S}$ | $N$ | $D$ | $M$ | $D$ | $P$ | $P$ | $\lb{\sps{P}N}$ | $D$ | $P$ | $P$ |
+| P | $\lb{\mathrm{ND}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | N | D | M | D | P | P | $\lb{\sps{\mathrm{P}}\mathrm{N}}$ | D | P | P |
 | **gha** | **ri** | **gha** | **ri** | **pa** | **la** | **-** | **-** | **chi** | **na** | **bha** | **va** | **na** | **ko** |
-| $P$ | $R$ | $G$ | $m$ | $G$ | $R$ | $\mn{N}$ | $R$ | $S$ | $S$ | $-$ | $-$ | $-$ | $-$ |
+| P | R | G | m | G | R | $\mn{\mathrm{N}}$ | R | S | S | - | - | - | - |
 | **na** | **-** | **hi** | **ra** | **ha** | **ta** | **-** | **-** | **ma** | **na** | **-** | **-** | **-** | **-** |
 
 :::

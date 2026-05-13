@@ -1,11 +1,17 @@
 ---
-title: "Rāg Iman kalyāṅ"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Iman kalyāṅ
+:::
+
 
 ## Songs in this collection
 
-----
 
 - [Baṅgari mori murakai](chapters/bangari_mori_murakai.qmd)
 

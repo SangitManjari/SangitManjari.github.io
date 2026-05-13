@@ -1,10 +1,15 @@
 ---
-title: "Rāg Śukla belāvalī"
-format: html
+format:
+  html:
+    toc: false
+    css: styles.css
 ---
+
+::: {style="text-align: center; margin-bottom: 40px;"}
+# Rāg Śukla belāvalī
+:::
 
 ## Songs in this collection
 
-----
 
 - [Jñāna raṅga dhyāna](chapters/jyana_ranga.qmd)

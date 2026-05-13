@@ -1,7 +1,6 @@
 ---
 title: "Rāg Iman kalyāṅ"
-subtitle: "*baṅgari mori murakai*"
-description: "Composition by Manaraṅga, in Ektāl (Madhyalay)"
+subtitle: "*Baṅgari mori murakai*"
 format:
   html:
     page-layout: article
@@ -37,36 +36,36 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 ## Sthāyī {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .cautal}
 
 | **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $P$ | $\lb{\sps{P}N}$ | $D$ | $P$ | $M$ | $\lb{Gm}$ | $G$ | $\lb{\sps{R}G}$ | $R$ | $S$ | $\mn{N}$ | $R$ |
+| P | $\lb{\sps{\mathrm{P}}\mathrm{N}}$ | D | P | M | $\lb{\mathrm{Gm}}$ | G | $\lb{\sps{\mathrm{R}}\mathrm{G}}$ | R | S | $\mn{\mathrm{N}}$ | R |
 | **ba** | **ṅga** | **ri** | **mo** | **ri** | **mu** | **ra** | **ka** | **i** | **ji** | **na** | **chu** |
-| $S$ | $-$ | $-$ | $-$ | $-$ | $-$ | $G$ | $G$ | $R$ | $\lb{\mn{N}R}$ | $\lb{SS}$ | $-$ |
+| S | - | - | - | - | - | G | G | R | $\lb{\mn{\mathrm{N}}\mathrm{R}}$ | $\lb{\mathrm{SS}}$ | - |
 | **o** | **-** | **-** | **-** | **-** | **-** | **la** | **ṅga** | **ra** | **vā** | **-** | **-** |
-| $S$ | $\mn{N}$ | $\mn{D}$ | $\mn{N}$ | $S$ | $S$ | $\lb{\sps{S}\mn{N}}$ | $R$ | $R$ | $\lb{\mn{N}R}$ | $\lb{SS}$ | $S$ |
+| S | $\mn{\mathrm{N}}$ | $\mn{\mathrm{D}}$ | $\mn{\mathrm{N}}$ | S | S | $\lb{\sps{\mathrm{S}}\mn{\mathrm{N}}}$ | R | R | $\lb{\mn{\mathrm{N}}\mathrm{R}}$ | $\lb{\mathrm{SS}}$ | S |
 | **ka** | **ra** | **ke** | **ka** | **lā** | **i** | **ḍa** | **ra** | **na** | **lā** | **-** | **gī** |
-| $\lb{\sps{S}\mn{N}}$ | $R$ | $R$ | $\mn{N}$ | $R$ | $G$ | $G$ | $G$ | $\lb{\sps{P}M}$ | $R$ | $G$ | $M$ |
+| $\lb{\sps{\mathrm{S}}\mn{\mathrm{N}}}$ | R | R | $\mn{\mathrm{N}}$ | R | G | G | G | $\lb{\sps{\mathrm{P}}\mathrm{M}}$ | R | G | M |
 | **ni** | **bha** | **ra** | **ḍa** | **ra** | **je** | **ṭhā** | **nī** | **de** | **ta** | **gā** | **rī** |
 
 :::
 
 ## Antarā {.unnumbered}
 
-::: {.notation-table}
+::: {.notation-table .cautal}
 
 | **X** |   | **O** |   | **2** |   | **O** |   | **3** |   | **4** |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| $G$ | $G$ | $\lb{MD}$ | $\lb{N\tr{S}}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{\sps{\tr{R}}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $D$ | $\tr{S}$ | $\tr{S}$ |
+| G | G | $\lb{\mathrm{MD}}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}}$ | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\lb{\sps{\tr{\mathrm{R}}}\tr{\mathrm{S}}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | D | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **sa** | **ṅga** | **ke** | **-** | **lu** | **gā** | **i** | **-** | **-** | **-** | **sa** | **ba** |
-| $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{R}}$ | $\lb{\tr{S}\tr{S}}$ | $\lb{ND}$ | $N$ | $\lb{DP}$ | $P$ |
+| $\lb{\sps{\tr{\mathrm{S}}}\mathrm{N}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\lb{\mathrm{N}\tr{\mathrm{R}}}$ | $\lb{\tr{\mathrm{S}}\tr{\mathrm{S}}}$ | $\lb{\mathrm{ND}}$ | N | $\lb{\mathrm{DP}}$ | P |
 | **dū** | **ra** | **mu** | **ra** | **mu** | **sa** | **kā** | **-** | **ya** | **ga** | **i** | **-** |
-| $G$ | $G$ | $\lb{MD}$ | $\lb{N\tr{S}}$ | $\tr{S}$ | $\lb{\tr{S}N}$ | $\lb{\sps{\tr{R}}\tr{S}}$ | $\tr{S}$ | $\tr{S}$ | $D$ | $\tr{S}$ | $\tr{S}$ |
+| G | G | $\lb{\mathrm{MD}}$ | $\lb{\mathrm{N}\tr{\mathrm{S}}}$ | $\tr{\mathrm{S}}$ | $\lb{\tr{\mathrm{S}}\mathrm{N}}$ | $\lb{\sps{\tr{\mathrm{R}}}\tr{\mathrm{S}}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | D | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ |
 | **sa** | **ṅga** | **ke** | **-** | **lu** | **gā** | **i** | **-** | **-** | **-** | **sa** | **ba** |
-| $\lb{\sps{\tr{S}}N}$ | $\tr{R}$ | $\tr{G}$ | $\tr{R}$ | $\tr{S}$ | $\tr{S}$ | $\lb{N\tr{R}}$ | $\lb{\tr{S}\tr{S}}$ | $\lb{ND}$ | $N$ | $\lb{DP}$ | $P$ |
+| $\lb{\sps{\tr{\mathrm{S}}}\mathrm{N}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{G}}$ | $\tr{\mathrm{R}}$ | $\tr{\mathrm{S}}$ | $\tr{\mathrm{S}}$ | $\lb{\mathrm{N}\tr{\mathrm{R}}}$ | $\lb{\tr{\mathrm{S}}\tr{\mathrm{S}}}$ | $\lb{\mathrm{ND}}$ | N | $\lb{\mathrm{DP}}$ | P |
 | **dū** | **ra** | **mu** | **ra** | **mu** | **sa** | **kā** | **-** | **ya** | **ga** | **i** | **-** |
-| $\lb{PM}$ | $D$ | $D$ | $\lb{\tr{S}\tr{S}}$ | $\lb{NN}$ | $D$ | $P$ | $-$ | $\lb{PD}$ | $\lb{PP}$ | $\lb{MG}$ | $M$ |
+| $\lb{\mathrm{PM}}$ | D | D | $\lb{\tr{\mathrm{S}}\tr{\mathrm{S}}}$ | $\lb{\mathrm{NN}}$ | D | P | - | $\lb{\mathrm{PD}}$ | $\lb{\mathrm{PP}}$ | $\lb{\mathrm{MG}}$ | M |
 | **ka** | **ra** | **ke** | **pha** | **-** | **ra** | **ka** | **-** | **e** | **-** | **rī** | **-** |
 
 :::

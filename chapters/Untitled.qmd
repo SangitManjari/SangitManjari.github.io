@@ -1,6 +1,7 @@
 ---
 title: "Rāg Iman kalyaṅ"
-subtitle: "*Caturaṅga rasa sana*"
+subtitle: "*caturaṅga rasa sana*"
+description: "Composition by Sadāraṅga, in Jaladtetālā (Madhyalay)"
 format:
   html:
     page-layout: article
@@ -49,11 +50,11 @@ Jaladtetālā (drut Tintāl) is a 16-beat cycle divided as **4 + 4 + 4 + 4** (vi
 The sargam row gives the notes; the bold text row below it gives the lyrics syllables. A dash **-** indicates a held note or empty beat. Brackets $\lb{\cdot}$ denote meend (glide) or grouped notes; superscripts $\sps{\cdot}$ indicate the starting grace note of a glide; $\tr{X}$ denotes a note in the upper octave (tār saptak); $\mn{X}$ denotes a note in the lower octave (mandra saptak).
 :::
 
-## Sthāyī {.unnumbered .tintal}
+## Sthāyī {.unnumbered}
 
 ::: {.notation-table}
 
-| **X** |   | **2** |   | **O** |   | **3** |   | **X** |   | **2** |   | **O** |   | **3** |   |
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | - | - | - | - | - | - | - | - | D | D | D | D | P | M | G | P |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **ca** | **tu** | **ra** | **ṅga** | **ra** | **sa** | **sa** | **na** |
@@ -76,11 +77,11 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 :::
 
-## Antarā {.unnumbered .tintal}
+## Antarā {.unnumbered}
 
 ::: {.notation-table}
 
-| **X** |   | **2** |   | **O** |   | **3** |   | **X** |   | **2** |   | **O** |   | **3** |   |
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | - | - | - | - | - | - | - | - | S | R | S | R | G | G | R | G |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **sā** | **re** | **sā** | **re** | **gā** | **gā** | **re** | **gā** |
@@ -93,11 +94,11 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 :::
 
-## Sanchārī {.unnumbered .tintal}
+## Sanchārī {.unnumbered}
 
 ::: {.notation-table}
 
-| **X** |   | **2** |   | **O** |   | **3** |   | **X** |   | **2** |   | **O** |   | **3** |   |
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | - | - | - | - | - | - | - | - | - | - | - | - | G | G | G | P |
 | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **-** | **nā** | **der** | **der** | **dā** |
@@ -114,11 +115,11 @@ The sargam row gives the notes; the bold text row below it gives the lyrics syll
 
 :::
 
-## Ābhog {.unnumbered .tintal}
+## Ābhog {.unnumbered}
 
 ::: {.notation-table}
 
-| **X** |   | **2** |   | **O** |   | **3** |   | **X** |   | **2** |   | **O** |   | **3** |   |
+| **X** |   |   |   | **2** |   |   |   | **O** |   |   |   | **3** |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | - | - | - | - | S | S | S | - | G | R | G | - | G | G | P | P |
 | **-** | **-** | **-** | **-** | **dṛ** | **gi** | **toma** | **-** | **dṛ** | **gi** | **toma** | **-** | **dṛ** | **mi** | **ke** | **ṭe** |
