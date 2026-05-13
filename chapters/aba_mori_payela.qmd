@@ -3,7 +3,8 @@ title: "Rāg Āḍānā"
 subtitle: "*Aba mori pāyelā*"
 format:
   html:
-    page-layout: article
+    toc: false
+    page-layout: full
 ---
 
 ::: {.composer-info}
